@@ -1,0 +1,2501 @@
+name,location,listed_in(type),online_order,votes,rate,approx_cost(for two people)
+Urban Kitchen 1,TT Nagar,Casual Dining,Yes,184,3.5,450
+Urban Hub 2,Arera Colony,Casual Dining,Yes,181,3.6,950
+Green Hub 3,MP Nagar,Dining,No,222,4.1,300
+Saffron Dine 4,Kolar Road,Cafe,Yes,232,3.5,400
+Tandoor Dine 5,Bairagarh,Dining,Yes,102,4.0,850
+Saffron Cafe 6,Bairagarh,Dining,Yes,401,3.9,650
+Green Cafe 7,Arera Colony,Quick Bites,Yes,193,4.2,250
+Saffron Corner 8,Indrapuri,Dining,No,266,3.4,650
+Blue Cafe 9,Bairagarh,Cafe,Yes,185,3.6,400
+Green Dine 10,Arera Colony,Buffet,No,58,4.2,1000
+Urban House 11,Bairagarh,Buffet,No,130,3.5,1100
+Fusion Bistro 12,Kolar Road,Desserts,Yes,230,3.9,300
+Saffron Hub 13,Kolar Road,Casual Dining,Yes,140,3.9,450
+Urban Bistro 14,TT Nagar,Dining,Yes,428,3.7,350
+Saffron Treats 15,Bairagarh,Desserts,Yes,181,4.2,150
+Urban Corner 16,TT Nagar,Casual Dining,Yes,220,3.8,800
+Blue Bistro 17,Bairagarh,Dining,No,400,3.5,800
+Green Bistro 18,Kolar Road,Quick Bites,No,45,3.8,350
+Urban Dine 19,Kolar Road,Dining,Yes,203,4.2,400
+Fusion Cafe 20,Bairagarh,Dining,No,145,3.9,850
+Blue Hub 21,MP Nagar,Cafe,No,162,4.2,400
+Tandoor Treats 22,Bairagarh,Casual Dining,No,196,3.5,700
+Green House 23,Arera Colony,Dining,Yes,403,3.3,350
+Tandoor Cafe 24,Bairagarh,Dining,Yes,422,3.7,850
+Fusion House 25,Indrapuri,Cafe,No,157,3.5,550
+Tandoor Hub 26,Indrapuri,Desserts,Yes,226,3.4,500
+Urban Kitchen 27,Indrapuri,Casual Dining,No,125,3.6,550
+Fusion Bistro 28,Indrapuri,Quick Bites,Yes,281,3.4,150
+Urban Kitchen 29,TT Nagar,Desserts,No,43,4.4,250
+Saffron Treats 30,Indrapuri,Cafe,Yes,265,4.4,300
+Spice Hub 31,Kolar Road,Desserts,No,240,3.8,350
+Fusion Bistro 32,MP Nagar,Casual Dining,Yes,99,3.9,900
+Tandoor Kitchen 33,Arera Colony,Dining,No,337,4.2,850
+Spice Cafe 34,MP Nagar,Cafe,Yes,94,4.1,300
+Urban House 35,Bairagarh,Desserts,Yes,198,3.4,500
+Tandoor Corner 36,MP Nagar,Quick Bites,Yes,205,3.4,300
+Blue Treats 37,Kolar Road,Cafe,No,97,3.4,500
+Urban Cafe 38,Bairagarh,Quick Bites,Yes,180,3.2,300
+Green Dine 39,Kolar Road,Dining,Yes,358,4.0,850
+Blue Cafe 40,MP Nagar,Dining,Yes,134,4.0,450
+Blue House 41,TT Nagar,Buffet,No,225,4.0,850
+Fusion Corner 42,Arera Colony,Quick Bites,Yes,261,4.0,150
+Tandoor Bistro 43,TT Nagar,Dining,No,162,4.0,850
+Saffron Kitchen 44,Arera Colony,Casual Dining,Yes,146,3.9,750
+Royal Hub 45,MP Nagar,Quick Bites,Yes,231,4.1,150
+Green House 46,TT Nagar,Buffet,Yes,249,3.9,1000
+Royal House 47,MP Nagar,Quick Bites,No,135,4.1,150
+Tandoor Hub 48,TT Nagar,Cafe,No,187,3.7,550
+Saffron Kitchen 49,Indrapuri,Dining,Yes,315,3.6,550
+Spice House 50,Indrapuri,Cafe,Yes,95,4.5,350
+Saffron Dine 51,Arera Colony,Buffet,Yes,116,3.5,850
+Urban Hub 52,Kolar Road,Dining,No,240,3.7,800
+Saffron House 53,Kolar Road,Dining,Yes,303,3.2,850
+Green Dine 54,Indrapuri,Casual Dining,Yes,239,4.0,500
+Blue Corner 55,TT Nagar,Casual Dining,Yes,276,4.1,900
+Green Hub 56,TT Nagar,Cafe,No,149,4.1,350
+Spice Corner 57,Kolar Road,Desserts,Yes,241,3.9,500
+Fusion Treats 58,Indrapuri,Buffet,No,180,3.8,1350
+Urban Corner 59,Bairagarh,Cafe,Yes,231,3.5,600
+Blue House 60,MP Nagar,Cafe,Yes,83,3.7,450
+Urban Treats 61,Indrapuri,Quick Bites,No,144,3.9,300
+Saffron House 62,MP Nagar,Desserts,No,41,4.3,200
+Green Bistro 63,TT Nagar,Desserts,Yes,52,3.9,200
+Royal Treats 64,TT Nagar,Desserts,Yes,183,4.0,400
+Saffron Treats 65,MP Nagar,Quick Bites,No,288,3.6,250
+Blue Treats 66,TT Nagar,Casual Dining,Yes,295,3.4,650
+Blue Dine 67,Kolar Road,Cafe,No,101,3.6,300
+Royal House 68,Arera Colony,Desserts,Yes,124,3.9,350
+Green Hub 69,Indrapuri,Dining,No,379,4.2,300
+Saffron Treats 70,Arera Colony,Quick Bites,No,197,3.9,350
+Green Treats 71,MP Nagar,Quick Bites,Yes,293,3.1,300
+Saffron Bistro 72,Indrapuri,Casual Dining,No,343,3.3,750
+Spice Cafe 73,TT Nagar,Quick Bites,Yes,281,3.3,250
+Tandoor House 74,Indrapuri,Desserts,Yes,234,4.3,300
+Blue Cafe 75,Indrapuri,Desserts,Yes,178,3.4,350
+Urban Kitchen 76,Arera Colony,Cafe,No,162,4.3,500
+Green Bistro 77,Indrapuri,Cafe,Yes,171,3.9,350
+Royal Cafe 78,MP Nagar,Buffet,No,77,3.9,900
+Saffron Hub 79,TT Nagar,Quick Bites,Yes,169,3.2,250
+Urban Kitchen 80,Kolar Road,Casual Dining,No,259,3.4,700
+Saffron Treats 81,Arera Colony,Dining,No,265,3.9,750
+Royal Hub 82,MP Nagar,Casual Dining,No,208,4.0,900
+Fusion Hub 83,TT Nagar,Desserts,Yes,122,4.2,200
+Fusion House 84,Indrapuri,Buffet,No,221,3.7,650
+Tandoor Bistro 85,Indrapuri,Desserts,Yes,244,3.6,300
+Blue Kitchen 86,Bairagarh,Quick Bites,No,88,3.4,350
+Green Treats 87,TT Nagar,Desserts,No,154,4.2,200
+Green Hub 88,TT Nagar,Buffet,No,219,3.9,1100
+Tandoor Hub 89,TT Nagar,Quick Bites,Yes,225,3.9,250
+Blue House 90,Arera Colony,Buffet,No,130,3.4,1150
+Royal House 91,MP Nagar,Casual Dining,No,211,4.1,900
+Blue Cafe 92,MP Nagar,Quick Bites,Yes,229,3.3,150
+Royal Corner 93,Arera Colony,Casual Dining,No,353,3.6,500
+Fusion Cafe 94,Arera Colony,Casual Dining,No,310,3.8,700
+Spice Corner 95,Indrapuri,Cafe,Yes,93,3.8,250
+Spice Bistro 96,MP Nagar,Quick Bites,No,200,3.2,250
+Saffron House 97,Bairagarh,Dining,No,306,3.5,750
+Spice Cafe 98,MP Nagar,Buffet,No,117,4.0,750
+Royal Cafe 99,MP Nagar,Cafe,Yes,290,4.2,450
+Spice House 100,Kolar Road,Buffet,No,229,4.2,650
+Green Corner 101,TT Nagar,Casual Dining,No,171,3.8,900
+Royal Corner 102,MP Nagar,Cafe,Yes,144,4.3,500
+Blue Treats 103,Arera Colony,Casual Dining,No,225,4.1,650
+Fusion Treats 104,Arera Colony,Quick Bites,Yes,266,3.9,450
+Spice Cafe 105,MP Nagar,Buffet,No,264,4.2,1200
+Blue Kitchen 106,MP Nagar,Dining,No,413,3.7,600
+Saffron Treats 107,Arera Colony,Cafe,Yes,269,3.8,550
+Royal Dine 108,Indrapuri,Dining,No,227,3.9,700
+Spice Treats 109,Arera Colony,Quick Bites,Yes,210,3.2,350
+Spice Treats 110,Indrapuri,Quick Bites,Yes,230,3.8,400
+Fusion Kitchen 111,MP Nagar,Casual Dining,Yes,137,4.3,800
+Fusion Cafe 112,Arera Colony,Casual Dining,No,192,4.1,650
+Spice Hub 113,Arera Colony,Quick Bites,Yes,103,3.6,200
+Royal Treats 114,TT Nagar,Casual Dining,Yes,209,3.8,850
+Green Treats 115,Bairagarh,Desserts,Yes,88,4.3,400
+Royal Cafe 116,Kolar Road,Casual Dining,No,282,3.7,850
+Spice Corner 117,TT Nagar,Buffet,No,200,3.9,1300
+Royal Treats 118,Bairagarh,Desserts,Yes,125,3.9,450
+Fusion Dine 119,MP Nagar,Desserts,No,101,3.9,250
+Spice Dine 120,TT Nagar,Desserts,Yes,247,3.7,500
+Royal Treats 121,Arera Colony,Casual Dining,Yes,372,3.7,450
+Urban Treats 122,Arera Colony,Desserts,No,144,4.3,250
+Fusion Corner 123,Kolar Road,Dining,No,283,3.9,650
+Saffron Dine 124,TT Nagar,Casual Dining,No,319,4.3,400
+Urban House 125,TT Nagar,Quick Bites,Yes,192,4.2,150
+Urban Cafe 126,Indrapuri,Desserts,Yes,116,4.3,150
+Spice Corner 127,Kolar Road,Buffet,No,87,3.6,1000
+Royal Bistro 128,MP Nagar,Quick Bites,Yes,240,3.8,250
+Royal House 129,Indrapuri,Desserts,Yes,157,3.6,150
+Blue Bistro 130,Arera Colony,Desserts,Yes,128,4.4,300
+Saffron Corner 131,Indrapuri,Casual Dining,No,171,4.4,850
+Green Hub 132,Bairagarh,Dining,No,231,4.3,600
+Saffron Corner 133,Arera Colony,Dining,No,431,4.1,350
+Fusion Corner 134,MP Nagar,Quick Bites,Yes,225,3.3,200
+Blue Bistro 135,TT Nagar,Quick Bites,Yes,65,3.4,350
+Tandoor Bistro 136,Arera Colony,Dining,No,247,4.0,500
+Royal Dine 137,Bairagarh,Cafe,Yes,199,4.3,350
+Blue Dine 138,Arera Colony,Desserts,Yes,59,3.5,250
+Saffron Dine 139,Arera Colony,Casual Dining,No,77,3.6,500
+Tandoor Corner 140,Bairagarh,Desserts,Yes,203,4.3,200
+Green Treats 141,Arera Colony,Casual Dining,No,357,3.7,950
+Urban Treats 142,TT Nagar,Cafe,Yes,269,3.5,200
+Blue Treats 143,Arera Colony,Dining,Yes,355,3.3,750
+Saffron Bistro 144,Indrapuri,Buffet,No,263,3.8,1000
+Spice Dine 145,MP Nagar,Buffet,No,110,4.2,700
+Tandoor Dine 146,Arera Colony,Casual Dining,Yes,167,4.4,800
+Green Kitchen 147,Arera Colony,Dining,No,204,4.3,900
+Urban House 148,Bairagarh,Cafe,Yes,179,3.8,300
+Spice Corner 149,MP Nagar,Quick Bites,No,173,4.0,200
+Spice Bistro 150,Arera Colony,Casual Dining,Yes,191,3.9,350
+Blue Kitchen 151,MP Nagar,Cafe,Yes,118,4.2,450
+Tandoor Cafe 152,Indrapuri,Desserts,Yes,197,3.3,500
+Blue Treats 153,TT Nagar,Quick Bites,No,76,4.2,300
+Urban Treats 154,TT Nagar,Desserts,No,58,4.3,300
+Royal Cafe 155,MP Nagar,Quick Bites,Yes,211,3.5,400
+Blue Treats 156,Bairagarh,Quick Bites,Yes,95,4.0,200
+Green Hub 157,Indrapuri,Casual Dining,No,281,3.7,800
+Saffron Cafe 158,Kolar Road,Desserts,Yes,210,3.6,250
+Fusion Cafe 159,Arera Colony,Casual Dining,No,117,3.8,750
+Spice Dine 160,TT Nagar,Cafe,Yes,241,4.4,600
+Spice Corner 161,Bairagarh,Desserts,Yes,66,3.9,250
+Fusion House 162,Arera Colony,Cafe,Yes,248,3.5,350
+Green Hub 163,Bairagarh,Quick Bites,No,58,3.8,250
+Royal Corner 164,TT Nagar,Dining,No,253,3.6,500
+Saffron Cafe 165,MP Nagar,Cafe,Yes,75,3.5,450
+Saffron Hub 166,Indrapuri,Cafe,Yes,249,3.7,350
+Urban Kitchen 167,MP Nagar,Quick Bites,Yes,70,3.8,250
+Saffron Treats 168,Bairagarh,Desserts,Yes,109,3.5,400
+Tandoor Hub 169,Arera Colony,Dining,Yes,427,3.9,850
+Blue Kitchen 170,MP Nagar,Casual Dining,Yes,376,3.4,550
+Green Bistro 171,Kolar Road,Buffet,No,80,3.3,1350
+Royal Bistro 172,Indrapuri,Desserts,Yes,98,3.9,500
+Urban Hub 173,TT Nagar,Buffet,Yes,54,3.8,700
+Saffron Hub 174,TT Nagar,Buffet,No,124,3.4,600
+Royal Treats 175,TT Nagar,Buffet,No,72,3.8,700
+Saffron Hub 176,Bairagarh,Cafe,Yes,218,4.2,300
+Royal Cafe 177,Bairagarh,Buffet,No,185,3.9,1400
+Tandoor Bistro 178,MP Nagar,Buffet,Yes,115,3.5,1200
+Urban Bistro 179,TT Nagar,Cafe,Yes,289,4.1,500
+Tandoor Dine 180,MP Nagar,Casual Dining,Yes,310,3.8,650
+Spice Dine 181,Bairagarh,Buffet,Yes,168,3.8,650
+Blue Cafe 182,TT Nagar,Buffet,No,268,3.4,1200
+Saffron Treats 183,Bairagarh,Quick Bites,Yes,66,3.6,400
+Green Dine 184,Bairagarh,Casual Dining,No,147,4.4,800
+Tandoor Cafe 185,Bairagarh,Dining,No,100,3.5,750
+Royal Dine 186,Kolar Road,Desserts,No,139,3.7,300
+Spice Dine 187,Arera Colony,Casual Dining,Yes,355,4.0,650
+Royal Dine 188,Arera Colony,Buffet,No,86,4.3,900
+Saffron Bistro 189,Bairagarh,Casual Dining,No,113,3.6,750
+Tandoor Bistro 190,TT Nagar,Casual Dining,No,339,3.4,800
+Tandoor Kitchen 191,Kolar Road,Quick Bites,Yes,154,3.5,350
+Green Bistro 192,MP Nagar,Cafe,Yes,111,4.0,500
+Spice Dine 193,Bairagarh,Casual Dining,Yes,262,3.5,550
+Royal Treats 194,Arera Colony,Casual Dining,Yes,191,4.4,1000
+Fusion House 195,Bairagarh,Buffet,No,257,4.2,800
+Fusion Treats 196,Kolar Road,Buffet,No,178,3.9,750
+Royal Corner 197,Arera Colony,Cafe,Yes,250,4.0,250
+Urban Corner 198,Arera Colony,Casual Dining,No,209,3.8,900
+Saffron Cafe 199,MP Nagar,Cafe,No,238,4.4,400
+Saffron Dine 200,MP Nagar,Dining,No,121,3.6,350
+Urban Dine 201,MP Nagar,Buffet,Yes,123,4.3,1100
+Royal Treats 202,Indrapuri,Casual Dining,No,110,3.3,550
+Saffron Cafe 203,Kolar Road,Cafe,Yes,122,3.5,400
+Fusion Cafe 204,Arera Colony,Casual Dining,No,325,4.0,350
+Green Bistro 205,Kolar Road,Casual Dining,Yes,250,3.6,800
+Urban Dine 206,Arera Colony,Cafe,No,319,4.3,450
+Spice Hub 207,Indrapuri,Quick Bites,Yes,243,4.2,250
+Spice Dine 208,Arera Colony,Casual Dining,Yes,123,4.1,700
+Spice Dine 209,Bairagarh,Cafe,Yes,149,4.3,550
+Fusion Bistro 210,MP Nagar,Desserts,Yes,238,4.3,150
+Green Kitchen 211,MP Nagar,Buffet,No,130,4.3,1150
+Fusion Corner 212,Arera Colony,Desserts,No,88,3.6,150
+Tandoor Corner 213,Arera Colony,Casual Dining,No,293,4.3,800
+Tandoor Bistro 214,Indrapuri,Desserts,No,134,4.3,400
+Urban Hub 215,Arera Colony,Buffet,No,260,3.5,900
+Urban Cafe 216,Kolar Road,Buffet,No,128,3.8,1350
+Royal Treats 217,Kolar Road,Desserts,Yes,226,4.3,350
+Saffron Corner 218,TT Nagar,Quick Bites,No,74,3.2,450
+Tandoor Bistro 219,Arera Colony,Desserts,Yes,195,4.0,350
+Royal Cafe 220,MP Nagar,Dining,No,267,3.6,900
+Royal Treats 221,Kolar Road,Dining,No,119,3.8,850
+Saffron Dine 222,TT Nagar,Buffet,No,79,3.3,800
+Saffron Cafe 223,Kolar Road,Desserts,No,220,3.8,450
+Fusion House 224,Arera Colony,Buffet,Yes,68,3.8,1350
+Urban Dine 225,TT Nagar,Desserts,Yes,56,3.9,300
+Royal Bistro 226,Kolar Road,Buffet,No,81,4.4,750
+Fusion Kitchen 227,Kolar Road,Cafe,Yes,248,3.9,500
+Urban Cafe 228,Kolar Road,Cafe,Yes,305,4.0,600
+Urban Bistro 229,Kolar Road,Desserts,Yes,155,3.8,400
+Royal Bistro 230,MP Nagar,Buffet,No,272,3.4,750
+Royal Corner 231,MP Nagar,Quick Bites,Yes,160,3.5,400
+Urban Corner 232,MP Nagar,Buffet,No,191,3.6,1250
+Urban Bistro 233,Bairagarh,Buffet,No,89,3.5,1250
+Tandoor Kitchen 234,Arera Colony,Casual Dining,Yes,365,3.6,550
+Saffron Kitchen 235,Indrapuri,Quick Bites,No,193,3.8,250
+Green Hub 236,Kolar Road,Desserts,Yes,216,3.4,400
+Fusion Treats 237,MP Nagar,Desserts,Yes,76,3.6,300
+Tandoor Hub 238,MP Nagar,Casual Dining,No,333,3.9,700
+Fusion Cafe 239,Kolar Road,Cafe,Yes,132,3.5,350
+Saffron House 240,MP Nagar,Desserts,No,187,4.1,250
+Fusion Treats 241,Indrapuri,Cafe,No,314,3.4,400
+Fusion House 242,MP Nagar,Quick Bites,Yes,69,3.2,350
+Fusion Corner 243,Bairagarh,Quick Bites,Yes,100,3.6,250
+Tandoor Hub 244,Kolar Road,Casual Dining,Yes,96,3.9,550
+Blue Cafe 245,Indrapuri,Buffet,No,245,3.9,1250
+Urban Bistro 246,Arera Colony,Casual Dining,Yes,243,3.9,700
+Green Hub 247,Bairagarh,Cafe,Yes,79,3.6,350
+Fusion Bistro 248,Bairagarh,Desserts,No,75,3.7,450
+Royal Hub 249,Bairagarh,Buffet,No,126,4.0,1100
+Fusion Corner 250,Indrapuri,Quick Bites,No,233,3.5,200
+Blue Kitchen 251,Bairagarh,Desserts,Yes,207,4.2,450
+Green Kitchen 252,Bairagarh,Quick Bites,Yes,239,3.3,250
+Urban House 253,Arera Colony,Dining,No,294,3.4,500
+Fusion Kitchen 254,TT Nagar,Desserts,Yes,93,3.9,500
+Saffron Dine 255,MP Nagar,Desserts,Yes,176,3.7,350
+Blue Treats 256,MP Nagar,Casual Dining,No,212,3.9,600
+Blue House 257,TT Nagar,Buffet,No,131,3.8,1150
+Blue Corner 258,Arera Colony,Casual Dining,No,348,3.7,750
+Royal Corner 259,Arera Colony,Buffet,No,232,3.4,1050
+Blue Treats 260,MP Nagar,Casual Dining,Yes,345,3.6,900
+Blue Bistro 261,Arera Colony,Casual Dining,No,370,3.6,400
+Green House 262,Arera Colony,Casual Dining,Yes,239,4.1,450
+Royal Kitchen 263,Bairagarh,Casual Dining,No,150,3.7,850
+Green Corner 264,Kolar Road,Desserts,Yes,55,4.3,200
+Green Kitchen 265,MP Nagar,Casual Dining,Yes,160,4.3,400
+Fusion Bistro 266,TT Nagar,Desserts,No,114,4.3,150
+Urban Dine 267,Kolar Road,Buffet,No,214,3.9,1100
+Fusion Corner 268,MP Nagar,Cafe,No,229,3.6,450
+Blue Bistro 269,Arera Colony,Casual Dining,No,221,3.9,550
+Saffron Hub 270,Bairagarh,Cafe,Yes,265,4.1,300
+Fusion Dine 271,MP Nagar,Cafe,Yes,256,3.7,600
+Tandoor Corner 272,Bairagarh,Buffet,No,52,3.6,950
+Green Kitchen 273,TT Nagar,Casual Dining,Yes,227,3.5,850
+Blue Cafe 274,TT Nagar,Casual Dining,No,221,3.7,600
+Royal Treats 275,MP Nagar,Cafe,Yes,251,3.9,500
+Green House 276,TT Nagar,Desserts,No,241,3.4,400
+Tandoor Cafe 277,Bairagarh,Quick Bites,Yes,148,3.7,200
+Tandoor Treats 278,Arera Colony,Cafe,Yes,310,3.5,450
+Spice Treats 279,MP Nagar,Desserts,Yes,156,3.9,450
+Blue Kitchen 280,Indrapuri,Desserts,Yes,40,4.1,450
+Spice Hub 281,Kolar Road,Dining,No,357,4.3,350
+Spice Corner 282,Indrapuri,Desserts,Yes,74,4.1,500
+Tandoor Hub 283,Indrapuri,Desserts,No,136,3.7,500
+Royal Dine 284,Arera Colony,Casual Dining,Yes,345,3.7,500
+Green Kitchen 285,Arera Colony,Casual Dining,No,307,4.0,900
+Saffron House 286,MP Nagar,Desserts,Yes,79,3.6,200
+Saffron Kitchen 287,MP Nagar,Dining,Yes,131,3.9,750
+Spice House 288,TT Nagar,Quick Bites,Yes,269,3.4,250
+Royal Corner 289,MP Nagar,Dining,No,374,3.6,650
+Blue Bistro 290,TT Nagar,Cafe,Yes,271,3.7,250
+Royal Hub 291,Bairagarh,Quick Bites,Yes,221,4.1,300
+Tandoor Hub 292,Indrapuri,Quick Bites,Yes,237,3.3,400
+Green House 293,Kolar Road,Desserts,No,76,4.2,200
+Saffron Hub 294,Bairagarh,Quick Bites,Yes,243,3.4,200
+Urban Treats 295,Kolar Road,Buffet,Yes,235,4.2,650
+Saffron Kitchen 296,Arera Colony,Buffet,Yes,244,3.9,1300
+Green Treats 297,MP Nagar,Quick Bites,No,215,3.4,150
+Green Cafe 298,TT Nagar,Cafe,No,305,4.4,550
+Green Hub 299,MP Nagar,Quick Bites,Yes,189,3.5,400
+Tandoor Corner 300,Kolar Road,Casual Dining,Yes,324,3.8,850
+Green Dine 301,Kolar Road,Buffet,No,194,4.3,1350
+Spice Corner 302,Bairagarh,Cafe,No,273,3.7,300
+Green Hub 303,Bairagarh,Buffet,No,177,3.9,1300
+Blue Treats 304,TT Nagar,Buffet,No,175,3.8,1350
+Royal Bistro 305,TT Nagar,Buffet,No,97,4.3,1150
+Spice Kitchen 306,Arera Colony,Casual Dining,No,94,4.1,750
+Green Cafe 307,TT Nagar,Cafe,Yes,171,4.0,400
+Fusion Treats 308,Arera Colony,Dining,Yes,362,3.7,300
+Blue Corner 309,Arera Colony,Quick Bites,Yes,265,4.0,200
+Urban Bistro 310,MP Nagar,Dining,Yes,349,3.5,650
+Saffron Cafe 311,Kolar Road,Buffet,No,167,3.9,1300
+Blue Cafe 312,TT Nagar,Cafe,No,76,3.5,400
+Fusion Kitchen 313,TT Nagar,Desserts,Yes,83,3.4,350
+Tandoor Cafe 314,Bairagarh,Casual Dining,No,187,3.5,950
+Blue Kitchen 315,Arera Colony,Desserts,No,111,4.3,450
+Spice Bistro 316,Kolar Road,Casual Dining,Yes,176,3.9,750
+Blue Bistro 317,Bairagarh,Dining,Yes,279,3.9,850
+Saffron Bistro 318,TT Nagar,Buffet,No,178,4.1,950
+Urban Hub 319,MP Nagar,Dining,No,254,3.9,700
+Spice Corner 320,Indrapuri,Buffet,No,141,3.9,1000
+Royal Hub 321,Arera Colony,Desserts,No,115,4.2,200
+Blue Bistro 322,Indrapuri,Dining,No,404,3.4,700
+Tandoor Cafe 323,Arera Colony,Buffet,Yes,128,3.8,1400
+Urban Bistro 324,Arera Colony,Buffet,Yes,164,3.9,1100
+Urban Kitchen 325,Arera Colony,Desserts,Yes,63,4.0,300
+Spice Corner 326,Indrapuri,Desserts,Yes,61,4.1,450
+Royal Hub 327,MP Nagar,Cafe,Yes,214,3.7,250
+Royal Hub 328,Kolar Road,Dining,No,327,4.1,650
+Green Treats 329,Bairagarh,Buffet,No,167,3.4,900
+Saffron Dine 330,Bairagarh,Dining,No,248,3.7,750
+Royal Corner 331,Kolar Road,Casual Dining,No,172,3.8,550
+Tandoor Corner 332,TT Nagar,Desserts,No,165,4.4,250
+Saffron Corner 333,Indrapuri,Buffet,No,194,3.5,1150
+Spice Treats 334,TT Nagar,Cafe,Yes,209,4.3,250
+Fusion Bistro 335,TT Nagar,Desserts,Yes,104,4.0,350
+Urban Treats 336,Bairagarh,Desserts,Yes,142,3.9,350
+Spice Dine 337,TT Nagar,Quick Bites,No,88,3.2,250
+Tandoor Bistro 338,TT Nagar,Casual Dining,No,358,4.4,750
+Saffron Cafe 339,Arera Colony,Buffet,Yes,106,3.9,1150
+Green Treats 340,Kolar Road,Quick Bites,Yes,122,3.5,150
+Urban Corner 341,Indrapuri,Desserts,No,61,3.4,200
+Blue Dine 342,Indrapuri,Buffet,No,183,3.8,1100
+Fusion Treats 343,Kolar Road,Dining,Yes,102,4.1,400
+Tandoor Cafe 344,TT Nagar,Dining,No,204,3.8,850
+Tandoor Hub 345,Indrapuri,Cafe,Yes,267,4.1,300
+Saffron Hub 346,Arera Colony,Casual Dining,No,171,3.8,800
+Spice House 347,MP Nagar,Desserts,Yes,220,4.2,200
+Urban Bistro 348,Kolar Road,Quick Bites,Yes,279,3.2,350
+Tandoor Hub 349,Bairagarh,Quick Bites,Yes,103,3.5,350
+Royal Corner 350,Bairagarh,Quick Bites,Yes,113,3.4,250
+Urban Bistro 351,Kolar Road,Buffet,No,180,3.7,1200
+Saffron Hub 352,MP Nagar,Cafe,Yes,148,4.0,450
+Royal Bistro 353,Kolar Road,Buffet,No,208,3.4,950
+Fusion Bistro 354,MP Nagar,Dining,No,367,3.8,800
+Fusion Hub 355,TT Nagar,Desserts,No,165,3.5,450
+Green Corner 356,Arera Colony,Dining,Yes,355,3.5,750
+Fusion Cafe 357,Bairagarh,Quick Bites,Yes,232,3.7,150
+Fusion House 358,Indrapuri,Casual Dining,Yes,196,3.6,400
+Blue Dine 359,Arera Colony,Desserts,Yes,70,4.2,250
+Tandoor Hub 360,MP Nagar,Cafe,Yes,165,4.3,250
+Tandoor Corner 361,Bairagarh,Quick Bites,Yes,210,4.2,250
+Blue Cafe 362,MP Nagar,Buffet,No,251,3.8,650
+Royal Bistro 363,MP Nagar,Buffet,Yes,132,4.2,1400
+Saffron Treats 364,MP Nagar,Casual Dining,No,207,4.0,750
+Urban Cafe 365,Indrapuri,Desserts,Yes,111,4.1,350
+Fusion Dine 366,Bairagarh,Desserts,Yes,238,4.2,200
+Fusion Dine 367,Arera Colony,Casual Dining,No,273,3.5,800
+Fusion Corner 368,Kolar Road,Cafe,No,232,4.0,250
+Fusion Dine 369,TT Nagar,Quick Bites,No,68,3.2,350
+Urban Bistro 370,Indrapuri,Dining,No,299,3.4,450
+Blue Bistro 371,Kolar Road,Casual Dining,Yes,254,3.6,750
+Royal Kitchen 372,Indrapuri,Casual Dining,No,189,3.8,450
+Urban Kitchen 373,MP Nagar,Casual Dining,No,137,4.0,900
+Fusion Kitchen 374,Arera Colony,Casual Dining,No,131,4.4,800
+Royal Treats 375,Arera Colony,Casual Dining,Yes,115,4.1,450
+Tandoor Dine 376,Kolar Road,Dining,Yes,148,3.9,450
+Spice Bistro 377,Indrapuri,Dining,No,189,3.9,450
+Fusion House 378,Arera Colony,Desserts,No,75,4.1,450
+Saffron Dine 379,Indrapuri,Casual Dining,Yes,141,3.6,450
+Blue Kitchen 380,TT Nagar,Cafe,No,165,4.0,450
+Saffron Corner 381,TT Nagar,Cafe,Yes,182,3.9,250
+Fusion Cafe 382,Bairagarh,Cafe,No,66,4.5,350
+Saffron Hub 383,Kolar Road,Cafe,Yes,148,4.2,600
+Spice Cafe 384,Arera Colony,Dining,Yes,100,4.2,700
+Blue Hub 385,Indrapuri,Quick Bites,No,87,3.8,400
+Royal Corner 386,Arera Colony,Quick Bites,Yes,149,4.2,200
+Tandoor Hub 387,Bairagarh,Quick Bites,Yes,78,3.4,350
+Green Kitchen 388,MP Nagar,Casual Dining,Yes,292,3.4,1000
+Spice Corner 389,TT Nagar,Quick Bites,No,134,3.2,200
+Spice Bistro 390,Indrapuri,Casual Dining,No,337,3.9,600
+Tandoor Bistro 391,TT Nagar,Cafe,No,197,4.2,250
+Tandoor Hub 392,Kolar Road,Dining,No,214,4.0,900
+Urban Treats 393,Indrapuri,Casual Dining,No,98,3.8,950
+Tandoor Bistro 394,Kolar Road,Cafe,No,119,3.7,450
+Spice Kitchen 395,MP Nagar,Dining,Yes,266,3.6,450
+Spice Hub 396,MP Nagar,Cafe,Yes,273,4.4,350
+Urban Dine 397,Arera Colony,Buffet,No,280,3.4,850
+Spice Hub 398,Arera Colony,Quick Bites,No,189,4.0,300
+Urban Treats 399,Arera Colony,Buffet,No,124,3.9,900
+Green Treats 400,Kolar Road,Casual Dining,No,322,4.4,550
+Green Bistro 401,Arera Colony,Casual Dining,No,82,3.6,700
+Spice Dine 402,Arera Colony,Casual Dining,No,262,4.2,650
+Green House 403,Indrapuri,Dining,No,110,4.3,450
+Blue Cafe 404,Arera Colony,Casual Dining,No,336,3.8,750
+Urban Cafe 405,Bairagarh,Desserts,Yes,249,3.7,450
+Spice Hub 406,TT Nagar,Quick Bites,No,166,3.4,300
+Tandoor Dine 407,Indrapuri,Desserts,Yes,59,4.3,200
+Urban Bistro 408,Arera Colony,Quick Bites,Yes,283,3.4,200
+Tandoor House 409,Indrapuri,Quick Bites,Yes,180,4.0,150
+Blue Kitchen 410,MP Nagar,Cafe,No,227,3.6,550
+Tandoor Hub 411,Bairagarh,Cafe,Yes,213,3.7,300
+Saffron Treats 412,Bairagarh,Dining,No,207,3.3,400
+Urban Kitchen 413,Arera Colony,Cafe,No,173,3.5,400
+Urban Corner 414,Arera Colony,Buffet,Yes,66,3.5,1250
+Royal Cafe 415,Kolar Road,Desserts,Yes,158,3.4,450
+Saffron Treats 416,Arera Colony,Desserts,Yes,149,3.5,250
+Blue Corner 417,Indrapuri,Cafe,No,77,4.1,500
+Blue Treats 418,Indrapuri,Cafe,No,305,3.5,350
+Royal Hub 419,MP Nagar,Desserts,Yes,244,3.9,450
+Spice Hub 420,TT Nagar,Quick Bites,Yes,293,3.5,400
+Tandoor Hub 421,Kolar Road,Quick Bites,Yes,208,3.8,150
+Spice Treats 422,Bairagarh,Buffet,No,199,4.4,750
+Green House 423,Kolar Road,Dining,No,108,4.0,500
+Saffron Dine 424,MP Nagar,Quick Bites,Yes,207,4.0,300
+Spice Dine 425,Bairagarh,Quick Bites,Yes,141,4.0,350
+Blue Bistro 426,Indrapuri,Quick Bites,Yes,73,3.4,250
+Fusion Kitchen 427,Kolar Road,Dining,No,183,4.1,650
+Royal Dine 428,Arera Colony,Casual Dining,Yes,370,4.1,500
+Tandoor Cafe 429,Kolar Road,Dining,No,419,3.6,400
+Blue Dine 430,MP Nagar,Buffet,No,237,4.3,1250
+Tandoor Bistro 431,TT Nagar,Desserts,No,217,4.3,450
+Green Bistro 432,Indrapuri,Buffet,No,226,3.6,800
+Spice Hub 433,Bairagarh,Casual Dining,Yes,378,3.7,1000
+Urban Treats 434,MP Nagar,Cafe,Yes,99,3.7,350
+Urban Dine 435,Indrapuri,Cafe,Yes,167,3.7,250
+Blue Cafe 436,TT Nagar,Buffet,Yes,148,3.8,1050
+Saffron Treats 437,Indrapuri,Cafe,Yes,252,3.5,450
+Green Bistro 438,Indrapuri,Quick Bites,Yes,62,3.4,300
+Urban Cafe 439,Kolar Road,Buffet,Yes,146,3.5,700
+Urban Dine 440,Bairagarh,Quick Bites,No,292,3.9,350
+Royal Hub 441,MP Nagar,Casual Dining,Yes,239,3.5,550
+Blue Corner 442,Kolar Road,Desserts,Yes,52,3.7,450
+Royal Kitchen 443,Kolar Road,Desserts,Yes,62,3.6,500
+Fusion House 444,Arera Colony,Casual Dining,Yes,157,4.0,450
+Urban Corner 445,Indrapuri,Desserts,Yes,209,3.6,500
+Saffron Bistro 446,Kolar Road,Quick Bites,No,234,3.3,150
+Fusion Treats 447,Kolar Road,Buffet,No,118,3.9,750
+Urban Cafe 448,TT Nagar,Casual Dining,Yes,347,3.8,950
+Spice Hub 449,Bairagarh,Cafe,Yes,303,4.0,300
+Blue Cafe 450,Indrapuri,Desserts,No,222,3.3,450
+Royal Cafe 451,Indrapuri,Quick Bites,Yes,130,4.2,200
+Spice Hub 452,Arera Colony,Cafe,No,282,3.6,500
+Blue Dine 453,TT Nagar,Cafe,No,94,3.5,500
+Tandoor Corner 454,Bairagarh,Desserts,Yes,43,4.2,450
+Saffron Cafe 455,Indrapuri,Quick Bites,Yes,96,4.1,400
+Blue Dine 456,Indrapuri,Dining,Yes,415,3.7,800
+Royal Corner 457,Indrapuri,Dining,Yes,391,3.9,700
+Saffron Dine 458,TT Nagar,Dining,Yes,323,4.2,700
+Tandoor Corner 459,Kolar Road,Dining,Yes,331,4.1,400
+Royal Corner 460,TT Nagar,Cafe,Yes,224,3.7,400
+Urban House 461,Indrapuri,Quick Bites,Yes,253,3.9,400
+Spice Bistro 462,Arera Colony,Buffet,No,179,3.7,1400
+Spice Bistro 463,MP Nagar,Quick Bites,No,147,4.0,250
+Fusion Kitchen 464,Kolar Road,Dining,No,220,3.6,800
+Saffron Cafe 465,TT Nagar,Quick Bites,Yes,235,3.6,350
+Fusion Dine 466,Kolar Road,Cafe,Yes,192,4.2,550
+Blue Kitchen 467,Indrapuri,Dining,Yes,372,4.1,500
+Green House 468,Kolar Road,Cafe,Yes,70,4.4,600
+Spice Treats 469,MP Nagar,Casual Dining,No,377,4.2,600
+Blue Corner 470,Indrapuri,Buffet,No,268,3.7,850
+Fusion Corner 471,TT Nagar,Cafe,Yes,263,4.0,200
+Tandoor Corner 472,Kolar Road,Quick Bites,Yes,291,3.2,250
+Tandoor Corner 473,Kolar Road,Casual Dining,No,222,3.5,900
+Spice Hub 474,TT Nagar,Cafe,Yes,131,4.2,550
+Blue Corner 475,Indrapuri,Desserts,Yes,228,3.3,450
+Tandoor House 476,TT Nagar,Cafe,Yes,303,4.4,550
+Blue Bistro 477,TT Nagar,Buffet,No,96,3.6,1100
+Blue Bistro 478,TT Nagar,Cafe,No,105,3.6,300
+Blue Hub 479,Kolar Road,Casual Dining,Yes,369,3.6,450
+Spice Cafe 480,Indrapuri,Desserts,No,168,3.4,500
+Blue Hub 481,Arera Colony,Desserts,No,78,3.5,250
+Saffron Treats 482,MP Nagar,Buffet,No,233,3.5,700
+Tandoor Bistro 483,Kolar Road,Desserts,Yes,41,3.8,250
+Royal Treats 484,Arera Colony,Cafe,Yes,282,4.1,400
+Fusion Hub 485,Arera Colony,Desserts,Yes,91,4.1,150
+Green Kitchen 486,TT Nagar,Buffet,Yes,237,3.6,1300
+Blue Bistro 487,Arera Colony,Buffet,No,200,3.6,650
+Blue Corner 488,Indrapuri,Dining,No,385,3.8,750
+Royal Dine 489,Indrapuri,Casual Dining,Yes,166,3.5,750
+Green House 490,TT Nagar,Dining,No,188,4.0,800
+Urban Dine 491,TT Nagar,Cafe,Yes,79,3.8,550
+Spice Kitchen 492,TT Nagar,Buffet,Yes,264,3.3,1300
+Saffron Treats 493,Indrapuri,Dining,Yes,209,3.7,450
+Spice Corner 494,Indrapuri,Cafe,Yes,198,4.1,550
+Saffron Cafe 495,Bairagarh,Cafe,Yes,120,3.7,250
+Green House 496,Kolar Road,Desserts,No,91,3.7,350
+Royal Kitchen 497,Bairagarh,Buffet,No,103,4.1,1100
+Green Kitchen 498,Arera Colony,Buffet,No,78,4.2,1300
+Royal Cafe 499,Bairagarh,Desserts,Yes,225,3.4,300
+Green Treats 500,Kolar Road,Casual Dining,Yes,95,3.4,550
+Tandoor Cafe 1,MP Nagar,Dining,No,398,3.8,900
+Fusion Treats 2,MP Nagar,Quick Bites,Yes,86,3.2,150
+Spice Treats 3,TT Nagar,Desserts,Yes,141,3.6,350
+Urban Dine 4,Arera Colony,Desserts,Yes,114,3.6,200
+Blue Kitchen 5,TT Nagar,Casual Dining,Yes,306,3.8,750
+Fusion Cafe 6,Indrapuri,Quick Bites,Yes,296,3.5,400
+Saffron Treats 7,Bairagarh,Buffet,No,56,3.9,1400
+Spice Cafe 8,TT Nagar,Cafe,Yes,300,3.6,300
+Fusion Treats 9,TT Nagar,Dining,No,359,3.5,700
+Blue Treats 10,Indrapuri,Casual Dining,Yes,220,4.2,350
+Royal Treats 11,Bairagarh,Dining,No,264,4.2,550
+Fusion Treats 12,Bairagarh,Casual Dining,No,324,4.2,900
+Spice Corner 13,Kolar Road,Casual Dining,No,120,3.8,900
+Fusion Bistro 14,Indrapuri,Buffet,No,172,4.3,1250
+Fusion Dine 15,Arera Colony,Buffet,Yes,269,3.8,1050
+Urban Kitchen 16,Indrapuri,Dining,No,122,3.9,500
+Urban Kitchen 17,Bairagarh,Cafe,No,242,3.6,350
+Fusion Bistro 18,Bairagarh,Casual Dining,Yes,371,3.4,950
+Blue Cafe 19,Indrapuri,Casual Dining,No,139,4.2,950
+Saffron Hub 20,MP Nagar,Buffet,No,100,3.7,700
+Urban Kitchen 21,Kolar Road,Desserts,Yes,237,4.3,150
+Fusion Dine 22,TT Nagar,Quick Bites,Yes,211,4.1,350
+Royal Bistro 23,Bairagarh,Desserts,Yes,151,4.0,400
+Green Cafe 24,Bairagarh,Quick Bites,Yes,145,3.8,200
+Spice Treats 25,TT Nagar,Dining,Yes,444,3.9,300
+Green Bistro 26,MP Nagar,Cafe,Yes,155,3.8,400
+Saffron Cafe 27,Indrapuri,Quick Bites,Yes,221,3.3,350
+Saffron Corner 28,Indrapuri,Desserts,Yes,172,3.8,200
+Blue Cafe 29,MP Nagar,Quick Bites,Yes,92,4.1,450
+Saffron Bistro 30,Arera Colony,Buffet,No,90,3.7,1300
+Green Cafe 31,Bairagarh,Quick Bites,No,154,3.7,400
+Royal Cafe 32,Kolar Road,Buffet,Yes,161,3.5,1300
+Tandoor Bistro 33,TT Nagar,Dining,No,339,3.5,350
+Tandoor Bistro 34,Kolar Road,Buffet,No,53,3.8,1400
+Saffron Kitchen 35,Arera Colony,Buffet,Yes,55,3.6,700
+Tandoor Dine 36,Indrapuri,Casual Dining,No,89,4.3,650
+Green Treats 37,Indrapuri,Quick Bites,No,106,3.9,400
+Blue Hub 38,Kolar Road,Casual Dining,No,252,3.4,800
+Blue Dine 39,Kolar Road,Dining,No,142,3.5,750
+Spice Dine 40,MP Nagar,Buffet,No,234,4.4,750
+Urban Cafe 41,Arera Colony,Quick Bites,Yes,226,3.8,250
+Saffron Bistro 42,Kolar Road,Dining,No,273,3.5,750
+Green Bistro 43,MP Nagar,Casual Dining,No,347,4.1,750
+Royal House 44,Arera Colony,Buffet,Yes,188,3.8,850
+Royal Cafe 45,MP Nagar,Buffet,No,216,4.3,1150
+Tandoor Dine 46,Arera Colony,Buffet,No,52,4.0,850
+Spice House 47,TT Nagar,Desserts,Yes,78,4.3,350
+Tandoor House 48,Bairagarh,Casual Dining,No,245,4.2,750
+Fusion Treats 49,Bairagarh,Buffet,No,279,4.2,1200
+Green Bistro 50,TT Nagar,Buffet,No,174,4.3,950
+Saffron Kitchen 51,TT Nagar,Quick Bites,Yes,198,3.5,250
+Urban Kitchen 52,Bairagarh,Cafe,Yes,217,4.0,400
+Royal Cafe 53,Arera Colony,Desserts,Yes,139,3.7,300
+Spice House 54,MP Nagar,Buffet,No,125,3.9,950
+Saffron House 55,TT Nagar,Cafe,Yes,305,4.4,400
+Royal Kitchen 56,MP Nagar,Quick Bites,Yes,119,3.3,200
+Spice Dine 57,Arera Colony,Quick Bites,Yes,155,3.7,450
+Green Bistro 58,Arera Colony,Quick Bites,No,293,3.2,150
+Blue Corner 59,TT Nagar,Desserts,Yes,161,4.3,200
+Green Dine 60,TT Nagar,Quick Bites,No,221,3.2,150
+Blue Corner 61,TT Nagar,Desserts,Yes,123,3.8,450
+Tandoor Treats 62,Indrapuri,Buffet,No,100,4.2,800
+Tandoor Dine 63,Indrapuri,Casual Dining,No,372,3.7,500
+Royal Hub 64,Kolar Road,Desserts,Yes,70,3.7,400
+Royal Corner 65,MP Nagar,Buffet,No,86,3.9,750
+Blue Treats 66,TT Nagar,Buffet,No,55,3.9,950
+Saffron Dine 67,Arera Colony,Casual Dining,No,323,4.3,1000
+Green Hub 68,Kolar Road,Casual Dining,No,100,4.3,550
+Blue Corner 69,MP Nagar,Dining,No,409,3.9,800
+Tandoor Kitchen 70,Arera Colony,Desserts,No,202,3.4,300
+Spice House 71,Indrapuri,Buffet,No,209,4.0,700
+Green Kitchen 72,Arera Colony,Quick Bites,Yes,157,4.1,200
+Royal Corner 73,Arera Colony,Quick Bites,Yes,113,3.2,250
+Spice Bistro 74,Bairagarh,Desserts,No,99,4.4,400
+Tandoor Dine 75,Kolar Road,Casual Dining,Yes,315,3.6,700
+Spice Treats 76,MP Nagar,Buffet,Yes,257,3.7,1350
+Green Dine 77,Kolar Road,Desserts,Yes,227,3.7,250
+Spice Hub 78,Arera Colony,Quick Bites,No,197,4.2,450
+Tandoor Treats 79,Kolar Road,Dining,No,264,3.4,900
+Blue Hub 80,TT Nagar,Cafe,Yes,169,3.4,300
+Saffron Bistro 81,Bairagarh,Cafe,Yes,198,4.3,550
+Royal Dine 82,Kolar Road,Desserts,No,140,3.9,450
+Royal Bistro 83,TT Nagar,Cafe,Yes,91,4.3,200
+Blue Bistro 84,MP Nagar,Buffet,No,188,4.1,750
+Royal Bistro 85,TT Nagar,Desserts,Yes,87,4.0,350
+Fusion Kitchen 86,Kolar Road,Casual Dining,Yes,256,4.3,450
+Saffron Bistro 87,Kolar Road,Desserts,Yes,170,3.3,150
+Urban Dine 88,Bairagarh,Dining,No,437,4.1,550
+Spice Bistro 89,Bairagarh,Buffet,Yes,259,3.4,1300
+Green Bistro 90,MP Nagar,Desserts,Yes,166,3.5,250
+Saffron Hub 91,Indrapuri,Quick Bites,No,152,4.2,450
+Fusion Treats 92,Arera Colony,Casual Dining,No,178,4.1,450
+Tandoor Bistro 93,Arera Colony,Dining,Yes,408,3.7,750
+Royal Corner 94,Kolar Road,Dining,No,283,3.2,850
+Blue Dine 95,Indrapuri,Desserts,No,67,4.2,450
+Tandoor Treats 96,Indrapuri,Cafe,Yes,84,4.4,550
+Tandoor Corner 97,TT Nagar,Quick Bites,Yes,284,3.5,400
+Urban Corner 98,Kolar Road,Quick Bites,Yes,66,3.2,350
+Urban Hub 99,TT Nagar,Quick Bites,No,278,3.8,400
+Royal Dine 100,MP Nagar,Dining,Yes,280,3.3,850
+Spice Kitchen 101,TT Nagar,Buffet,No,242,4.0,700
+Tandoor Bistro 102,Kolar Road,Casual Dining,No,193,3.7,850
+Green Hub 103,MP Nagar,Casual Dining,No,230,3.8,850
+Royal Treats 104,MP Nagar,Cafe,No,303,4.0,450
+Spice Treats 105,MP Nagar,Quick Bites,Yes,62,3.7,200
+Green Dine 106,Kolar Road,Buffet,No,271,4.1,650
+Royal Cafe 107,Bairagarh,Buffet,No,105,3.9,1150
+Fusion Hub 108,Arera Colony,Cafe,No,272,3.8,200
+Green Kitchen 109,Kolar Road,Cafe,No,146,4.0,400
+Blue Bistro 110,Arera Colony,Dining,Yes,403,4.1,900
+Fusion Kitchen 111,Kolar Road,Dining,No,435,3.7,850
+Spice House 112,TT Nagar,Casual Dining,No,316,3.4,450
+Urban Corner 113,MP Nagar,Cafe,Yes,82,3.9,350
+Royal House 114,Indrapuri,Dining,No,357,3.6,850
+Fusion Cafe 115,MP Nagar,Desserts,Yes,145,3.7,200
+Royal Bistro 116,MP Nagar,Desserts,Yes,91,3.9,300
+Blue Bistro 117,Indrapuri,Desserts,Yes,128,3.4,200
+Green Treats 118,TT Nagar,Quick Bites,Yes,210,3.3,400
+Royal Kitchen 119,Indrapuri,Dining,Yes,437,3.7,750
+Tandoor Dine 120,Arera Colony,Casual Dining,No,372,3.3,600
+Urban Hub 121,MP Nagar,Cafe,No,151,3.7,450
+Spice Dine 122,TT Nagar,Dining,Yes,314,3.8,550
+Fusion Bistro 123,Bairagarh,Casual Dining,No,314,3.4,500
+Blue Bistro 124,Indrapuri,Dining,No,90,3.7,600
+Saffron Kitchen 125,Indrapuri,Cafe,Yes,109,3.7,350
+Urban Hub 126,Kolar Road,Desserts,Yes,153,4.1,300
+Fusion Hub 127,Indrapuri,Buffet,No,130,4.2,700
+Spice House 128,MP Nagar,Quick Bites,No,195,3.9,350
+Tandoor Bistro 129,Arera Colony,Cafe,Yes,125,4.1,550
+Saffron House 130,Bairagarh,Quick Bites,Yes,238,3.9,300
+Green Bistro 131,Bairagarh,Desserts,Yes,228,4.0,250
+Royal Hub 132,TT Nagar,Buffet,No,163,4.4,1250
+Spice Corner 133,TT Nagar,Desserts,Yes,192,3.9,450
+Saffron House 134,TT Nagar,Buffet,No,186,4.3,1100
+Tandoor Dine 135,Indrapuri,Buffet,No,53,3.8,1050
+Tandoor House 136,Bairagarh,Desserts,Yes,131,4.2,150
+Green House 137,MP Nagar,Dining,No,281,3.7,450
+Green Dine 138,Arera Colony,Desserts,Yes,65,3.4,350
+Fusion Dine 139,TT Nagar,Dining,No,400,3.3,550
+Blue Kitchen 140,Arera Colony,Buffet,No,245,3.7,750
+Saffron Cafe 141,TT Nagar,Desserts,Yes,249,3.5,450
+Tandoor Bistro 142,Arera Colony,Desserts,Yes,100,3.5,400
+Saffron Bistro 143,Arera Colony,Dining,Yes,317,3.7,350
+Fusion Kitchen 144,Indrapuri,Desserts,Yes,231,3.4,150
+Royal Hub 145,TT Nagar,Desserts,Yes,222,3.9,300
+Urban Dine 146,MP Nagar,Desserts,Yes,76,4.0,300
+Saffron Cafe 147,TT Nagar,Buffet,No,242,3.4,1250
+Blue Dine 148,Indrapuri,Dining,No,376,3.5,850
+Saffron Corner 149,Arera Colony,Cafe,Yes,188,4.0,350
+Blue House 150,TT Nagar,Desserts,No,226,3.9,250
+Blue Corner 151,Kolar Road,Buffet,Yes,205,3.6,800
+Tandoor Dine 152,TT Nagar,Quick Bites,No,107,3.8,350
+Saffron Treats 153,Bairagarh,Casual Dining,Yes,124,4.4,800
+Fusion Dine 154,Bairagarh,Casual Dining,Yes,77,4.1,750
+Tandoor Corner 155,Indrapuri,Casual Dining,Yes,281,3.8,950
+Blue Kitchen 156,Arera Colony,Dining,No,301,3.5,600
+Blue Kitchen 157,MP Nagar,Casual Dining,Yes,109,3.6,400
+Tandoor Treats 158,Arera Colony,Casual Dining,No,344,3.9,1000
+Blue Bistro 159,Arera Colony,Dining,No,197,3.3,350
+Urban Hub 160,Arera Colony,Dining,Yes,367,4.0,600
+Tandoor Treats 161,MP Nagar,Desserts,No,146,3.6,300
+Royal Hub 162,TT Nagar,Casual Dining,Yes,302,4.4,750
+Fusion Bistro 163,Arera Colony,Desserts,Yes,239,3.4,200
+Green Corner 164,TT Nagar,Desserts,Yes,199,3.5,300
+Blue Kitchen 165,Arera Colony,Cafe,Yes,257,3.5,400
+Spice Dine 166,Bairagarh,Dining,No,221,3.8,500
+Blue Cafe 167,Kolar Road,Buffet,No,78,4.2,650
+Green Treats 168,Bairagarh,Casual Dining,Yes,140,3.5,550
+Blue Cafe 169,Indrapuri,Quick Bites,Yes,286,3.5,200
+Tandoor Treats 170,Arera Colony,Cafe,No,129,4.1,350
+Spice Dine 171,MP Nagar,Quick Bites,No,287,3.8,150
+Royal Corner 172,Indrapuri,Buffet,No,252,4.3,1350
+Green Corner 173,Arera Colony,Dining,Yes,427,4.1,350
+Tandoor Corner 174,Kolar Road,Desserts,Yes,219,4.3,150
+Blue Hub 175,Arera Colony,Dining,No,414,3.4,850
+Spice Dine 176,MP Nagar,Dining,Yes,243,3.3,800
+Saffron Dine 177,Bairagarh,Quick Bites,No,157,3.1,400
+Fusion Treats 178,TT Nagar,Casual Dining,Yes,245,4.3,550
+Blue Dine 179,Indrapuri,Quick Bites,Yes,86,3.8,150
+Fusion Kitchen 180,TT Nagar,Desserts,Yes,160,3.5,500
+Saffron Cafe 181,TT Nagar,Desserts,No,131,4.4,300
+Green Hub 182,MP Nagar,Dining,No,222,4.3,750
+Spice Cafe 183,Arera Colony,Casual Dining,No,340,3.8,550
+Royal House 184,TT Nagar,Desserts,Yes,85,3.6,350
+Saffron Hub 185,Bairagarh,Buffet,No,72,3.7,1000
+Fusion Corner 186,Kolar Road,Cafe,No,182,4.2,600
+Urban House 187,TT Nagar,Buffet,No,70,3.8,800
+Green Corner 188,Bairagarh,Casual Dining,Yes,302,3.3,650
+Blue Cafe 189,TT Nagar,Casual Dining,Yes,307,3.7,400
+Saffron Dine 190,Indrapuri,Desserts,Yes,218,4.1,200
+Spice Bistro 191,MP Nagar,Casual Dining,No,365,4.3,600
+Blue Kitchen 192,TT Nagar,Buffet,No,93,3.9,900
+Blue Treats 193,Bairagarh,Desserts,No,229,3.4,450
+Blue Corner 194,Indrapuri,Cafe,Yes,260,4.5,500
+Saffron Kitchen 195,TT Nagar,Buffet,No,67,3.4,600
+Spice Dine 196,TT Nagar,Casual Dining,Yes,80,3.8,350
+Urban Treats 197,Arera Colony,Quick Bites,Yes,124,3.6,250
+Tandoor Treats 198,Arera Colony,Dining,Yes,239,3.8,800
+Fusion Cafe 199,Indrapuri,Desserts,No,142,4.2,200
+Saffron House 200,Kolar Road,Buffet,Yes,51,3.5,850
+Green Kitchen 201,Arera Colony,Quick Bites,No,47,3.8,100
+Blue Bistro 202,Indrapuri,Dining,Yes,306,4.3,750
+Urban Dine 203,Kolar Road,Desserts,Yes,191,3.6,150
+Royal Hub 204,Indrapuri,Dining,Yes,440,3.3,450
+Fusion Treats 205,Arera Colony,Quick Bites,No,300,3.8,200
+Royal House 206,Bairagarh,Quick Bites,No,79,3.9,200
+Fusion Kitchen 207,MP Nagar,Cafe,No,111,4.0,250
+Urban Bistro 208,Bairagarh,Buffet,No,202,4.0,900
+Spice Hub 209,Indrapuri,Desserts,No,120,3.6,300
+Saffron Hub 210,MP Nagar,Dining,No,129,3.6,700
+Royal Dine 211,Bairagarh,Quick Bites,Yes,175,3.7,150
+Blue Cafe 212,Indrapuri,Cafe,No,142,3.8,300
+Saffron Hub 213,MP Nagar,Casual Dining,No,157,3.9,1000
+Spice Bistro 214,TT Nagar,Cafe,Yes,139,4.1,200
+Blue Bistro 215,Indrapuri,Casual Dining,Yes,184,4.3,400
+Tandoor Kitchen 216,Indrapuri,Casual Dining,Yes,131,3.9,900
+Fusion Kitchen 217,Kolar Road,Quick Bites,Yes,106,3.6,400
+Urban House 218,MP Nagar,Dining,No,153,3.6,500
+Tandoor Hub 219,TT Nagar,Desserts,No,205,3.8,200
+Saffron Kitchen 220,TT Nagar,Desserts,Yes,64,4.1,450
+Urban Bistro 221,Arera Colony,Desserts,Yes,128,3.7,400
+Spice Bistro 222,MP Nagar,Dining,Yes,287,4.3,900
+Tandoor House 223,Kolar Road,Desserts,Yes,165,3.6,350
+Tandoor Kitchen 224,Arera Colony,Buffet,No,241,3.7,650
+Spice Hub 225,MP Nagar,Casual Dining,No,318,4.4,850
+Urban Bistro 226,Kolar Road,Dining,Yes,402,3.6,750
+Tandoor Kitchen 227,Bairagarh,Buffet,No,217,3.7,1150
+Urban Dine 228,Kolar Road,Dining,Yes,278,3.3,500
+Spice Bistro 229,MP Nagar,Casual Dining,Yes,150,3.4,500
+Tandoor Cafe 230,Arera Colony,Dining,Yes,150,3.9,550
+Green Corner 231,Arera Colony,Dining,No,350,3.3,500
+Saffron Cafe 232,MP Nagar,Quick Bites,Yes,112,3.9,200
+Royal House 233,TT Nagar,Cafe,No,253,3.6,450
+Fusion Hub 234,Arera Colony,Desserts,Yes,43,3.7,250
+Saffron Dine 235,Kolar Road,Buffet,No,115,3.5,1050
+Blue Cafe 236,TT Nagar,Desserts,No,197,4.2,450
+Blue Corner 237,TT Nagar,Desserts,Yes,143,3.7,300
+Fusion Cafe 238,MP Nagar,Casual Dining,No,270,4.1,700
+Spice Corner 239,Bairagarh,Buffet,No,166,3.3,1000
+Tandoor Hub 240,Kolar Road,Dining,No,196,3.4,800
+Royal Hub 241,Bairagarh,Casual Dining,No,307,3.4,1000
+Saffron Corner 242,Kolar Road,Quick Bites,Yes,201,4.0,150
+Fusion Bistro 243,Arera Colony,Cafe,Yes,185,4.3,250
+Saffron Kitchen 244,Indrapuri,Desserts,Yes,168,4.0,350
+Urban Hub 245,TT Nagar,Buffet,No,64,3.8,1150
+Spice House 246,Bairagarh,Cafe,Yes,152,3.4,500
+Fusion Hub 247,Bairagarh,Quick Bites,Yes,299,3.2,100
+Fusion Hub 248,TT Nagar,Dining,Yes,170,4.0,450
+Spice Treats 249,Arera Colony,Cafe,No,277,4.5,250
+Blue Corner 250,MP Nagar,Quick Bites,No,118,3.2,300
+Royal Corner 251,Kolar Road,Casual Dining,Yes,309,4.2,650
+Saffron Corner 252,MP Nagar,Desserts,Yes,93,3.4,400
+Fusion Bistro 253,Arera Colony,Desserts,Yes,218,3.7,250
+Blue Treats 254,TT Nagar,Buffet,No,218,3.7,750
+Tandoor Bistro 255,Arera Colony,Casual Dining,No,372,3.9,550
+Royal Cafe 256,MP Nagar,Cafe,Yes,262,4.0,500
+Royal Treats 257,Arera Colony,Cafe,Yes,156,4.5,250
+Blue Treats 258,Arera Colony,Cafe,Yes,74,4.4,550
+Tandoor Bistro 259,Bairagarh,Cafe,Yes,311,3.7,350
+Tandoor Treats 260,Bairagarh,Desserts,Yes,160,3.4,350
+Blue Dine 261,MP Nagar,Cafe,Yes,77,4.2,550
+Tandoor Kitchen 262,Arera Colony,Buffet,Yes,145,4.0,1350
+Saffron Kitchen 263,Bairagarh,Buffet,No,142,4.2,1150
+Tandoor Kitchen 264,Arera Colony,Buffet,No,118,4.1,950
+Blue Cafe 265,Arera Colony,Dining,Yes,201,3.3,700
+Spice Corner 266,TT Nagar,Desserts,Yes,222,4.2,400
+Urban Dine 267,TT Nagar,Quick Bites,No,260,3.2,150
+Spice Cafe 268,Bairagarh,Dining,No,252,4.0,600
+Blue Hub 269,Arera Colony,Buffet,No,140,4.3,950
+Green Bistro 270,Arera Colony,Casual Dining,Yes,157,3.7,950
+Spice Bistro 271,TT Nagar,Casual Dining,No,351,4.0,1000
+Spice Corner 272,Bairagarh,Casual Dining,No,197,4.3,650
+Green Treats 273,TT Nagar,Cafe,Yes,255,4.1,600
+Tandoor Cafe 274,Indrapuri,Desserts,Yes,113,3.5,400
+Blue Kitchen 275,Kolar Road,Buffet,No,205,3.9,1350
+Tandoor Dine 276,Bairagarh,Desserts,No,151,4.1,200
+Royal Corner 277,Kolar Road,Buffet,No,161,3.4,1150
+Green Corner 278,Arera Colony,Desserts,Yes,142,3.4,350
+Tandoor Kitchen 279,Indrapuri,Desserts,Yes,113,3.5,500
+Urban Corner 280,TT Nagar,Desserts,Yes,59,3.8,200
+Green Kitchen 281,Indrapuri,Buffet,No,165,3.8,800
+Saffron Cafe 282,Bairagarh,Casual Dining,Yes,209,3.4,800
+Green Corner 283,Arera Colony,Dining,No,298,3.9,600
+Green Cafe 284,Kolar Road,Desserts,Yes,189,4.1,350
+Saffron Cafe 285,Bairagarh,Buffet,Yes,164,4.3,950
+Fusion Cafe 286,Indrapuri,Desserts,Yes,216,3.6,350
+Blue Cafe 287,MP Nagar,Desserts,No,43,3.5,300
+Tandoor Bistro 288,TT Nagar,Quick Bites,No,56,4.0,300
+Fusion Treats 289,Bairagarh,Casual Dining,Yes,318,3.7,900
+Blue Hub 290,TT Nagar,Desserts,Yes,192,3.8,500
+Tandoor Treats 291,Kolar Road,Buffet,No,52,4.1,950
+Green Hub 292,Indrapuri,Buffet,Yes,189,4.1,1100
+Green Cafe 293,Indrapuri,Buffet,No,116,4.2,1150
+Urban Treats 294,Indrapuri,Desserts,Yes,91,3.7,300
+Green Bistro 295,Arera Colony,Dining,Yes,124,3.7,450
+Spice House 296,Kolar Road,Quick Bites,Yes,61,3.4,150
+Fusion Treats 297,Bairagarh,Desserts,No,244,3.7,300
+Fusion Cafe 298,Arera Colony,Buffet,Yes,270,3.7,1200
+Green House 299,MP Nagar,Cafe,Yes,306,4.4,350
+Urban Corner 300,MP Nagar,Buffet,No,80,3.4,1200
+Fusion Treats 301,MP Nagar,Cafe,Yes,306,4.2,550
+Fusion Cafe 302,Kolar Road,Buffet,No,100,3.5,700
+Blue Dine 303,MP Nagar,Cafe,No,309,3.9,300
+Fusion Corner 304,Kolar Road,Cafe,No,66,3.7,200
+Saffron Corner 305,MP Nagar,Quick Bites,Yes,203,4.2,200
+Blue House 306,MP Nagar,Dining,No,127,4.2,800
+Urban Corner 307,TT Nagar,Cafe,Yes,230,4.3,350
+Urban Dine 308,Bairagarh,Buffet,No,93,4.2,1100
+Royal Dine 309,TT Nagar,Dining,No,92,4.1,600
+Royal Hub 310,Kolar Road,Casual Dining,No,110,4.2,750
+Saffron Dine 311,Bairagarh,Cafe,Yes,90,3.6,250
+Tandoor Bistro 312,Bairagarh,Dining,No,283,3.6,900
+Saffron Kitchen 313,Kolar Road,Buffet,No,259,4.0,850
+Spice Kitchen 314,Indrapuri,Dining,Yes,277,3.6,650
+Fusion Bistro 315,TT Nagar,Buffet,Yes,266,3.6,1150
+Green Kitchen 316,MP Nagar,Quick Bites,Yes,220,3.4,150
+Royal House 317,MP Nagar,Quick Bites,Yes,181,3.3,300
+Spice Hub 318,Arera Colony,Quick Bites,No,110,3.3,350
+Tandoor House 319,Kolar Road,Buffet,No,263,3.6,850
+Fusion Corner 320,Kolar Road,Buffet,No,70,4.0,1200
+Tandoor House 321,TT Nagar,Buffet,No,92,4.0,1150
+Fusion Kitchen 322,TT Nagar,Dining,Yes,288,3.3,500
+Fusion House 323,Arera Colony,Casual Dining,No,299,3.7,750
+Spice Dine 324,Indrapuri,Quick Bites,Yes,253,3.2,200
+Green Treats 325,Indrapuri,Casual Dining,Yes,244,3.6,900
+Royal Dine 326,Indrapuri,Casual Dining,Yes,191,3.8,850
+Spice Kitchen 327,Bairagarh,Cafe,Yes,256,4.5,450
+Green Bistro 328,Indrapuri,Desserts,Yes,111,3.7,400
+Green Hub 329,TT Nagar,Buffet,No,52,3.6,700
+Blue Cafe 330,Indrapuri,Dining,Yes,125,3.5,450
+Tandoor Cafe 331,Kolar Road,Cafe,Yes,98,3.8,550
+Fusion Hub 332,Indrapuri,Buffet,No,141,4.0,750
+Spice Dine 333,Bairagarh,Desserts,No,222,3.4,400
+Tandoor House 334,Bairagarh,Casual Dining,Yes,150,3.9,400
+Fusion Kitchen 335,Bairagarh,Desserts,Yes,62,3.8,400
+Saffron Kitchen 336,Arera Colony,Dining,No,273,4.2,700
+Blue Treats 337,Bairagarh,Buffet,No,180,3.6,1050
+Urban Treats 338,TT Nagar,Quick Bites,Yes,266,3.9,200
+Royal House 339,Indrapuri,Buffet,No,230,3.9,1300
+Spice Bistro 340,Indrapuri,Desserts,No,103,4.3,300
+Fusion Corner 341,Arera Colony,Buffet,No,122,3.8,1300
+Green House 342,Indrapuri,Cafe,Yes,179,3.9,550
+Green Kitchen 343,Kolar Road,Desserts,Yes,64,3.9,200
+Green House 344,Arera Colony,Dining,No,174,4.2,650
+Spice Corner 345,Bairagarh,Buffet,Yes,105,3.5,1000
+Fusion Kitchen 346,Indrapuri,Casual Dining,No,217,3.6,550
+Urban Treats 347,MP Nagar,Casual Dining,Yes,315,3.7,550
+Royal Dine 348,Kolar Road,Desserts,Yes,225,4.4,350
+Urban Treats 349,Kolar Road,Buffet,No,82,4.1,650
+Urban Bistro 350,Arera Colony,Dining,No,169,3.6,500
+Fusion House 351,Indrapuri,Desserts,Yes,149,3.7,350
+Fusion Cafe 352,Indrapuri,Quick Bites,Yes,292,3.9,150
+Blue Cafe 353,Bairagarh,Desserts,Yes,111,4.4,150
+Green Treats 354,Bairagarh,Quick Bites,Yes,284,3.4,300
+Royal Corner 355,Kolar Road,Cafe,Yes,65,3.4,450
+Blue Kitchen 356,Indrapuri,Dining,No,162,3.7,650
+Spice Corner 357,MP Nagar,Buffet,No,277,3.8,850
+Spice Bistro 358,Kolar Road,Buffet,Yes,195,3.8,1100
+Green Hub 359,Kolar Road,Desserts,Yes,68,4.1,150
+Fusion Kitchen 360,Bairagarh,Buffet,No,165,4.4,700
+Green Treats 361,Kolar Road,Casual Dining,Yes,376,4.0,850
+Urban Hub 362,MP Nagar,Casual Dining,No,138,4.4,550
+Royal Cafe 363,TT Nagar,Buffet,No,215,3.3,1150
+Fusion Corner 364,Kolar Road,Quick Bites,No,112,3.7,450
+Tandoor Bistro 365,MP Nagar,Buffet,Yes,215,3.7,600
+Blue House 366,Kolar Road,Casual Dining,Yes,365,3.8,400
+Green Corner 367,MP Nagar,Buffet,No,257,3.8,700
+Green Dine 368,Indrapuri,Desserts,Yes,65,4.1,350
+Urban Kitchen 369,Kolar Road,Cafe,Yes,88,3.7,350
+Blue Treats 370,Bairagarh,Cafe,Yes,163,3.4,400
+Royal Treats 371,TT Nagar,Dining,No,312,4.2,700
+Blue Treats 372,Bairagarh,Desserts,Yes,217,3.4,400
+Spice Bistro 373,MP Nagar,Dining,Yes,393,4.2,500
+Saffron Dine 374,Kolar Road,Dining,No,335,4.2,800
+Royal House 375,Indrapuri,Dining,No,161,4.2,850
+Fusion Bistro 376,Arera Colony,Casual Dining,No,249,4.2,600
+Urban Hub 377,Arera Colony,Cafe,Yes,108,3.7,600
+Green House 378,Indrapuri,Buffet,No,268,3.3,700
+Urban Bistro 379,TT Nagar,Cafe,Yes,254,3.8,400
+Royal Kitchen 380,TT Nagar,Dining,No,251,4.2,550
+Royal Bistro 381,Kolar Road,Casual Dining,No,80,3.8,400
+Blue Hub 382,Kolar Road,Dining,No,112,3.3,750
+Royal Corner 383,Bairagarh,Buffet,Yes,220,4.0,700
+Blue Hub 384,TT Nagar,Dining,No,168,3.2,450
+Green Bistro 385,Indrapuri,Buffet,Yes,252,4.1,800
+Royal Dine 386,Arera Colony,Cafe,Yes,84,3.6,350
+Royal Corner 387,Kolar Road,Casual Dining,Yes,132,4.3,600
+Green Dine 388,Indrapuri,Dining,No,158,3.3,850
+Tandoor Treats 389,TT Nagar,Cafe,No,263,3.5,500
+Tandoor House 390,Arera Colony,Casual Dining,No,243,3.7,450
+Urban Cafe 391,Arera Colony,Casual Dining,Yes,319,4.1,900
+Tandoor Corner 392,Arera Colony,Casual Dining,Yes,234,4.3,800
+Urban Hub 393,Arera Colony,Cafe,Yes,154,4.1,600
+Urban Hub 394,Bairagarh,Casual Dining,Yes,249,3.7,1000
+Blue Cafe 395,Bairagarh,Casual Dining,Yes,97,3.9,550
+Spice House 396,TT Nagar,Buffet,No,272,4.4,900
+Blue Cafe 397,TT Nagar,Cafe,No,61,3.9,250
+Fusion Corner 398,Bairagarh,Buffet,No,217,3.4,900
+Blue Cafe 399,Bairagarh,Dining,Yes,425,4.2,650
+Spice Cafe 400,Bairagarh,Casual Dining,Yes,369,4.2,650
+Spice Kitchen 401,MP Nagar,Cafe,Yes,264,4.0,300
+Green Corner 402,Arera Colony,Dining,No,275,3.5,650
+Blue Treats 403,Indrapuri,Cafe,Yes,178,3.7,350
+Royal Kitchen 404,Arera Colony,Desserts,Yes,64,3.3,400
+Green Kitchen 405,Indrapuri,Buffet,No,243,4.1,600
+Urban Dine 406,TT Nagar,Casual Dining,Yes,379,4.3,450
+Urban Treats 407,MP Nagar,Dining,No,143,4.0,450
+Blue Dine 408,Bairagarh,Cafe,No,205,4.0,600
+Blue Dine 409,MP Nagar,Dining,No,205,3.9,500
+Green Kitchen 410,Arera Colony,Dining,No,448,3.4,550
+Blue Kitchen 411,TT Nagar,Casual Dining,No,337,3.8,700
+Green Hub 412,Arera Colony,Casual Dining,No,271,4.1,450
+Royal Corner 413,Bairagarh,Cafe,Yes,254,4.1,550
+Fusion Dine 414,TT Nagar,Desserts,Yes,184,3.6,300
+Royal Cafe 415,TT Nagar,Cafe,Yes,299,4.5,250
+Tandoor Treats 416,Kolar Road,Casual Dining,No,93,4.0,400
+Green Kitchen 417,MP Nagar,Quick Bites,Yes,184,3.7,300
+Fusion Dine 418,Arera Colony,Cafe,Yes,287,3.6,500
+Blue Kitchen 419,Kolar Road,Buffet,Yes,238,3.5,700
+Saffron Corner 420,TT Nagar,Buffet,No,59,3.5,900
+Spice Treats 421,Kolar Road,Casual Dining,Yes,148,4.3,900
+Spice Dine 422,Indrapuri,Casual Dining,No,101,3.6,750
+Blue Dine 423,Kolar Road,Cafe,Yes,137,4.1,450
+Fusion Bistro 424,Arera Colony,Buffet,No,145,3.4,1250
+Saffron Treats 425,Indrapuri,Dining,No,83,3.6,450
+Tandoor Cafe 426,TT Nagar,Desserts,Yes,97,3.6,450
+Saffron Dine 427,MP Nagar,Desserts,Yes,119,3.9,250
+Saffron Dine 428,Bairagarh,Desserts,No,95,3.6,200
+Tandoor Dine 429,Indrapuri,Desserts,Yes,215,3.5,300
+Saffron Kitchen 430,MP Nagar,Quick Bites,Yes,122,3.9,450
+Urban House 431,Arera Colony,Desserts,Yes,120,4.0,200
+Blue Bistro 432,Kolar Road,Dining,No,359,3.8,800
+Tandoor Dine 433,TT Nagar,Quick Bites,Yes,115,3.9,300
+Tandoor House 434,TT Nagar,Cafe,Yes,253,4.1,300
+Spice Dine 435,Arera Colony,Dining,No,307,3.8,300
+Royal Treats 436,Indrapuri,Casual Dining,No,142,3.4,750
+Urban Corner 437,Kolar Road,Cafe,Yes,110,3.7,300
+Tandoor Hub 438,Kolar Road,Casual Dining,No,284,3.5,400
+Tandoor Corner 439,Bairagarh,Buffet,No,269,4.1,1050
+Royal Bistro 440,MP Nagar,Buffet,No,192,3.7,1000
+Royal Dine 441,Bairagarh,Casual Dining,No,265,4.3,950
+Tandoor Kitchen 442,Indrapuri,Casual Dining,No,109,3.5,600
+Blue House 443,Indrapuri,Casual Dining,No,277,3.6,800
+Spice Kitchen 444,Indrapuri,Casual Dining,Yes,307,3.6,700
+Saffron Corner 445,Bairagarh,Quick Bites,Yes,244,4.0,400
+Urban Bistro 446,Arera Colony,Dining,No,418,3.5,800
+Urban Kitchen 447,Arera Colony,Dining,No,155,4.2,600
+Spice Kitchen 448,Indrapuri,Quick Bites,Yes,107,3.4,200
+Green Kitchen 449,TT Nagar,Quick Bites,Yes,190,3.2,400
+Blue Kitchen 450,Kolar Road,Dining,No,224,3.5,850
+Spice Treats 451,Arera Colony,Desserts,No,138,3.6,400
+Green Cafe 452,Bairagarh,Quick Bites,No,229,3.4,150
+Tandoor House 453,Arera Colony,Buffet,Yes,127,3.6,1250
+Urban Cafe 454,Indrapuri,Cafe,Yes,204,3.4,350
+Tandoor Bistro 455,Arera Colony,Buffet,No,224,3.3,1050
+Fusion Kitchen 456,Arera Colony,Quick Bites,No,113,3.4,300
+Fusion Corner 457,Bairagarh,Desserts,Yes,106,3.4,350
+Urban Hub 458,Bairagarh,Desserts,Yes,62,4.0,400
+Saffron Kitchen 459,MP Nagar,Buffet,Yes,169,3.6,1250
+Urban Treats 460,Bairagarh,Quick Bites,Yes,65,3.1,300
+Saffron Dine 461,Bairagarh,Buffet,No,256,3.7,950
+Blue Hub 462,Arera Colony,Quick Bites,Yes,300,3.3,250
+Urban House 463,MP Nagar,Quick Bites,Yes,212,3.3,200
+Saffron House 464,Kolar Road,Cafe,Yes,257,3.4,250
+Urban Corner 465,Bairagarh,Casual Dining,Yes,113,4.4,550
+Urban Dine 466,Indrapuri,Buffet,No,257,3.9,1300
+Spice House 467,MP Nagar,Casual Dining,No,323,3.4,1000
+Green Corner 468,Arera Colony,Quick Bites,Yes,165,3.9,200
+Urban Bistro 469,Indrapuri,Desserts,Yes,106,4.2,500
+Saffron Hub 470,Indrapuri,Cafe,Yes,258,3.7,550
+Spice Dine 471,Indrapuri,Desserts,No,123,3.6,400
+Tandoor Kitchen 472,Indrapuri,Dining,Yes,169,3.8,450
+Urban Cafe 473,MP Nagar,Cafe,No,315,4.3,600
+Spice Dine 474,Indrapuri,Quick Bites,No,179,4.0,350
+Saffron Hub 475,Bairagarh,Dining,Yes,216,3.9,850
+Spice House 476,Kolar Road,Buffet,No,274,3.5,900
+Tandoor Corner 477,Arera Colony,Dining,No,424,4.0,650
+Royal Corner 478,Indrapuri,Quick Bites,Yes,131,3.2,200
+Fusion Bistro 479,Indrapuri,Desserts,Yes,52,3.4,400
+Blue Corner 480,Indrapuri,Desserts,No,66,3.5,250
+Royal Dine 481,TT Nagar,Quick Bites,Yes,74,3.7,350
+Saffron Bistro 482,Arera Colony,Cafe,Yes,110,4.4,350
+Blue Hub 483,Arera Colony,Buffet,No,57,4.0,1300
+Royal Bistro 484,MP Nagar,Cafe,Yes,198,3.7,400
+Spice Dine 485,Kolar Road,Buffet,No,117,3.6,950
+Urban Bistro 486,Arera Colony,Cafe,Yes,214,4.1,250
+Blue House 487,MP Nagar,Cafe,Yes,211,3.7,400
+Green House 488,TT Nagar,Buffet,No,86,3.5,1350
+Royal House 489,Indrapuri,Casual Dining,No,326,3.7,450
+Royal Bistro 490,MP Nagar,Cafe,Yes,318,3.7,500
+Fusion House 491,Arera Colony,Dining,Yes,302,4.0,650
+Green Kitchen 492,MP Nagar,Cafe,Yes,66,4.2,350
+Blue Treats 493,Bairagarh,Buffet,Yes,189,3.6,850
+Green House 494,Bairagarh,Cafe,Yes,74,4.0,350
+Saffron Corner 495,Kolar Road,Dining,Yes,189,4.2,300
+Saffron Dine 496,TT Nagar,Desserts,Yes,105,3.7,300
+Saffron Cafe 497,Indrapuri,Quick Bites,No,180,3.1,250
+Blue Hub 498,Arera Colony,Dining,No,269,3.5,750
+Urban Treats 499,MP Nagar,Quick Bites,Yes,99,4.0,150
+Tandoor Cafe 500,Arera Colony,Desserts,No,244,3.7,500
+Spice Bistro 501,Arera Colony,Desserts,No,94,3.4,200
+Tandoor Corner 502,Bairagarh,Buffet,No,242,3.7,1200
+Fusion Cafe 503,Bairagarh,Quick Bites,Yes,194,3.6,200
+Spice Hub 504,Bairagarh,Cafe,No,164,3.6,550
+Blue Corner 505,Kolar Road,Quick Bites,Yes,166,3.6,300
+Spice Hub 506,MP Nagar,Dining,No,80,4.3,500
+Urban Corner 507,Arera Colony,Quick Bites,Yes,168,3.3,300
+Urban Treats 508,Bairagarh,Dining,Yes,158,4.2,700
+Green House 509,TT Nagar,Casual Dining,No,277,3.9,800
+Saffron Corner 510,Bairagarh,Casual Dining,No,99,3.8,750
+Urban House 511,Kolar Road,Casual Dining,Yes,325,4.2,950
+Urban Hub 512,Kolar Road,Buffet,No,83,3.9,900
+Saffron Hub 513,TT Nagar,Desserts,Yes,137,4.1,300
+Urban Kitchen 514,MP Nagar,Buffet,No,195,4.2,950
+Urban Hub 515,MP Nagar,Casual Dining,No,225,3.6,600
+Green House 516,MP Nagar,Buffet,No,234,3.5,650
+Spice Corner 517,Bairagarh,Cafe,No,216,4.3,600
+Green Dine 518,Indrapuri,Desserts,No,208,3.5,400
+Spice Cafe 519,TT Nagar,Dining,No,278,4.3,450
+Spice House 520,Arera Colony,Desserts,No,119,3.7,200
+Saffron Hub 521,Bairagarh,Casual Dining,Yes,230,3.7,550
+Saffron House 522,Kolar Road,Casual Dining,Yes,164,3.8,400
+Saffron Bistro 523,Arera Colony,Quick Bites,Yes,205,4.0,350
+Urban Bistro 524,TT Nagar,Desserts,Yes,228,3.6,250
+Urban Kitchen 525,MP Nagar,Cafe,No,234,4.5,500
+Tandoor Cafe 526,Arera Colony,Quick Bites,Yes,114,3.7,200
+Blue House 527,TT Nagar,Buffet,No,260,4.1,900
+Urban Corner 528,Indrapuri,Quick Bites,Yes,120,3.5,400
+Royal Corner 529,MP Nagar,Cafe,No,173,3.5,550
+Fusion Hub 530,TT Nagar,Buffet,No,187,3.6,900
+Urban Dine 531,Bairagarh,Quick Bites,No,86,3.9,150
+Spice Hub 532,MP Nagar,Quick Bites,Yes,297,3.2,350
+Blue Bistro 533,Kolar Road,Cafe,Yes,189,4.4,300
+Tandoor Corner 534,Kolar Road,Cafe,Yes,272,3.6,600
+Green House 535,Indrapuri,Desserts,Yes,248,4.0,350
+Royal House 536,MP Nagar,Dining,No,363,3.4,650
+Tandoor House 537,Kolar Road,Dining,No,413,3.3,750
+Saffron Corner 538,MP Nagar,Buffet,No,191,3.9,900
+Fusion House 539,MP Nagar,Cafe,Yes,281,3.9,550
+Royal Bistro 540,Bairagarh,Dining,Yes,97,3.2,450
+Fusion Cafe 541,Kolar Road,Quick Bites,Yes,235,3.2,250
+Urban Kitchen 542,MP Nagar,Cafe,Yes,316,3.8,450
+Royal Treats 543,Arera Colony,Cafe,No,81,4.1,550
+Urban Dine 544,Bairagarh,Desserts,Yes,248,4.2,400
+Green Dine 545,TT Nagar,Casual Dining,No,93,3.6,750
+Fusion Bistro 546,Kolar Road,Dining,Yes,95,3.7,850
+Green Kitchen 547,MP Nagar,Desserts,Yes,224,3.9,300
+Urban Kitchen 548,Kolar Road,Cafe,Yes,101,3.6,250
+Spice House 549,Arera Colony,Desserts,Yes,234,3.5,450
+Royal Treats 550,Bairagarh,Cafe,Yes,73,3.6,500
+Tandoor Treats 551,Indrapuri,Casual Dining,No,183,3.5,850
+Tandoor Treats 552,Bairagarh,Buffet,No,171,3.3,1150
+Royal Corner 553,TT Nagar,Buffet,Yes,88,4.1,900
+Green Corner 554,Arera Colony,Quick Bites,Yes,141,3.4,200
+Urban Dine 555,Kolar Road,Buffet,No,275,3.5,1100
+Royal Dine 556,Kolar Road,Casual Dining,Yes,261,3.6,550
+Blue Kitchen 557,TT Nagar,Desserts,Yes,117,3.3,450
+Blue Kitchen 558,TT Nagar,Buffet,No,177,3.6,700
+Fusion Corner 559,Arera Colony,Cafe,Yes,72,4.5,350
+Urban Treats 560,TT Nagar,Dining,Yes,131,4.0,700
+Spice Cafe 561,Kolar Road,Buffet,No,127,3.5,950
+Saffron Corner 562,Arera Colony,Cafe,Yes,170,4.2,250
+Green Hub 563,Kolar Road,Casual Dining,No,348,4.3,500
+Tandoor Treats 564,MP Nagar,Quick Bites,Yes,222,4.1,250
+Spice Bistro 565,Indrapuri,Desserts,Yes,103,4.1,300
+Urban Dine 566,Kolar Road,Buffet,No,148,3.4,1350
+Saffron Corner 567,MP Nagar,Quick Bites,No,295,4.2,300
+Tandoor Cafe 568,Bairagarh,Dining,No,322,4.0,800
+Fusion Treats 569,Bairagarh,Cafe,Yes,174,3.6,600
+Tandoor Cafe 570,TT Nagar,Desserts,No,236,3.6,150
+Blue Treats 571,MP Nagar,Quick Bites,No,279,3.4,200
+Tandoor Dine 572,MP Nagar,Casual Dining,Yes,133,3.4,700
+Spice Bistro 573,MP Nagar,Buffet,Yes,177,3.8,1050
+Fusion Hub 574,Kolar Road,Quick Bites,Yes,234,3.9,250
+Royal Bistro 575,TT Nagar,Desserts,No,150,4.1,200
+Fusion Treats 576,Arera Colony,Dining,Yes,146,4.1,350
+Green House 577,Kolar Road,Cafe,Yes,306,3.8,450
+Tandoor Hub 578,Kolar Road,Buffet,No,243,3.3,700
+Tandoor House 579,Bairagarh,Quick Bites,Yes,90,3.9,200
+Urban Cafe 580,TT Nagar,Quick Bites,Yes,149,3.2,300
+Urban Cafe 581,MP Nagar,Cafe,Yes,299,3.5,450
+Tandoor Hub 582,Arera Colony,Desserts,Yes,138,3.8,250
+Blue Dine 583,Kolar Road,Cafe,Yes,155,4.2,600
+Spice House 584,Arera Colony,Cafe,No,187,3.5,600
+Spice Treats 585,Kolar Road,Desserts,Yes,104,3.3,450
+Fusion Bistro 586,Bairagarh,Casual Dining,Yes,357,4.2,800
+Green Treats 587,MP Nagar,Cafe,Yes,136,3.5,400
+Urban House 588,Kolar Road,Dining,Yes,262,3.7,700
+Tandoor Corner 589,TT Nagar,Desserts,Yes,203,3.7,350
+Spice Dine 590,Indrapuri,Quick Bites,Yes,173,3.2,150
+Green Corner 591,Bairagarh,Dining,No,314,4.2,450
+Tandoor Hub 592,TT Nagar,Casual Dining,No,129,4.3,450
+Tandoor Kitchen 593,TT Nagar,Desserts,Yes,123,3.8,200
+Royal Corner 594,MP Nagar,Desserts,No,225,3.7,300
+Green Treats 595,Arera Colony,Buffet,No,159,3.8,1150
+Spice Corner 596,Indrapuri,Cafe,Yes,92,3.9,400
+Spice House 597,Bairagarh,Casual Dining,No,377,4.0,850
+Blue Hub 598,MP Nagar,Cafe,Yes,282,4.4,300
+Tandoor House 599,Arera Colony,Desserts,Yes,83,3.8,200
+Royal Bistro 600,Indrapuri,Dining,No,130,4.2,500
+Tandoor Cafe 601,Indrapuri,Casual Dining,No,227,3.5,700
+Green Bistro 602,Arera Colony,Desserts,Yes,58,4.0,200
+Royal Dine 603,Arera Colony,Casual Dining,No,293,4.1,600
+Spice Bistro 604,Bairagarh,Casual Dining,Yes,327,3.7,500
+Urban Dine 605,MP Nagar,Dining,No,201,4.1,600
+Green Cafe 606,Bairagarh,Cafe,Yes,199,4.4,450
+Fusion Corner 607,MP Nagar,Cafe,Yes,108,3.9,400
+Tandoor Bistro 608,TT Nagar,Desserts,Yes,49,3.8,400
+Saffron Corner 609,TT Nagar,Casual Dining,Yes,237,3.8,750
+Urban Cafe 610,Kolar Road,Cafe,Yes,110,3.6,550
+Royal Corner 611,Indrapuri,Desserts,Yes,99,3.5,500
+Tandoor Bistro 612,MP Nagar,Desserts,Yes,43,4.3,400
+Fusion Treats 613,MP Nagar,Desserts,Yes,105,3.5,350
+Spice Dine 614,MP Nagar,Cafe,Yes,196,3.9,550
+Urban Cafe 615,MP Nagar,Dining,No,307,3.5,700
+Fusion House 616,Kolar Road,Dining,No,175,3.3,300
+Spice House 617,MP Nagar,Quick Bites,No,112,3.4,450
+Fusion Kitchen 618,Indrapuri,Desserts,Yes,107,4.2,200
+Fusion Dine 619,Bairagarh,Quick Bites,Yes,129,4.0,450
+Blue Kitchen 620,Arera Colony,Casual Dining,No,216,4.3,950
+Green Treats 621,Indrapuri,Cafe,Yes,177,3.7,400
+Urban Hub 622,Kolar Road,Dining,No,317,3.9,450
+Fusion Kitchen 623,Arera Colony,Quick Bites,Yes,118,4.2,350
+Fusion Kitchen 624,Bairagarh,Buffet,No,200,3.7,1350
+Urban Dine 625,MP Nagar,Buffet,No,166,3.6,1150
+Green Treats 626,Arera Colony,Casual Dining,No,87,3.5,950
+Royal Kitchen 627,Indrapuri,Cafe,Yes,112,4.5,400
+Blue Corner 628,Indrapuri,Desserts,Yes,150,3.3,250
+Blue Kitchen 629,Indrapuri,Quick Bites,Yes,51,3.4,450
+Green Bistro 630,Kolar Road,Dining,No,347,3.4,650
+Urban Corner 631,Indrapuri,Quick Bites,No,164,4.2,450
+Royal Dine 632,TT Nagar,Buffet,No,270,3.8,1200
+Green Dine 633,Arera Colony,Buffet,No,103,3.7,650
+Urban Kitchen 634,TT Nagar,Desserts,No,249,3.9,450
+Fusion Cafe 635,Arera Colony,Buffet,No,143,4.1,650
+Royal Bistro 636,Kolar Road,Buffet,Yes,212,3.3,1350
+Royal Hub 637,TT Nagar,Dining,No,418,4.0,550
+Tandoor Corner 638,Arera Colony,Buffet,No,198,3.7,950
+Green Kitchen 639,MP Nagar,Buffet,Yes,235,4.2,800
+Royal House 640,MP Nagar,Casual Dining,Yes,273,4.1,800
+Fusion Treats 641,TT Nagar,Buffet,No,203,4.1,700
+Green Dine 642,MP Nagar,Cafe,Yes,79,4.3,400
+Saffron Corner 643,Kolar Road,Buffet,No,114,3.9,950
+Saffron Cafe 644,Kolar Road,Casual Dining,No,180,3.8,700
+Fusion Bistro 645,TT Nagar,Desserts,No,108,4.1,300
+Fusion Cafe 646,Bairagarh,Dining,Yes,125,3.3,350
+Green Cafe 647,Arera Colony,Quick Bites,Yes,63,3.4,200
+Saffron Cafe 648,TT Nagar,Cafe,No,260,4.2,350
+Urban Dine 649,MP Nagar,Desserts,Yes,205,3.5,450
+Fusion Corner 650,Kolar Road,Buffet,No,178,4.3,1300
+Blue Hub 651,MP Nagar,Dining,No,318,3.4,850
+Blue House 652,TT Nagar,Casual Dining,No,278,3.4,400
+Saffron Cafe 653,Indrapuri,Quick Bites,Yes,190,3.8,350
+Tandoor Corner 654,Arera Colony,Casual Dining,No,306,4.0,950
+Urban Cafe 655,MP Nagar,Cafe,Yes,95,4.1,500
+Spice Kitchen 656,Arera Colony,Quick Bites,No,218,3.7,250
+Tandoor Cafe 657,TT Nagar,Buffet,No,180,4.2,1000
+Tandoor Treats 658,TT Nagar,Cafe,No,75,4.4,300
+Urban Treats 659,TT Nagar,Dining,No,219,3.9,750
+Green Dine 660,Kolar Road,Casual Dining,Yes,243,3.9,750
+Spice Bistro 661,Kolar Road,Buffet,No,254,4.2,1000
+Royal Dine 662,MP Nagar,Quick Bites,Yes,297,3.4,200
+Fusion Dine 663,TT Nagar,Buffet,No,110,3.4,650
+Saffron Cafe 664,MP Nagar,Quick Bites,Yes,150,3.8,200
+Urban Dine 665,Bairagarh,Desserts,Yes,184,3.9,200
+Saffron Corner 666,Arera Colony,Cafe,Yes,207,3.4,250
+Blue Kitchen 667,Kolar Road,Desserts,Yes,56,3.8,350
+Green Dine 668,Kolar Road,Quick Bites,Yes,235,3.1,300
+Royal Dine 669,Indrapuri,Quick Bites,No,207,3.4,150
+Tandoor Dine 670,Kolar Road,Casual Dining,No,285,4.1,550
+Tandoor Dine 671,Bairagarh,Cafe,Yes,170,3.8,250
+Spice Dine 672,Kolar Road,Casual Dining,Yes,201,3.5,600
+Green Bistro 673,Kolar Road,Casual Dining,Yes,118,4.2,600
+Royal Cafe 674,Bairagarh,Casual Dining,Yes,162,3.8,800
+Blue House 675,Bairagarh,Casual Dining,Yes,301,3.4,600
+Fusion Treats 676,Indrapuri,Buffet,No,60,4.0,850
+Spice Bistro 677,TT Nagar,Casual Dining,No,289,3.7,800
+Saffron Kitchen 678,Kolar Road,Quick Bites,Yes,72,3.2,250
+Green Treats 679,Arera Colony,Casual Dining,No,218,3.4,550
+Tandoor Corner 680,Arera Colony,Buffet,No,249,3.6,750
+Green Corner 681,Bairagarh,Quick Bites,Yes,117,3.6,400
+Tandoor Cafe 682,MP Nagar,Quick Bites,No,125,3.8,150
+Fusion Kitchen 683,Kolar Road,Buffet,No,148,4.3,950
+Spice Kitchen 684,MP Nagar,Desserts,No,219,4.3,400
+Urban Kitchen 685,Indrapuri,Casual Dining,Yes,75,3.4,450
+Spice Hub 686,MP Nagar,Dining,Yes,305,3.5,400
+Blue Corner 687,MP Nagar,Cafe,Yes,301,4.5,350
+Saffron Cafe 688,Indrapuri,Dining,Yes,298,3.9,400
+Fusion Kitchen 689,TT Nagar,Casual Dining,Yes,374,4.0,800
+Tandoor Dine 690,Arera Colony,Buffet,No,66,3.3,700
+Urban Treats 691,MP Nagar,Quick Bites,No,118,3.5,300
+Blue Cafe 692,TT Nagar,Cafe,Yes,169,4.4,400
+Saffron Corner 693,MP Nagar,Buffet,No,186,4.0,1350
+Blue House 694,Kolar Road,Dining,No,134,3.9,300
+Saffron House 695,Indrapuri,Quick Bites,Yes,291,3.1,400
+Fusion Bistro 696,Bairagarh,Dining,No,334,4.3,850
+Fusion Dine 697,Bairagarh,Dining,No,257,4.0,850
+Spice Treats 698,Arera Colony,Desserts,Yes,177,3.4,300
+Spice House 699,Kolar Road,Quick Bites,Yes,230,3.3,300
+Green Hub 700,Bairagarh,Buffet,No,114,3.4,1400
+Urban Kitchen 701,Bairagarh,Desserts,No,218,3.5,300
+Urban Corner 702,TT Nagar,Quick Bites,Yes,214,4.0,150
+Fusion Kitchen 703,TT Nagar,Buffet,No,104,4.0,1050
+Green Bistro 704,Bairagarh,Buffet,No,245,3.9,900
+Royal Bistro 705,Arera Colony,Desserts,Yes,142,3.5,400
+Spice Treats 706,MP Nagar,Buffet,No,227,3.8,1300
+Saffron House 707,Kolar Road,Casual Dining,No,157,3.6,450
+Saffron Treats 708,Arera Colony,Quick Bites,Yes,53,4.0,350
+Royal Cafe 709,Bairagarh,Desserts,No,233,3.5,200
+Saffron Treats 710,TT Nagar,Cafe,No,245,3.5,450
+Spice Dine 711,Kolar Road,Buffet,No,115,3.9,950
+Urban Corner 712,Kolar Road,Dining,Yes,421,3.5,300
+Spice Kitchen 713,Bairagarh,Cafe,Yes,84,3.6,300
+Royal Corner 714,MP Nagar,Buffet,No,195,4.2,650
+Urban Kitchen 715,MP Nagar,Casual Dining,No,299,3.7,900
+Tandoor Bistro 716,Bairagarh,Casual Dining,No,316,3.4,800
+Urban Cafe 717,Arera Colony,Cafe,No,167,4.4,200
+Green Kitchen 718,Arera Colony,Quick Bites,Yes,159,4.0,150
+Spice Treats 719,TT Nagar,Buffet,No,160,4.2,650
+Green Bistro 720,Kolar Road,Dining,No,193,4.0,700
+Fusion Treats 721,MP Nagar,Quick Bites,Yes,242,3.5,350
+Fusion Hub 722,Indrapuri,Quick Bites,No,56,3.4,300
+Royal Cafe 723,MP Nagar,Buffet,No,131,3.3,1300
+Saffron Bistro 724,Bairagarh,Dining,No,242,3.5,500
+Tandoor Cafe 725,Kolar Road,Desserts,Yes,130,4.1,200
+Royal Hub 726,Bairagarh,Dining,Yes,278,4.3,500
+Urban Hub 727,Arera Colony,Buffet,Yes,240,4.0,800
+Royal Bistro 728,Kolar Road,Cafe,Yes,129,3.9,500
+Green Hub 729,Arera Colony,Desserts,No,125,3.9,250
+Urban Treats 730,MP Nagar,Casual Dining,Yes,288,3.5,550
+Spice House 731,Indrapuri,Dining,Yes,221,4.1,350
+Urban Kitchen 732,Bairagarh,Cafe,Yes,206,4.1,450
+Tandoor Hub 733,Indrapuri,Buffet,No,264,3.9,900
+Fusion Hub 734,Arera Colony,Dining,No,108,4.1,850
+Green House 735,Indrapuri,Desserts,No,97,3.4,350
+Fusion Corner 736,TT Nagar,Buffet,Yes,249,3.3,900
+Tandoor Bistro 737,MP Nagar,Cafe,No,226,4.3,500
+Royal Hub 738,Arera Colony,Cafe,Yes,211,3.9,300
+Spice Treats 739,TT Nagar,Cafe,Yes,197,3.8,250
+Saffron House 740,Bairagarh,Dining,No,221,4.2,550
+Green Dine 741,TT Nagar,Desserts,No,145,4.3,500
+Spice Bistro 742,Arera Colony,Casual Dining,No,309,3.6,950
+Tandoor Treats 743,Kolar Road,Buffet,No,208,4.4,1050
+Urban Treats 744,Bairagarh,Quick Bites,No,211,3.5,200
+Tandoor House 745,Bairagarh,Dining,Yes,124,3.3,600
+Tandoor Dine 746,Indrapuri,Desserts,Yes,195,4.1,300
+Royal Kitchen 747,Arera Colony,Dining,Yes,230,3.5,600
+Urban Hub 748,Indrapuri,Buffet,No,178,4.0,1350
+Urban Bistro 749,Kolar Road,Casual Dining,Yes,316,4.4,500
+Green Dine 750,Arera Colony,Casual Dining,Yes,314,4.2,950
+Green House 751,Indrapuri,Desserts,Yes,48,4.3,350
+Green Bistro 752,Arera Colony,Dining,No,227,3.3,500
+Green Cafe 753,Kolar Road,Casual Dining,Yes,280,4.4,550
+Blue Hub 754,Indrapuri,Desserts,Yes,134,3.4,450
+Royal House 755,Indrapuri,Buffet,Yes,229,4.2,650
+Royal Hub 756,Bairagarh,Buffet,No,153,3.5,1050
+Blue Hub 757,Bairagarh,Casual Dining,No,86,3.8,650
+Fusion Corner 758,Arera Colony,Quick Bites,No,159,3.5,400
+Fusion Kitchen 759,MP Nagar,Dining,No,404,4.2,450
+Blue Dine 760,Arera Colony,Desserts,No,205,4.2,450
+Tandoor Dine 761,Kolar Road,Quick Bites,Yes,257,4.2,300
+Spice House 762,Bairagarh,Quick Bites,No,119,4.1,400
+Tandoor Corner 763,MP Nagar,Buffet,No,248,3.7,800
+Green Bistro 764,Arera Colony,Desserts,Yes,71,4.0,350
+Royal Bistro 765,MP Nagar,Buffet,Yes,125,4.2,950
+Saffron Bistro 766,Arera Colony,Cafe,Yes,75,4.4,250
+Fusion Treats 767,MP Nagar,Cafe,Yes,290,3.6,350
+Fusion Cafe 768,Kolar Road,Desserts,Yes,245,3.7,300
+Saffron House 769,MP Nagar,Casual Dining,No,76,3.5,350
+Fusion Corner 770,Indrapuri,Quick Bites,No,92,3.8,350
+Green Cafe 771,Bairagarh,Quick Bites,Yes,60,3.6,250
+Fusion Dine 772,Indrapuri,Dining,Yes,255,3.2,650
+Urban House 773,Kolar Road,Dining,No,360,3.8,700
+Spice Hub 774,Kolar Road,Dining,Yes,334,3.4,750
+Royal House 775,Kolar Road,Casual Dining,No,177,4.1,500
+Spice Cafe 776,Indrapuri,Buffet,No,144,3.8,1250
+Urban Dine 777,Indrapuri,Cafe,Yes,241,3.5,250
+Tandoor Dine 778,Kolar Road,Casual Dining,No,219,4.0,600
+Urban Cafe 779,Bairagarh,Casual Dining,No,295,4.2,600
+Blue Bistro 780,Kolar Road,Cafe,Yes,243,3.6,450
+Blue Kitchen 781,Indrapuri,Quick Bites,Yes,59,3.8,350
+Spice Dine 782,Kolar Road,Cafe,Yes,240,3.7,550
+Blue Hub 783,MP Nagar,Casual Dining,No,375,3.6,900
+Royal Hub 784,Kolar Road,Desserts,Yes,99,3.7,200
+Saffron Corner 785,TT Nagar,Dining,No,287,3.4,500
+Saffron Corner 786,Bairagarh,Quick Bites,Yes,70,3.8,350
+Urban Dine 787,Kolar Road,Cafe,No,119,3.4,450
+Fusion Hub 788,Bairagarh,Buffet,No,82,3.9,600
+Tandoor Dine 789,TT Nagar,Buffet,No,233,3.7,1350
+Blue Hub 790,Arera Colony,Desserts,No,96,3.5,500
+Fusion Corner 791,Arera Colony,Dining,Yes,356,3.9,350
+Royal Treats 792,MP Nagar,Cafe,No,211,4.1,300
+Urban Treats 793,TT Nagar,Quick Bites,Yes,100,3.8,350
+Blue Bistro 794,Indrapuri,Dining,No,296,4.2,800
+Urban House 795,MP Nagar,Buffet,No,142,3.5,1000
+Blue Kitchen 796,Indrapuri,Desserts,Yes,84,4.3,250
+Green House 797,MP Nagar,Dining,No,449,3.4,450
+Spice Bistro 798,Bairagarh,Quick Bites,Yes,267,3.2,200
+Royal Bistro 799,Indrapuri,Casual Dining,Yes,309,4.0,500
+Tandoor Cafe 800,Bairagarh,Cafe,No,174,3.6,350
+Royal House 801,Arera Colony,Cafe,Yes,103,3.9,300
+Spice Corner 802,Bairagarh,Buffet,Yes,98,3.5,1050
+Spice Hub 803,Indrapuri,Quick Bites,Yes,56,3.4,300
+Saffron Treats 804,Bairagarh,Desserts,Yes,91,4.1,500
+Saffron Bistro 805,Bairagarh,Dining,Yes,426,4.2,400
+Fusion Cafe 806,Kolar Road,Quick Bites,Yes,245,3.4,350
+Blue Kitchen 807,Arera Colony,Quick Bites,Yes,183,3.1,350
+Green Treats 808,MP Nagar,Casual Dining,Yes,244,3.6,400
+Urban Kitchen 809,Kolar Road,Desserts,Yes,233,3.7,200
+Blue House 810,MP Nagar,Buffet,No,145,3.9,1200
+Tandoor Corner 811,Kolar Road,Buffet,No,131,3.8,750
+Green Dine 812,TT Nagar,Desserts,No,233,4.2,450
+Blue Bistro 813,Indrapuri,Cafe,Yes,224,3.5,250
+Fusion Hub 814,Arera Colony,Quick Bites,Yes,55,4.1,350
+Fusion Cafe 815,TT Nagar,Cafe,Yes,149,3.7,300
+Tandoor Bistro 816,Arera Colony,Quick Bites,No,109,3.6,300
+Green Hub 817,Kolar Road,Dining,No,415,4.2,350
+Saffron Corner 818,Bairagarh,Cafe,Yes,137,3.4,600
+Saffron Treats 819,Indrapuri,Buffet,No,187,4.2,1400
+Green Kitchen 820,Kolar Road,Dining,No,115,4.1,450
+Green Dine 821,Indrapuri,Cafe,Yes,145,4.2,450
+Saffron House 822,TT Nagar,Desserts,No,63,4.2,500
+Royal Cafe 823,Arera Colony,Casual Dining,Yes,360,4.2,550
+Spice Hub 824,Arera Colony,Quick Bites,Yes,80,3.2,250
+Blue Hub 825,Bairagarh,Buffet,No,186,3.4,850
+Saffron House 826,Bairagarh,Cafe,Yes,320,4.5,600
+Royal Cafe 827,Kolar Road,Quick Bites,Yes,281,3.2,200
+Blue Treats 828,TT Nagar,Dining,Yes,177,3.3,600
+Royal Corner 829,Indrapuri,Cafe,Yes,237,3.6,400
+Tandoor House 830,Indrapuri,Cafe,No,108,4.3,600
+Saffron Dine 831,MP Nagar,Cafe,Yes,270,3.5,550
+Fusion Cafe 832,Arera Colony,Buffet,Yes,185,4.1,1350
+Urban Bistro 833,Indrapuri,Cafe,Yes,307,4.2,350
+Urban Dine 834,Bairagarh,Casual Dining,Yes,219,4.0,550
+Tandoor Hub 835,Bairagarh,Cafe,Yes,91,3.8,400
+Royal Cafe 836,TT Nagar,Dining,No,175,3.7,550
+Urban Treats 837,Indrapuri,Desserts,No,220,3.4,200
+Blue Dine 838,Arera Colony,Cafe,No,196,3.8,250
+Blue Treats 839,Indrapuri,Cafe,Yes,254,3.8,300
+Royal Kitchen 840,MP Nagar,Dining,Yes,215,3.9,550
+Blue Cafe 841,Arera Colony,Desserts,Yes,110,3.7,200
+Tandoor Treats 842,Bairagarh,Cafe,No,264,4.0,500
+Spice Cafe 843,TT Nagar,Dining,No,80,3.3,850
+Saffron Cafe 844,MP Nagar,Dining,No,390,3.8,700
+Saffron Hub 845,Arera Colony,Buffet,No,275,3.7,700
+Royal Corner 846,Bairagarh,Cafe,Yes,88,4.2,400
+Tandoor Treats 847,TT Nagar,Buffet,Yes,215,3.4,950
+Saffron Bistro 848,Indrapuri,Desserts,No,80,3.4,500
+Blue Bistro 849,MP Nagar,Casual Dining,No,93,4.1,600
+Fusion House 850,MP Nagar,Quick Bites,No,220,3.2,100
+Saffron Cafe 851,MP Nagar,Cafe,Yes,125,4.1,350
+Green Corner 852,Kolar Road,Cafe,Yes,156,4.4,500
+Green Dine 853,Indrapuri,Buffet,No,190,3.3,750
+Green House 854,MP Nagar,Dining,No,361,4.0,850
+Urban Dine 855,Arera Colony,Desserts,Yes,52,3.9,150
+Tandoor Cafe 856,Indrapuri,Buffet,No,254,4.2,1100
+Green Hub 857,Indrapuri,Desserts,Yes,145,3.6,200
+Spice Bistro 858,Bairagarh,Desserts,Yes,54,3.5,350
+Royal Corner 859,Bairagarh,Cafe,Yes,78,4.1,300
+Saffron Corner 860,MP Nagar,Cafe,Yes,212,4.3,400
+Fusion Hub 861,Arera Colony,Quick Bites,No,206,3.8,300
+Spice Treats 862,Indrapuri,Buffet,No,245,4.2,1250
+Urban Dine 863,Bairagarh,Desserts,Yes,121,3.6,300
+Tandoor House 864,Indrapuri,Quick Bites,Yes,271,3.6,200
+Spice Hub 865,Kolar Road,Casual Dining,Yes,349,3.3,450
+Blue Kitchen 866,Arera Colony,Casual Dining,No,109,3.7,650
+Blue Hub 867,Bairagarh,Dining,No,438,4.0,450
+Royal Cafe 868,TT Nagar,Buffet,No,148,4.1,750
+Fusion Corner 869,Kolar Road,Dining,Yes,371,4.1,700
+Saffron Dine 870,TT Nagar,Cafe,Yes,130,3.7,250
+Urban House 871,Arera Colony,Quick Bites,Yes,106,3.5,200
+Royal Cafe 872,MP Nagar,Desserts,Yes,247,3.7,250
+Fusion Dine 873,TT Nagar,Quick Bites,Yes,146,4.0,200
+Saffron House 874,Kolar Road,Dining,Yes,228,3.4,550
+Tandoor Dine 875,Arera Colony,Dining,No,450,3.4,700
+Spice Bistro 876,MP Nagar,Casual Dining,No,353,3.8,500
+Saffron Bistro 877,Bairagarh,Dining,No,199,3.8,500
+Royal Treats 878,MP Nagar,Buffet,No,257,4.0,600
+Urban Bistro 879,Bairagarh,Desserts,Yes,192,4.4,500
+Fusion Bistro 880,TT Nagar,Desserts,No,62,3.8,350
+Urban House 881,Kolar Road,Quick Bites,No,288,3.5,400
+Spice Cafe 882,Indrapuri,Casual Dining,Yes,304,3.5,350
+Green Bistro 883,Arera Colony,Cafe,Yes,302,4.3,500
+Spice Bistro 884,TT Nagar,Dining,No,386,4.0,350
+Spice Bistro 885,Indrapuri,Desserts,Yes,79,4.1,450
+Royal House 886,Arera Colony,Casual Dining,No,275,3.9,900
+Green Cafe 887,MP Nagar,Casual Dining,Yes,137,4.4,950
+Saffron Dine 888,Arera Colony,Buffet,No,145,3.7,1200
+Royal Bistro 889,Kolar Road,Buffet,No,92,3.4,1050
+Spice Corner 890,Bairagarh,Cafe,Yes,234,3.8,600
+Royal Hub 891,Arera Colony,Cafe,Yes,208,4.2,350
+Blue Cafe 892,TT Nagar,Buffet,No,98,3.7,950
+Fusion Bistro 893,Bairagarh,Desserts,No,111,4.2,350
+Tandoor Bistro 894,Kolar Road,Quick Bites,Yes,241,3.6,300
+Green Corner 895,TT Nagar,Dining,No,312,3.9,750
+Royal Dine 896,Indrapuri,Desserts,Yes,150,3.5,150
+Fusion Corner 897,Arera Colony,Buffet,No,185,3.8,600
+Blue Treats 898,MP Nagar,Cafe,Yes,167,4.4,250
+Royal Treats 899,Bairagarh,Desserts,No,105,4.0,300
+Fusion Dine 900,Arera Colony,Quick Bites,Yes,115,4.2,100
+Saffron House 901,Arera Colony,Buffet,No,184,3.6,900
+Spice House 902,Bairagarh,Buffet,Yes,188,3.7,1200
+Tandoor Corner 903,Kolar Road,Quick Bites,Yes,281,3.6,200
+Spice Bistro 904,Bairagarh,Casual Dining,Yes,315,3.5,700
+Fusion Dine 905,Bairagarh,Desserts,Yes,113,4.2,450
+Spice Bistro 906,Kolar Road,Buffet,No,110,4.4,700
+Green Hub 907,Kolar Road,Quick Bites,No,65,3.4,300
+Royal House 908,Indrapuri,Dining,No,288,3.8,500
+Tandoor Treats 909,Arera Colony,Cafe,Yes,297,4.1,400
+Fusion Cafe 910,TT Nagar,Desserts,Yes,197,3.5,250
+Royal Kitchen 911,TT Nagar,Desserts,No,206,3.6,150
+Royal Bistro 912,Arera Colony,Cafe,Yes,297,4.4,550
+Spice Cafe 913,Kolar Road,Cafe,Yes,223,3.4,350
+Spice Kitchen 914,MP Nagar,Buffet,No,262,3.9,1150
+Saffron Hub 915,MP Nagar,Cafe,Yes,245,3.6,550
+Spice House 916,Arera Colony,Desserts,No,55,3.3,300
+Tandoor Cafe 917,TT Nagar,Dining,Yes,257,3.9,400
+Saffron House 918,Bairagarh,Dining,No,371,3.5,750
+Tandoor Kitchen 919,Bairagarh,Dining,Yes,290,3.5,400
+Urban Hub 920,Bairagarh,Dining,No,393,3.7,650
+Spice Dine 921,Kolar Road,Cafe,Yes,118,3.4,550
+Urban Corner 922,TT Nagar,Cafe,Yes,134,3.7,550
+Tandoor Treats 923,MP Nagar,Casual Dining,Yes,322,3.7,700
+Blue Treats 924,Indrapuri,Desserts,Yes,237,3.4,200
+Green House 925,TT Nagar,Dining,Yes,270,4.1,500
+Blue Corner 926,Indrapuri,Dining,Yes,157,4.1,400
+Fusion Bistro 927,Arera Colony,Desserts,Yes,101,3.3,150
+Saffron Corner 928,Kolar Road,Cafe,Yes,69,3.8,400
+Fusion Hub 929,Bairagarh,Dining,No,181,3.3,450
+Blue Kitchen 930,Indrapuri,Desserts,Yes,95,3.9,350
+Saffron Corner 931,Kolar Road,Desserts,Yes,206,3.5,200
+Saffron Kitchen 932,Indrapuri,Cafe,Yes,224,3.7,200
+Royal Corner 933,MP Nagar,Dining,No,407,3.7,850
+Spice Hub 934,Kolar Road,Casual Dining,No,249,4.1,800
+Blue Treats 935,Kolar Road,Casual Dining,No,248,4.0,950
+Tandoor Hub 936,Indrapuri,Buffet,No,67,3.9,650
+Tandoor Corner 937,Indrapuri,Cafe,No,142,4.5,550
+Saffron Corner 938,TT Nagar,Dining,No,150,3.5,800
+Urban Hub 939,Arera Colony,Dining,No,403,4.3,600
+Saffron Cafe 940,Arera Colony,Buffet,No,94,3.5,750
+Saffron Hub 941,MP Nagar,Desserts,Yes,211,3.9,300
+Spice Treats 942,Arera Colony,Buffet,No,200,4.2,750
+Tandoor House 943,TT Nagar,Quick Bites,Yes,171,3.3,350
+Urban Kitchen 944,Kolar Road,Quick Bites,No,161,3.7,450
+Fusion Corner 945,MP Nagar,Quick Bites,No,246,3.8,200
+Fusion Dine 946,TT Nagar,Desserts,No,212,3.5,500
+Urban Bistro 947,Bairagarh,Desserts,Yes,52,4.1,200
+Tandoor Treats 948,Kolar Road,Cafe,Yes,88,3.5,500
+Spice House 949,Bairagarh,Desserts,No,143,3.9,400
+Royal Cafe 950,Kolar Road,Quick Bites,No,66,4.2,250
+Urban Kitchen 951,Indrapuri,Casual Dining,Yes,81,4.3,800
+Fusion Kitchen 952,Bairagarh,Casual Dining,No,273,3.3,650
+Royal Kitchen 953,TT Nagar,Quick Bites,Yes,131,3.1,150
+Spice Cafe 954,Indrapuri,Cafe,Yes,236,3.8,450
+Green Bistro 955,Kolar Road,Quick Bites,Yes,298,4.0,300
+Fusion Treats 956,Indrapuri,Cafe,Yes,245,3.9,400
+Blue Hub 957,TT Nagar,Quick Bites,Yes,277,3.5,250
+Tandoor Treats 958,Arera Colony,Dining,No,181,3.5,900
+Royal Treats 959,Indrapuri,Casual Dining,Yes,155,3.9,450
+Spice Hub 960,Bairagarh,Buffet,No,222,4.4,1200
+Fusion Bistro 961,Arera Colony,Quick Bites,No,82,4.0,200
+Green House 962,Indrapuri,Quick Bites,No,222,3.9,250
+Tandoor Cafe 963,Indrapuri,Dining,No,351,4.0,400
+Urban Dine 964,TT Nagar,Dining,No,115,3.6,900
+Blue Treats 965,Arera Colony,Dining,No,153,3.2,650
+Saffron House 966,MP Nagar,Desserts,Yes,225,3.4,350
+Royal Hub 967,Bairagarh,Casual Dining,Yes,265,3.7,800
+Green Treats 968,Arera Colony,Buffet,No,109,4.4,1200
+Spice Kitchen 969,Bairagarh,Dining,No,128,4.3,800
+Fusion Kitchen 970,MP Nagar,Cafe,Yes,294,3.8,400
+Green Cafe 971,Indrapuri,Casual Dining,No,178,4.0,900
+Urban House 972,TT Nagar,Desserts,No,167,4.2,450
+Urban Cafe 973,Kolar Road,Quick Bites,No,78,3.7,350
+Green Dine 974,Kolar Road,Desserts,Yes,59,3.6,200
+Royal Corner 975,Kolar Road,Quick Bites,Yes,191,3.9,300
+Spice Corner 976,Kolar Road,Dining,No,184,4.2,700
+Urban House 977,TT Nagar,Cafe,No,171,4.0,550
+Blue Cafe 978,Bairagarh,Buffet,No,114,4.2,950
+Royal Hub 979,Indrapuri,Quick Bites,Yes,56,3.2,200
+Royal Treats 980,TT Nagar,Cafe,Yes,201,3.8,450
+Tandoor House 981,TT Nagar,Desserts,No,66,4.2,250
+Fusion House 982,Bairagarh,Buffet,No,280,3.7,1300
+Saffron Cafe 983,Indrapuri,Casual Dining,No,213,4.3,650
+Urban Corner 984,Indrapuri,Desserts,No,104,4.0,500
+Urban Treats 985,TT Nagar,Buffet,Yes,243,3.8,1300
+Fusion Kitchen 986,Kolar Road,Buffet,No,280,4.0,1250
+Fusion House 987,MP Nagar,Dining,No,103,3.3,400
+Tandoor Bistro 988,Arera Colony,Casual Dining,No,175,3.9,400
+Tandoor Corner 989,Arera Colony,Quick Bites,No,250,3.8,400
+Saffron Treats 990,Kolar Road,Buffet,No,229,4.3,900
+Saffron Bistro 991,Indrapuri,Casual Dining,No,174,3.9,750
+Royal Treats 992,Kolar Road,Quick Bites,Yes,242,4.1,250
+Blue Dine 993,TT Nagar,Desserts,Yes,235,4.2,200
+Royal Corner 994,MP Nagar,Dining,Yes,158,4.0,450
+Saffron Hub 995,MP Nagar,Buffet,No,86,4.4,1100
+Green Dine 996,TT Nagar,Desserts,No,233,4.1,150
+Urban Hub 997,Arera Colony,Buffet,Yes,180,4.1,1250
+Tandoor Cafe 998,Indrapuri,Dining,Yes,80,4.2,450
+Green Corner 999,MP Nagar,Buffet,Yes,191,3.7,1150
+Tandoor Hub 1000,Arera Colony,Dining,No,150,4.1,400
+Urban Corner 1001,Arera Colony,Quick Bites,Yes,56,3.8,450
+Green Treats 1002,Bairagarh,Dining,No,331,4.3,800
+Saffron Hub 1003,Arera Colony,Quick Bites,Yes,250,4.0,350
+Royal House 1004,Bairagarh,Casual Dining,No,234,3.4,550
+Urban Treats 1005,Kolar Road,Dining,Yes,109,3.5,800
+Tandoor House 1006,MP Nagar,Desserts,Yes,72,3.4,400
+Blue Kitchen 1007,MP Nagar,Desserts,No,137,3.6,500
+Green Corner 1008,Bairagarh,Buffet,Yes,154,3.9,900
+Blue House 1009,TT Nagar,Desserts,No,190,3.4,350
+Royal Kitchen 1010,Arera Colony,Casual Dining,No,292,3.4,850
+Fusion Hub 1011,Bairagarh,Casual Dining,No,269,3.7,800
+Saffron Corner 1012,Kolar Road,Desserts,Yes,206,3.9,200
+Fusion Hub 1013,Arera Colony,Cafe,Yes,182,4.0,550
+Fusion Bistro 1014,Arera Colony,Desserts,Yes,210,4.2,450
+Tandoor Treats 1015,Arera Colony,Dining,Yes,358,3.6,700
+Blue Treats 1016,MP Nagar,Dining,No,114,3.8,700
+Tandoor Treats 1017,Bairagarh,Desserts,No,42,4.3,150
+Saffron Kitchen 1018,Kolar Road,Desserts,Yes,155,3.5,400
+Fusion Treats 1019,Indrapuri,Cafe,Yes,291,3.9,400
+Fusion Treats 1020,Indrapuri,Buffet,No,166,3.6,850
+Fusion Hub 1021,TT Nagar,Cafe,Yes,65,3.6,500
+Tandoor Hub 1022,TT Nagar,Buffet,No,142,4.0,750
+Tandoor Treats 1023,Indrapuri,Buffet,No,120,4.3,850
+Green House 1024,Arera Colony,Quick Bites,No,157,3.2,250
+Spice Bistro 1025,Indrapuri,Buffet,Yes,245,3.4,1350
+Royal Cafe 1026,Arera Colony,Quick Bites,No,92,3.8,200
+Fusion Hub 1027,TT Nagar,Quick Bites,No,272,3.3,300
+Saffron Hub 1028,MP Nagar,Cafe,Yes,124,3.5,350
+Royal Kitchen 1029,TT Nagar,Dining,No,322,3.5,500
+Tandoor Hub 1030,TT Nagar,Cafe,Yes,98,3.4,350
+Saffron Kitchen 1031,Arera Colony,Desserts,Yes,91,4.1,250
+Green Cafe 1032,TT Nagar,Quick Bites,No,278,4.0,450
+Green Hub 1033,Indrapuri,Casual Dining,Yes,167,3.9,800
+Blue Dine 1034,MP Nagar,Quick Bites,No,167,3.4,200
+Spice Corner 1035,MP Nagar,Casual Dining,No,124,4.3,350
+Saffron Corner 1036,Kolar Road,Cafe,Yes,154,4.4,500
+Saffron House 1037,MP Nagar,Cafe,Yes,66,3.9,500
+Saffron Cafe 1038,Bairagarh,Buffet,No,99,4.0,650
+Saffron Hub 1039,Indrapuri,Cafe,Yes,195,3.8,300
+Blue House 1040,TT Nagar,Buffet,Yes,77,4.3,900
+Urban Bistro 1041,TT Nagar,Buffet,No,141,4.2,1000
+Saffron Kitchen 1042,MP Nagar,Dining,No,393,4.1,550
+Tandoor Kitchen 1043,Bairagarh,Buffet,Yes,163,4.2,900
+Tandoor Corner 1044,Kolar Road,Desserts,No,94,4.3,200
+Green Kitchen 1045,Indrapuri,Casual Dining,Yes,280,4.3,750
+Spice Corner 1046,Kolar Road,Quick Bites,Yes,230,3.9,200
+Fusion Treats 1047,TT Nagar,Quick Bites,No,154,3.7,300
+Green Hub 1048,Arera Colony,Desserts,Yes,127,3.6,250
+Fusion Dine 1049,TT Nagar,Buffet,No,113,4.0,1050
+Urban Hub 1050,MP Nagar,Casual Dining,No,110,3.9,850
+Green Cafe 1051,Bairagarh,Desserts,Yes,174,3.7,450
+Royal Cafe 1052,Indrapuri,Quick Bites,No,165,3.5,350
+Blue Dine 1053,TT Nagar,Casual Dining,No,115,3.7,450
+Royal Bistro 1054,Indrapuri,Dining,Yes,248,3.2,750
+Tandoor Kitchen 1055,MP Nagar,Buffet,Yes,168,4.3,650
+Urban Corner 1056,Kolar Road,Cafe,Yes,240,4.2,300
+Green Kitchen 1057,Indrapuri,Casual Dining,No,334,3.6,800
+Tandoor Corner 1058,Indrapuri,Buffet,No,195,3.5,1150
+Fusion Dine 1059,MP Nagar,Buffet,No,211,3.7,650
+Royal Hub 1060,TT Nagar,Buffet,No,160,3.4,650
+Fusion Kitchen 1061,Bairagarh,Desserts,Yes,92,4.3,250
+Blue Treats 1062,TT Nagar,Cafe,Yes,254,3.9,250
+Saffron Kitchen 1063,Arera Colony,Quick Bites,No,81,3.8,250
+Green Kitchen 1064,Kolar Road,Dining,Yes,322,4.2,350
+Tandoor House 1065,Indrapuri,Casual Dining,No,121,3.6,800
+Spice Kitchen 1066,Arera Colony,Desserts,Yes,237,3.5,250
+Spice Treats 1067,MP Nagar,Desserts,Yes,136,3.4,500
+Saffron Hub 1068,Kolar Road,Buffet,No,256,4.3,950
+Tandoor Corner 1069,Indrapuri,Casual Dining,No,162,3.5,850
+Saffron Cafe 1070,MP Nagar,Dining,No,450,4.0,700
+Green Cafe 1071,TT Nagar,Casual Dining,No,165,3.7,600
+Fusion Cafe 1072,Arera Colony,Desserts,No,54,4.1,450
+Fusion Cafe 1073,Arera Colony,Cafe,No,71,3.6,350
+Urban Kitchen 1074,Kolar Road,Quick Bites,Yes,280,3.2,450
+Green Dine 1075,Indrapuri,Buffet,No,253,4.3,800
+Royal Bistro 1076,MP Nagar,Desserts,Yes,118,3.3,450
+Green Corner 1077,Arera Colony,Desserts,No,108,3.4,400
+Green Cafe 1078,Arera Colony,Desserts,Yes,167,4.4,450
+Blue Cafe 1079,Arera Colony,Quick Bites,No,283,3.6,450
+Blue Corner 1080,Indrapuri,Casual Dining,No,262,3.5,750
+Blue Bistro 1081,Arera Colony,Desserts,Yes,176,3.3,400
+Tandoor Corner 1082,Bairagarh,Buffet,No,76,4.1,1050
+Urban Bistro 1083,Bairagarh,Quick Bites,No,270,3.3,150
+Saffron Hub 1084,MP Nagar,Buffet,No,208,4.0,800
+Blue Corner 1085,TT Nagar,Buffet,No,114,4.0,1300
+Green Cafe 1086,MP Nagar,Buffet,No,82,3.8,900
+Spice Corner 1087,MP Nagar,Buffet,Yes,187,4.1,1000
+Urban Corner 1088,Bairagarh,Desserts,No,176,3.9,200
+Urban Cafe 1089,Arera Colony,Cafe,Yes,274,4.1,300
+Tandoor Bistro 1090,TT Nagar,Cafe,Yes,145,3.5,500
+Fusion Treats 1091,Kolar Road,Cafe,Yes,320,4.1,550
+Tandoor Cafe 1092,Kolar Road,Casual Dining,No,150,4.0,850
+Royal Kitchen 1093,TT Nagar,Cafe,Yes,283,3.8,600
+Green Treats 1094,Bairagarh,Dining,Yes,300,3.4,850
+Urban Dine 1095,TT Nagar,Casual Dining,No,294,3.5,800
+Spice Treats 1096,Indrapuri,Cafe,Yes,190,4.4,450
+Green Hub 1097,Bairagarh,Buffet,No,61,4.2,1350
+Blue Bistro 1098,MP Nagar,Quick Bites,Yes,70,3.5,450
+Urban Treats 1099,Kolar Road,Cafe,Yes,165,4.2,300
+Urban House 1100,Kolar Road,Dining,No,333,3.6,350
+Royal Corner 1101,Indrapuri,Dining,No,412,4.0,350
+Fusion Kitchen 1102,MP Nagar,Casual Dining,No,115,3.9,550
+Fusion Hub 1103,Bairagarh,Cafe,Yes,230,3.7,200
+Fusion Bistro 1104,Arera Colony,Desserts,Yes,185,3.4,500
+Tandoor House 1105,MP Nagar,Quick Bites,Yes,189,4.1,200
+Urban House 1106,Bairagarh,Casual Dining,No,305,4.1,900
+Green Dine 1107,Bairagarh,Buffet,No,121,4.4,900
+Royal Treats 1108,Indrapuri,Buffet,No,55,3.8,1200
+Spice House 1109,Bairagarh,Buffet,Yes,247,3.4,1150
+Green Dine 1110,MP Nagar,Desserts,No,238,4.0,150
+Tandoor Cafe 1111,TT Nagar,Buffet,Yes,93,4.2,850
+Blue Dine 1112,Indrapuri,Quick Bites,No,106,3.5,350
+Saffron Corner 1113,Arera Colony,Cafe,Yes,259,4.2,350
+Fusion Bistro 1114,Arera Colony,Casual Dining,No,310,3.8,900
+Tandoor Kitchen 1115,Indrapuri,Desserts,Yes,149,4.0,150
+Saffron House 1116,Arera Colony,Desserts,No,70,4.2,250
+Green Dine 1117,TT Nagar,Buffet,No,125,3.7,1250
+Royal Hub 1118,TT Nagar,Desserts,No,202,3.9,200
+Spice House 1119,Indrapuri,Desserts,Yes,62,3.5,250
+Green Cafe 1120,Arera Colony,Quick Bites,No,173,3.4,250
+Green Treats 1121,Arera Colony,Cafe,Yes,156,4.1,450
+Green Treats 1122,Kolar Road,Dining,No,298,3.5,900
+Tandoor House 1123,Arera Colony,Quick Bites,No,53,3.6,250
+Tandoor Kitchen 1124,Indrapuri,Cafe,Yes,285,4.5,450
+Urban House 1125,Arera Colony,Cafe,Yes,88,3.7,600
+Saffron Treats 1126,Bairagarh,Casual Dining,No,114,3.4,600
+Fusion Hub 1127,Bairagarh,Buffet,Yes,81,3.8,600
+Urban House 1128,MP Nagar,Dining,Yes,245,3.7,500
+Royal Dine 1129,Arera Colony,Cafe,Yes,65,4.3,450
+Urban House 1130,TT Nagar,Cafe,Yes,74,3.7,350
+Urban House 1131,Arera Colony,Buffet,No,74,3.8,800
+Green Hub 1132,Kolar Road,Quick Bites,Yes,276,4.1,300
+Saffron Corner 1133,Arera Colony,Desserts,Yes,219,3.8,450
+Spice Bistro 1134,Bairagarh,Quick Bites,Yes,119,3.6,150
+Spice Corner 1135,MP Nagar,Dining,No,443,4.2,300
+Fusion Kitchen 1136,TT Nagar,Casual Dining,Yes,167,3.5,950
+Blue Dine 1137,TT Nagar,Dining,Yes,149,3.5,350
+Green Cafe 1138,Indrapuri,Quick Bites,Yes,101,3.4,200
+Tandoor Treats 1139,Kolar Road,Dining,No,396,3.8,300
+Saffron Corner 1140,Indrapuri,Desserts,Yes,244,4.1,300
+Royal Corner 1141,Arera Colony,Casual Dining,No,223,3.8,1000
+Urban Dine 1142,Bairagarh,Cafe,Yes,232,4.2,550
+Fusion Corner 1143,Indrapuri,Casual Dining,No,323,3.5,500
+Green Treats 1144,Bairagarh,Casual Dining,Yes,114,4.1,450
+Fusion House 1145,Arera Colony,Cafe,No,90,3.8,500
+Fusion Kitchen 1146,Arera Colony,Cafe,Yes,193,4.1,350
+Urban Bistro 1147,Bairagarh,Quick Bites,Yes,238,3.9,350
+Blue Treats 1148,Arera Colony,Casual Dining,Yes,142,3.9,400
+Blue Corner 1149,MP Nagar,Desserts,Yes,75,4.3,300
+Spice Bistro 1150,Arera Colony,Quick Bites,Yes,139,4.2,400
+Saffron Cafe 1151,Indrapuri,Buffet,No,114,3.7,1000
+Fusion Dine 1152,Bairagarh,Quick Bites,No,169,4.1,350
+Urban House 1153,Indrapuri,Casual Dining,Yes,218,3.4,600
+Green Dine 1154,Kolar Road,Cafe,Yes,97,3.8,300
+Green Treats 1155,MP Nagar,Quick Bites,Yes,87,3.6,250
+Saffron Kitchen 1156,TT Nagar,Cafe,Yes,309,3.6,350
+Urban Corner 1157,MP Nagar,Buffet,No,151,3.7,850
+Royal Hub 1158,MP Nagar,Casual Dining,Yes,300,3.6,450
+Royal Corner 1159,Kolar Road,Quick Bites,Yes,300,4.0,350
+Green House 1160,Indrapuri,Desserts,Yes,158,4.1,500
+Fusion House 1161,Bairagarh,Buffet,No,212,3.6,1150
+Blue Kitchen 1162,MP Nagar,Buffet,No,191,3.7,650
+Tandoor Bistro 1163,TT Nagar,Casual Dining,No,269,3.5,700
+Urban Treats 1164,MP Nagar,Desserts,Yes,176,3.9,300
+Urban Dine 1165,Kolar Road,Casual Dining,Yes,359,3.6,350
+Spice Cafe 1166,MP Nagar,Cafe,Yes,107,3.5,350
+Tandoor Bistro 1167,Kolar Road,Cafe,Yes,134,3.6,450
+Spice Kitchen 1168,MP Nagar,Buffet,No,155,3.4,850
+Royal House 1169,Arera Colony,Buffet,No,271,3.3,950
+Green Hub 1170,MP Nagar,Casual Dining,Yes,314,3.6,650
+Spice Bistro 1171,Bairagarh,Cafe,Yes,259,4.4,250
+Fusion Corner 1172,Arera Colony,Casual Dining,Yes,190,3.9,600
+Urban Treats 1173,Indrapuri,Dining,Yes,287,4.0,900
+Urban Bistro 1174,Kolar Road,Buffet,Yes,145,3.7,1050
+Green Corner 1175,MP Nagar,Cafe,Yes,84,4.2,450
+Fusion House 1176,Indrapuri,Casual Dining,No,252,3.3,450
+Royal Hub 1177,TT Nagar,Buffet,No,169,3.8,1350
+Green Hub 1178,Bairagarh,Casual Dining,Yes,176,4.3,900
+Green Cafe 1179,Kolar Road,Quick Bites,No,156,3.7,200
+Green Treats 1180,TT Nagar,Dining,No,162,4.1,750
+Royal Cafe 1181,Kolar Road,Cafe,Yes,103,4.2,400
+Green Kitchen 1182,MP Nagar,Casual Dining,No,263,3.3,800
+Urban Bistro 1183,Arera Colony,Desserts,No,245,3.9,250
+Saffron Kitchen 1184,TT Nagar,Desserts,No,227,3.4,350
+Spice House 1185,TT Nagar,Buffet,Yes,220,3.5,900
+Blue Bistro 1186,Arera Colony,Dining,No,293,3.6,300
+Tandoor Treats 1187,TT Nagar,Buffet,No,256,4.1,1350
+Urban Corner 1188,MP Nagar,Desserts,No,165,4.0,350
+Urban Dine 1189,Kolar Road,Buffet,No,77,3.4,700
+Blue Bistro 1190,Bairagarh,Buffet,No,69,3.8,1250
+Tandoor Cafe 1191,Kolar Road,Cafe,Yes,265,4.0,350
+Green Treats 1192,Arera Colony,Buffet,No,107,4.2,1250
+Spice Bistro 1193,Kolar Road,Desserts,No,42,4.0,500
+Royal Hub 1194,Arera Colony,Dining,Yes,89,3.3,350
+Spice Bistro 1195,TT Nagar,Cafe,No,238,3.5,350
+Tandoor House 1196,Kolar Road,Quick Bites,Yes,86,3.6,450
+Green Corner 1197,Arera Colony,Desserts,Yes,234,3.7,200
+Spice Corner 1198,Bairagarh,Cafe,Yes,129,4.0,250
+Blue Bistro 1199,MP Nagar,Buffet,No,56,3.3,700
+Urban Cafe 1200,Bairagarh,Cafe,Yes,277,4.2,300
+Royal Kitchen 1201,MP Nagar,Cafe,Yes,179,4.3,350
+Fusion Treats 1202,Kolar Road,Quick Bites,Yes,280,3.1,250
+Spice Cafe 1203,Indrapuri,Desserts,Yes,178,3.9,450
+Fusion Dine 1204,Indrapuri,Cafe,No,230,3.9,400
+Royal Kitchen 1205,MP Nagar,Dining,No,102,4.2,750
+Blue House 1206,Arera Colony,Desserts,No,129,3.4,350
+Royal Cafe 1207,MP Nagar,Buffet,Yes,207,4.0,700
+Tandoor Corner 1208,Bairagarh,Desserts,No,76,3.4,500
+Tandoor House 1209,MP Nagar,Desserts,No,108,3.6,500
+Blue Dine 1210,Kolar Road,Desserts,Yes,83,3.7,400
+Fusion Cafe 1211,Bairagarh,Casual Dining,Yes,234,4.0,900
+Royal Treats 1212,Indrapuri,Casual Dining,Yes,229,3.8,600
+Royal Kitchen 1213,Kolar Road,Casual Dining,No,185,3.9,450
+Spice Kitchen 1214,Kolar Road,Desserts,Yes,237,3.5,500
+Spice Kitchen 1215,TT Nagar,Dining,No,188,4.1,400
+Fusion Hub 1216,TT Nagar,Desserts,Yes,70,3.4,200
+Spice Treats 1217,Indrapuri,Cafe,Yes,200,3.8,400
+Fusion Kitchen 1218,Arera Colony,Buffet,No,127,3.9,1000
+Blue Kitchen 1219,MP Nagar,Cafe,Yes,292,4.3,400
+Tandoor Corner 1220,TT Nagar,Dining,No,205,3.5,650
+Tandoor Treats 1221,MP Nagar,Casual Dining,No,274,3.8,900
+Urban Dine 1222,MP Nagar,Quick Bites,Yes,151,3.5,250
+Fusion House 1223,Bairagarh,Quick Bites,Yes,275,3.5,200
+Saffron Dine 1224,MP Nagar,Desserts,Yes,148,4.0,350
+Urban Bistro 1225,Bairagarh,Cafe,No,151,4.4,250
+Spice Bistro 1226,TT Nagar,Dining,No,434,4.1,850
+Urban Treats 1227,Kolar Road,Desserts,Yes,177,3.7,350
+Blue Treats 1228,TT Nagar,Quick Bites,No,113,3.7,100
+Royal Corner 1229,Kolar Road,Cafe,Yes,138,3.7,450
+Spice Kitchen 1230,Bairagarh,Buffet,No,50,3.9,750
+Urban Bistro 1231,Kolar Road,Buffet,No,176,4.3,1150
+Tandoor Cafe 1232,Kolar Road,Casual Dining,No,126,3.7,450
+Royal Dine 1233,Bairagarh,Casual Dining,No,184,3.4,900
+Tandoor Cafe 1234,Kolar Road,Buffet,No,169,3.3,1100
+Urban Corner 1235,Arera Colony,Desserts,Yes,89,3.4,200
+Green Dine 1236,Bairagarh,Buffet,No,206,3.4,800
+Green Bistro 1237,Arera Colony,Buffet,No,150,3.5,1100
+Tandoor Treats 1238,TT Nagar,Quick Bites,Yes,278,3.7,350
+Green Hub 1239,Indrapuri,Desserts,Yes,141,4.3,250
+Green Corner 1240,Bairagarh,Quick Bites,No,87,3.8,400
+Blue House 1241,MP Nagar,Quick Bites,Yes,174,3.3,150
+Fusion Corner 1242,TT Nagar,Cafe,Yes,138,3.8,600
+Royal Kitchen 1243,Bairagarh,Quick Bites,No,194,3.7,150
+Green Corner 1244,Arera Colony,Dining,No,241,3.8,550
+Spice House 1245,Bairagarh,Quick Bites,No,270,3.2,300
+Blue Kitchen 1246,Kolar Road,Cafe,Yes,296,3.4,300
+Royal Cafe 1247,Kolar Road,Quick Bites,Yes,169,3.2,450
+Urban Treats 1248,Bairagarh,Casual Dining,No,221,3.7,550
+Saffron Corner 1249,Kolar Road,Buffet,No,247,4.2,800
+Royal Dine 1250,Bairagarh,Buffet,No,279,3.3,700
+Green Treats 1251,Arera Colony,Cafe,Yes,118,4.1,200
+Saffron Hub 1252,Indrapuri,Dining,Yes,307,3.5,500
+Urban Bistro 1253,MP Nagar,Buffet,No,216,4.4,750
+Spice House 1254,TT Nagar,Dining,Yes,432,3.5,800
+Saffron Corner 1255,Bairagarh,Buffet,Yes,77,3.6,750
+Green Kitchen 1256,TT Nagar,Buffet,No,94,3.5,750
+Fusion Bistro 1257,Arera Colony,Quick Bites,Yes,134,3.3,200
+Royal Treats 1258,Bairagarh,Desserts,Yes,114,3.8,200
+Green Kitchen 1259,TT Nagar,Quick Bites,No,220,3.7,250
+Green House 1260,Arera Colony,Desserts,Yes,79,3.9,350
+Saffron House 1261,TT Nagar,Desserts,Yes,235,4.2,250
+Saffron Bistro 1262,Arera Colony,Cafe,Yes,128,4.0,450
+Green Treats 1263,Indrapuri,Desserts,Yes,165,3.9,300
+Spice Dine 1264,Kolar Road,Buffet,No,242,3.4,1150
+Green Bistro 1265,TT Nagar,Buffet,No,70,3.8,800
+Urban Hub 1266,Kolar Road,Quick Bites,Yes,180,3.5,300
+Spice House 1267,Kolar Road,Desserts,No,111,4.1,500
+Fusion Corner 1268,TT Nagar,Desserts,Yes,59,3.4,450
+Royal Bistro 1269,MP Nagar,Desserts,Yes,103,3.6,200
+Royal Corner 1270,MP Nagar,Buffet,No,107,3.5,650
+Royal Kitchen 1271,Kolar Road,Dining,Yes,123,4.1,800
+Spice Corner 1272,TT Nagar,Cafe,Yes,291,4.4,200
+Saffron Kitchen 1273,Arera Colony,Buffet,No,95,4.2,1300
+Urban Bistro 1274,Indrapuri,Casual Dining,No,334,4.0,900
+Tandoor Hub 1275,TT Nagar,Cafe,Yes,191,4.3,200
+Urban Bistro 1276,Bairagarh,Cafe,Yes,76,3.8,500
+Fusion Dine 1277,Indrapuri,Casual Dining,Yes,172,3.5,650
+Urban House 1278,Arera Colony,Quick Bites,Yes,217,4.1,300
+Urban Dine 1279,TT Nagar,Quick Bites,No,210,3.6,350
+Green Cafe 1280,Kolar Road,Quick Bites,Yes,72,3.9,250
+Fusion Hub 1281,Kolar Road,Dining,Yes,284,3.5,500
+Tandoor Hub 1282,Bairagarh,Casual Dining,Yes,207,4.2,600
+Saffron House 1283,Arera Colony,Quick Bites,Yes,221,3.3,200
+Urban Treats 1284,MP Nagar,Casual Dining,No,179,4.0,400
+Fusion Hub 1285,Kolar Road,Quick Bites,No,263,3.5,350
+Urban Bistro 1286,Kolar Road,Quick Bites,Yes,198,3.3,250
+Royal Cafe 1287,Indrapuri,Cafe,Yes,289,3.5,250
+Spice Hub 1288,TT Nagar,Desserts,No,184,4.2,350
+Fusion Dine 1289,Arera Colony,Desserts,No,99,3.9,350
+Spice Corner 1290,TT Nagar,Cafe,Yes,95,4.3,550
+Spice Bistro 1291,TT Nagar,Desserts,Yes,88,4.1,500
+Green Dine 1292,Arera Colony,Cafe,Yes,210,3.7,450
+Fusion Cafe 1293,Bairagarh,Quick Bites,No,58,3.7,150
+Tandoor Corner 1294,Indrapuri,Cafe,Yes,231,3.7,200
+Spice Treats 1295,MP Nagar,Quick Bites,No,132,4.1,150
+Fusion House 1296,Kolar Road,Quick Bites,No,49,4.0,150
+Green Bistro 1297,MP Nagar,Cafe,Yes,135,4.1,300
+Saffron Dine 1298,MP Nagar,Buffet,Yes,67,4.2,1150
+Green Kitchen 1299,Arera Colony,Casual Dining,Yes,367,4.0,800
+Royal Bistro 1300,Arera Colony,Dining,No,445,3.7,500
+Royal Treats 1301,Arera Colony,Dining,No,94,3.2,350
+Fusion Dine 1302,Arera Colony,Cafe,Yes,310,4.1,250
+Royal Corner 1303,MP Nagar,Desserts,No,120,4.0,150
+Royal Cafe 1304,Arera Colony,Desserts,Yes,217,4.1,200
+Royal Hub 1305,Indrapuri,Desserts,Yes,232,3.6,250
+Royal House 1306,MP Nagar,Buffet,Yes,58,4.1,1000
+Fusion House 1307,MP Nagar,Dining,No,321,3.2,450
+Fusion Dine 1308,Arera Colony,Buffet,Yes,141,3.7,850
+Spice Cafe 1309,Bairagarh,Dining,Yes,315,4.2,550
+Green Dine 1310,TT Nagar,Buffet,No,86,3.5,1200
+Urban Treats 1311,TT Nagar,Cafe,No,172,3.6,300
+Spice Hub 1312,TT Nagar,Casual Dining,No,236,3.7,700
+Green Treats 1313,TT Nagar,Cafe,Yes,247,4.0,450
+Tandoor Corner 1314,Indrapuri,Desserts,No,228,3.9,350
+Saffron Treats 1315,Kolar Road,Cafe,No,290,3.5,500
+Royal Bistro 1316,Arera Colony,Dining,No,211,3.7,550
+Green Treats 1317,MP Nagar,Quick Bites,No,244,3.7,450
+Tandoor Hub 1318,Arera Colony,Quick Bites,No,238,4.2,400
+Urban Kitchen 1319,Bairagarh,Quick Bites,Yes,208,3.3,200
+Saffron Dine 1320,Arera Colony,Dining,No,123,3.4,800
+Urban Dine 1321,Bairagarh,Casual Dining,No,235,4.2,850
+Fusion Hub 1322,TT Nagar,Quick Bites,Yes,169,3.4,400
+Saffron Cafe 1323,Bairagarh,Dining,Yes,357,4.0,450
+Saffron House 1324,TT Nagar,Quick Bites,No,168,4.2,250
+Green Bistro 1325,MP Nagar,Buffet,No,101,4.3,1300
+Green Treats 1326,Kolar Road,Buffet,No,187,4.3,1350
+Tandoor Corner 1327,Kolar Road,Cafe,No,223,3.5,450
+Blue Dine 1328,Bairagarh,Casual Dining,Yes,311,3.8,900
+Royal Bistro 1329,Kolar Road,Quick Bites,No,201,4.2,450
+Blue Cafe 1330,Arera Colony,Quick Bites,Yes,119,4.0,300
+Fusion House 1331,Indrapuri,Quick Bites,Yes,162,3.4,400
+Saffron Bistro 1332,TT Nagar,Cafe,Yes,61,3.5,550
+Green Cafe 1333,TT Nagar,Desserts,Yes,75,3.7,400
+Green House 1334,Bairagarh,Cafe,Yes,199,3.5,500
+Green Cafe 1335,Arera Colony,Dining,No,409,4.0,600
+Green Cafe 1336,Arera Colony,Desserts,Yes,238,4.1,500
+Royal Bistro 1337,TT Nagar,Cafe,Yes,264,4.4,500
+Urban Treats 1338,TT Nagar,Desserts,Yes,235,4.1,400
+Green Dine 1339,MP Nagar,Dining,No,393,3.6,550
+Green Kitchen 1340,MP Nagar,Casual Dining,No,202,3.5,500
+Royal Bistro 1341,MP Nagar,Casual Dining,No,357,4.2,1000
+Fusion Cafe 1342,Arera Colony,Cafe,Yes,159,4.0,550
+Saffron Cafe 1343,Bairagarh,Quick Bites,No,297,3.5,300
+Urban Cafe 1344,Bairagarh,Casual Dining,Yes,141,3.7,600
+Urban House 1345,TT Nagar,Cafe,Yes,198,3.7,450
+Tandoor Kitchen 1346,Arera Colony,Cafe,Yes,74,3.8,550
+Royal Hub 1347,TT Nagar,Desserts,Yes,92,3.8,350
+Green Hub 1348,TT Nagar,Desserts,Yes,190,3.9,400
+Tandoor Hub 1349,Indrapuri,Casual Dining,Yes,359,4.0,900
+Royal Dine 1350,Indrapuri,Casual Dining,Yes,231,4.1,750
+Spice Cafe 1351,Kolar Road,Casual Dining,Yes,259,4.2,800
+Spice Bistro 1352,TT Nagar,Desserts,Yes,191,4.1,400
+Urban Treats 1353,Indrapuri,Buffet,No,155,4.3,1100
+Spice Treats 1354,Arera Colony,Dining,No,440,3.7,800
+Green House 1355,Indrapuri,Buffet,No,58,4.3,700
+Royal Kitchen 1356,MP Nagar,Quick Bites,Yes,152,3.8,150
+Royal Bistro 1357,Arera Colony,Quick Bites,Yes,178,4.0,250
+Blue Hub 1358,Bairagarh,Dining,No,100,3.4,700
+Blue Corner 1359,Bairagarh,Casual Dining,Yes,284,3.7,800
+Blue House 1360,MP Nagar,Quick Bites,No,299,3.3,350
+Saffron Dine 1361,TT Nagar,Desserts,Yes,115,3.9,350
+Fusion Kitchen 1362,Bairagarh,Quick Bites,Yes,112,3.9,300
+Blue Treats 1363,MP Nagar,Quick Bites,Yes,75,3.9,300
+Green Treats 1364,Kolar Road,Dining,Yes,103,3.3,750
+Saffron Bistro 1365,Kolar Road,Cafe,Yes,279,4.2,550
+Spice Dine 1366,Indrapuri,Casual Dining,No,111,3.8,500
+Blue Treats 1367,MP Nagar,Quick Bites,No,136,3.5,200
+Green Treats 1368,Arera Colony,Buffet,No,52,3.4,800
+Fusion Bistro 1369,Bairagarh,Desserts,Yes,185,3.8,250
+Urban Hub 1370,Bairagarh,Cafe,No,219,3.5,300
+Green Cafe 1371,Bairagarh,Buffet,No,51,4.0,700
+Fusion House 1372,MP Nagar,Cafe,No,316,3.8,500
+Urban House 1373,Indrapuri,Desserts,No,109,3.7,350
+Royal Cafe 1374,Indrapuri,Cafe,Yes,165,4.4,500
+Fusion Dine 1375,MP Nagar,Desserts,Yes,145,3.9,350
+Tandoor House 1376,MP Nagar,Desserts,No,218,4.2,400
+Spice Cafe 1377,Kolar Road,Casual Dining,Yes,278,4.0,950
+Spice House 1378,Bairagarh,Dining,No,343,4.1,400
+Tandoor Corner 1379,MP Nagar,Desserts,Yes,222,4.0,500
+Green Treats 1380,TT Nagar,Buffet,No,259,3.3,1300
+Urban Treats 1381,MP Nagar,Cafe,Yes,260,4.3,300
+Saffron Corner 1382,Indrapuri,Casual Dining,Yes,208,3.9,950
+Urban House 1383,MP Nagar,Casual Dining,Yes,166,4.2,750
+Spice Kitchen 1384,TT Nagar,Casual Dining,No,110,4.3,900
+Blue Corner 1385,Kolar Road,Dining,No,265,4.1,400
+Spice House 1386,MP Nagar,Dining,No,182,3.8,850
+Spice Treats 1387,Arera Colony,Quick Bites,Yes,79,4.2,250
+Urban House 1388,Indrapuri,Dining,No,326,3.5,500
+Blue Treats 1389,Kolar Road,Casual Dining,No,227,3.4,850
+Fusion Treats 1390,TT Nagar,Quick Bites,Yes,180,3.3,200
+Blue Treats 1391,Indrapuri,Buffet,No,273,3.3,750
+Blue Dine 1392,Kolar Road,Cafe,No,225,4.0,450
+Tandoor Bistro 1393,Kolar Road,Casual Dining,No,158,4.2,450
+Tandoor Dine 1394,TT Nagar,Quick Bites,Yes,240,3.4,300
+Urban Corner 1395,MP Nagar,Cafe,Yes,122,4.4,500
+Fusion Hub 1396,Indrapuri,Buffet,Yes,60,3.8,1350
+Green Corner 1397,Kolar Road,Casual Dining,No,325,4.0,650
+Urban Hub 1398,Arera Colony,Desserts,Yes,70,4.3,450
+Spice House 1399,Indrapuri,Dining,Yes,336,3.6,400
+Urban Cafe 1400,MP Nagar,Desserts,Yes,44,3.9,200
+Saffron Bistro 1401,TT Nagar,Quick Bites,Yes,180,3.9,350
+Blue Kitchen 1402,MP Nagar,Dining,No,149,3.3,350
+Tandoor House 1403,MP Nagar,Buffet,No,225,4.0,1300
+Royal Bistro 1404,Arera Colony,Buffet,No,139,3.9,1200
+Tandoor Cafe 1405,Kolar Road,Cafe,Yes,124,3.4,200
+Royal Corner 1406,Kolar Road,Dining,No,321,3.5,450
+Saffron Cafe 1407,Bairagarh,Dining,No,198,3.9,600
+Tandoor Corner 1408,TT Nagar,Casual Dining,Yes,352,4.4,900
+Spice Bistro 1409,MP Nagar,Cafe,Yes,222,3.5,300
+Blue Treats 1410,Arera Colony,Cafe,Yes,227,4.1,300
+Blue Treats 1411,Arera Colony,Quick Bites,No,133,3.1,350
+Saffron Bistro 1412,Bairagarh,Casual Dining,No,165,4.0,700
+Royal Treats 1413,Kolar Road,Dining,Yes,315,3.3,900
+Blue Bistro 1414,Arera Colony,Desserts,Yes,186,3.6,400
+Saffron House 1415,MP Nagar,Cafe,Yes,220,4.4,600
+Saffron Dine 1416,MP Nagar,Quick Bites,No,108,4.2,250
+Tandoor Bistro 1417,TT Nagar,Desserts,Yes,243,3.7,250
+Green Corner 1418,MP Nagar,Desserts,Yes,243,3.8,450
+Green Corner 1419,Indrapuri,Quick Bites,Yes,201,3.4,350
+Fusion Treats 1420,Bairagarh,Dining,Yes,230,3.9,650
+Blue Hub 1421,TT Nagar,Buffet,No,102,3.8,1000
+Urban Corner 1422,MP Nagar,Desserts,Yes,116,3.6,300
+Saffron Dine 1423,TT Nagar,Desserts,No,120,3.7,350
+Green Dine 1424,MP Nagar,Desserts,Yes,177,3.4,250
+Blue Treats 1425,Bairagarh,Buffet,No,152,3.6,1000
+Fusion Treats 1426,Indrapuri,Buffet,No,61,3.5,1150
+Green Hub 1427,TT Nagar,Cafe,Yes,320,3.6,550
+Saffron House 1428,Indrapuri,Quick Bites,No,82,3.9,300
+Green Dine 1429,Indrapuri,Buffet,No,91,4.0,950
+Tandoor Hub 1430,Bairagarh,Casual Dining,Yes,258,3.8,800
+Royal Kitchen 1431,MP Nagar,Dining,No,294,3.3,700
+Green Dine 1432,Arera Colony,Quick Bites,Yes,235,3.9,150
+Saffron Cafe 1433,Kolar Road,Cafe,Yes,161,3.5,250
+Saffron Cafe 1434,TT Nagar,Cafe,Yes,194,3.5,250
+Blue Cafe 1435,TT Nagar,Desserts,Yes,193,3.7,400
+Tandoor Corner 1436,Indrapuri,Quick Bites,Yes,292,4.0,300
+Tandoor Kitchen 1437,Kolar Road,Quick Bites,Yes,177,4.0,200
+Spice Dine 1438,TT Nagar,Desserts,No,203,4.0,300
+Urban Hub 1439,Arera Colony,Cafe,No,174,3.6,550
+Blue Kitchen 1440,Bairagarh,Dining,No,177,3.2,850
+Spice House 1441,Bairagarh,Desserts,Yes,215,4.3,450
+Urban Bistro 1442,MP Nagar,Quick Bites,Yes,47,3.3,200
+Urban Bistro 1443,TT Nagar,Casual Dining,Yes,249,3.4,500
+Saffron Dine 1444,Kolar Road,Cafe,Yes,177,4.0,200
+Blue House 1445,MP Nagar,Buffet,No,146,3.8,900
+Tandoor Dine 1446,MP Nagar,Desserts,Yes,147,3.5,400
+Tandoor Treats 1447,Indrapuri,Casual Dining,No,148,3.4,700
+Urban House 1448,TT Nagar,Dining,No,285,3.8,500
+Green Bistro 1449,Kolar Road,Dining,No,378,3.5,650
+Spice Cafe 1450,Kolar Road,Dining,No,111,3.5,550
+Tandoor Corner 1451,Kolar Road,Casual Dining,Yes,325,3.6,950
+Tandoor Corner 1452,Kolar Road,Desserts,Yes,50,3.9,350
+Saffron Treats 1453,Kolar Road,Dining,Yes,427,3.7,600
+Saffron Hub 1454,TT Nagar,Casual Dining,Yes,248,3.4,950
+Green Treats 1455,TT Nagar,Quick Bites,Yes,118,3.1,200
+Blue House 1456,MP Nagar,Buffet,No,153,3.7,800
+Spice House 1457,Indrapuri,Cafe,Yes,112,4.4,250
+Fusion Dine 1458,Indrapuri,Casual Dining,Yes,243,3.7,750
+Urban Dine 1459,Kolar Road,Buffet,No,219,3.6,1350
+Fusion Treats 1460,MP Nagar,Buffet,No,191,3.6,800
+Green Kitchen 1461,Bairagarh,Cafe,Yes,178,4.4,250
+Urban Dine 1462,MP Nagar,Desserts,Yes,202,4.3,300
+Urban Dine 1463,Bairagarh,Quick Bites,No,178,3.8,200
+Saffron Cafe 1464,Kolar Road,Casual Dining,No,256,4.2,600
+Saffron House 1465,Bairagarh,Cafe,No,134,3.7,450
+Green House 1466,Bairagarh,Desserts,Yes,90,4.1,500
+Blue House 1467,MP Nagar,Quick Bites,Yes,172,3.9,350
+Urban Bistro 1468,Kolar Road,Desserts,Yes,129,3.9,200
+Urban Corner 1469,Bairagarh,Quick Bites,No,270,3.7,250
+Urban House 1470,Indrapuri,Casual Dining,No,328,3.9,750
+Tandoor Cafe 1471,Arera Colony,Casual Dining,Yes,71,4.0,550
+Blue Treats 1472,Bairagarh,Dining,Yes,107,4.0,900
+Urban Kitchen 1473,Kolar Road,Cafe,Yes,128,3.9,300
+Tandoor House 1474,TT Nagar,Buffet,No,96,3.8,1200
+Blue Kitchen 1475,Indrapuri,Buffet,Yes,225,4.0,750
+Tandoor Dine 1476,Bairagarh,Dining,No,439,4.2,650
+Green Hub 1477,TT Nagar,Desserts,No,197,3.5,500
+Blue Hub 1478,Kolar Road,Buffet,Yes,237,4.4,1050
+Saffron Dine 1479,Indrapuri,Casual Dining,No,363,3.8,750
+Royal Cafe 1480,Arera Colony,Cafe,Yes,130,3.8,300
+Spice Bistro 1481,TT Nagar,Casual Dining,No,204,3.9,850
+Urban Bistro 1482,TT Nagar,Buffet,No,75,3.9,1300
+Royal Treats 1483,Arera Colony,Dining,No,310,3.5,650
+Tandoor Cafe 1484,Kolar Road,Quick Bites,No,152,3.4,350
+Saffron Bistro 1485,Indrapuri,Quick Bites,Yes,178,3.6,200
+Royal Cafe 1486,Kolar Road,Casual Dining,No,213,3.6,700
+Royal Corner 1487,Arera Colony,Desserts,Yes,49,4.1,200
+Saffron Kitchen 1488,Indrapuri,Desserts,Yes,82,4.3,300
+Spice Treats 1489,Indrapuri,Desserts,No,40,4.3,350
+Spice Bistro 1490,Indrapuri,Casual Dining,Yes,362,4.1,950
+Tandoor Kitchen 1491,MP Nagar,Desserts,Yes,199,3.5,200
+Saffron Corner 1492,MP Nagar,Desserts,Yes,186,4.4,300
+Blue Bistro 1493,Bairagarh,Quick Bites,Yes,253,3.1,300
+Royal Kitchen 1494,Bairagarh,Buffet,No,216,4.3,1300
+Royal Dine 1495,Arera Colony,Casual Dining,No,349,3.5,550
+Fusion House 1496,Bairagarh,Quick Bites,No,208,4.1,250
+Urban Treats 1497,Bairagarh,Desserts,No,50,4.0,400
+Spice House 1498,Bairagarh,Quick Bites,Yes,223,3.2,350
+Royal Corner 1499,MP Nagar,Dining,Yes,439,3.7,750
+Fusion Cafe 1500,TT Nagar,Buffet,No,137,3.7,650
+Tandoor Cafe 1501,MP Nagar,Buffet,No,191,3.4,1200
+Blue Kitchen 1502,Kolar Road,Dining,Yes,306,3.2,600
+Blue Dine 1503,MP Nagar,Casual Dining,Yes,153,4.4,950
+Urban Cafe 1504,MP Nagar,Dining,Yes,184,3.6,900
+Urban Treats 1505,MP Nagar,Desserts,Yes,146,4.0,500
+Tandoor Cafe 1506,Indrapuri,Desserts,Yes,45,4.0,450
+Fusion Kitchen 1507,MP Nagar,Casual Dining,Yes,109,4.4,750
+Spice House 1508,MP Nagar,Cafe,Yes,186,3.8,350
+Blue Dine 1509,TT Nagar,Cafe,Yes,144,4.4,450
+Urban Corner 1510,TT Nagar,Desserts,Yes,230,3.8,150
+Tandoor Bistro 1511,Kolar Road,Desserts,No,68,3.6,250
+Blue Bistro 1512,Arera Colony,Desserts,Yes,152,4.0,500
+Tandoor Treats 1513,Indrapuri,Buffet,No,124,3.4,700
+Urban Corner 1514,Kolar Road,Casual Dining,No,74,4.2,950
+Tandoor Hub 1515,TT Nagar,Desserts,Yes,206,3.9,400
+Green Bistro 1516,Kolar Road,Dining,No,122,4.0,450
+Tandoor Bistro 1517,Arera Colony,Buffet,No,235,4.2,1400
+Fusion Cafe 1518,TT Nagar,Dining,No,212,4.2,550
+Blue Kitchen 1519,Arera Colony,Quick Bites,Yes,161,4.1,300
+Royal Bistro 1520,Kolar Road,Buffet,No,272,3.4,800
+Blue Dine 1521,MP Nagar,Casual Dining,Yes,244,4.1,750
+Saffron Hub 1522,TT Nagar,Casual Dining,No,218,4.2,450
+Fusion Corner 1523,Indrapuri,Desserts,Yes,118,4.0,300
+Green Cafe 1524,Bairagarh,Cafe,Yes,228,4.3,300
+Urban Bistro 1525,Indrapuri,Desserts,Yes,99,4.2,400
+Saffron Treats 1526,TT Nagar,Dining,Yes,316,3.5,400
+Saffron Kitchen 1527,Bairagarh,Buffet,Yes,224,3.5,900
+Tandoor Kitchen 1528,MP Nagar,Cafe,Yes,207,3.7,450
+Tandoor Dine 1529,MP Nagar,Buffet,No,158,3.9,950
+Tandoor Dine 1530,TT Nagar,Casual Dining,No,166,3.3,900
+Fusion Dine 1531,Bairagarh,Cafe,No,67,4.4,500
+Royal Hub 1532,MP Nagar,Desserts,No,143,3.7,450
+Spice Treats 1533,Bairagarh,Desserts,Yes,217,4.0,150
+Urban Hub 1534,MP Nagar,Buffet,No,221,3.6,750
+Spice Hub 1535,Indrapuri,Cafe,No,85,3.8,550
+Urban Treats 1536,Kolar Road,Desserts,Yes,191,4.0,200
+Urban Cafe 1537,Bairagarh,Buffet,Yes,153,3.9,750
+Spice Hub 1538,Bairagarh,Cafe,Yes,175,3.6,500
+Fusion Cafe 1539,Indrapuri,Desserts,Yes,229,3.9,150
+Tandoor House 1540,Indrapuri,Dining,Yes,310,3.7,600
+Saffron Cafe 1541,TT Nagar,Quick Bites,No,254,3.4,300
+Tandoor Bistro 1542,Bairagarh,Cafe,Yes,205,3.6,250
+Saffron Corner 1543,Indrapuri,Desserts,Yes,223,3.8,400
+Saffron Kitchen 1544,MP Nagar,Cafe,Yes,68,3.6,300
+Tandoor Bistro 1545,Arera Colony,Dining,No,211,4.3,900
+Royal House 1546,Indrapuri,Dining,No,182,3.5,750
+Green Bistro 1547,MP Nagar,Quick Bites,Yes,281,4.0,350
+Green Dine 1548,MP Nagar,Quick Bites,Yes,62,4.2,250
+Tandoor Kitchen 1549,Arera Colony,Cafe,Yes,89,3.7,250
+Spice Treats 1550,Indrapuri,Buffet,Yes,183,3.4,600
+Spice Hub 1551,Kolar Road,Quick Bites,Yes,66,4.0,250
+Saffron Bistro 1552,Arera Colony,Quick Bites,Yes,155,3.7,200
+Blue Treats 1553,Arera Colony,Buffet,No,262,3.6,1350
+Tandoor Dine 1554,Indrapuri,Dining,No,306,3.7,550
+Royal Bistro 1555,MP Nagar,Cafe,Yes,132,4.1,450
+Urban Hub 1556,Kolar Road,Casual Dining,No,176,3.6,850
+Blue Bistro 1557,MP Nagar,Buffet,No,221,3.9,1050
+Fusion Kitchen 1558,Indrapuri,Casual Dining,No,272,3.8,850
+Royal Corner 1559,Indrapuri,Quick Bites,No,179,3.8,300
+Green Treats 1560,Bairagarh,Buffet,Yes,140,3.8,1200
+Blue Corner 1561,TT Nagar,Casual Dining,Yes,115,4.3,950
+Urban Corner 1562,Indrapuri,Dining,No,122,3.4,850
+Blue Dine 1563,Kolar Road,Casual Dining,Yes,166,3.9,750
+Royal Treats 1564,TT Nagar,Quick Bites,Yes,76,3.4,250
+Royal Treats 1565,Arera Colony,Desserts,Yes,79,3.4,250
+Green Treats 1566,Kolar Road,Quick Bites,Yes,238,4.2,200
+Saffron Hub 1567,MP Nagar,Quick Bites,No,131,3.3,200
+Spice Hub 1568,TT Nagar,Buffet,Yes,231,3.8,750
+Tandoor Bistro 1569,Kolar Road,Quick Bites,Yes,73,3.9,400
+Fusion Kitchen 1570,Bairagarh,Quick Bites,No,112,3.5,250
+Urban Hub 1571,Arera Colony,Quick Bites,No,100,3.3,300
+Urban Cafe 1572,TT Nagar,Dining,Yes,341,3.3,800
+Spice Dine 1573,Arera Colony,Cafe,Yes,201,4.1,400
+Spice Hub 1574,Indrapuri,Desserts,Yes,212,3.8,250
+Saffron Bistro 1575,Indrapuri,Casual Dining,No,119,3.4,600
+Royal Hub 1576,Indrapuri,Dining,No,344,3.2,350
+Spice Kitchen 1577,TT Nagar,Quick Bites,Yes,244,3.5,300
+Blue Cafe 1578,Indrapuri,Buffet,No,130,3.7,650
+Urban Corner 1579,TT Nagar,Buffet,No,96,3.6,1100
+Fusion Cafe 1580,TT Nagar,Cafe,Yes,319,4.0,250
+Tandoor House 1581,Bairagarh,Dining,Yes,247,3.7,500
+Saffron Dine 1582,Arera Colony,Cafe,Yes,125,3.7,400
+Fusion Kitchen 1583,TT Nagar,Buffet,No,258,3.9,1100
+Royal House 1584,Arera Colony,Dining,No,447,3.7,450
+Saffron Bistro 1585,Kolar Road,Desserts,Yes,68,4.0,200
+Green Hub 1586,TT Nagar,Cafe,Yes,120,3.9,450
+Saffron Hub 1587,MP Nagar,Dining,Yes,409,3.3,550
+Tandoor House 1588,Indrapuri,Casual Dining,No,84,4.4,950
+Urban Hub 1589,Arera Colony,Dining,Yes,258,3.9,400
+Green Corner 1590,Bairagarh,Casual Dining,Yes,171,4.1,750
+Green Kitchen 1591,MP Nagar,Buffet,Yes,203,3.9,700
+Urban Cafe 1592,MP Nagar,Desserts,Yes,79,4.1,450
+Saffron Treats 1593,Kolar Road,Buffet,Yes,108,3.4,650
+Blue Dine 1594,Arera Colony,Quick Bites,Yes,278,3.6,150
+Blue Bistro 1595,Kolar Road,Buffet,No,58,4.3,1000
+Saffron House 1596,Bairagarh,Cafe,Yes,104,4.5,500
+Tandoor Dine 1597,MP Nagar,Desserts,Yes,50,4.3,350
+Urban Cafe 1598,Bairagarh,Dining,Yes,162,4.1,550
+Urban Hub 1599,Kolar Road,Cafe,Yes,165,4.0,450
+Green Corner 1600,MP Nagar,Casual Dining,No,129,3.4,400
+Royal Kitchen 1601,Arera Colony,Buffet,No,128,4.3,1200
+Fusion Dine 1602,Indrapuri,Dining,No,199,3.7,650
+Green Hub 1603,MP Nagar,Desserts,No,130,4.0,350
+Saffron Bistro 1604,Bairagarh,Cafe,Yes,197,3.6,550
+Fusion Corner 1605,Arera Colony,Desserts,Yes,222,3.3,400
+Royal Cafe 1606,Arera Colony,Desserts,Yes,190,4.2,200
+Green Kitchen 1607,MP Nagar,Casual Dining,No,125,3.4,650
+Green Hub 1608,Indrapuri,Buffet,No,84,3.7,1000
+Blue Treats 1609,TT Nagar,Casual Dining,Yes,165,4.1,950
+Tandoor Dine 1610,Indrapuri,Quick Bites,Yes,90,3.6,200
+Fusion Corner 1611,Kolar Road,Desserts,Yes,136,4.0,300
+Fusion Kitchen 1612,Kolar Road,Dining,Yes,327,3.7,500
+Urban Dine 1613,Bairagarh,Quick Bites,No,222,3.6,300
+Fusion Hub 1614,MP Nagar,Quick Bites,Yes,216,3.7,450
+Fusion Cafe 1615,Bairagarh,Quick Bites,Yes,277,3.3,200
+Spice Cafe 1616,MP Nagar,Dining,No,302,4.3,800
+Royal Corner 1617,Kolar Road,Quick Bites,Yes,70,3.8,350
+Green Treats 1618,Arera Colony,Dining,Yes,294,3.6,750
+Blue Bistro 1619,TT Nagar,Desserts,No,101,3.9,500
+Tandoor Cafe 1620,Kolar Road,Buffet,No,221,3.7,650
+Urban Kitchen 1621,Arera Colony,Cafe,Yes,296,4.3,250
+Spice Hub 1622,MP Nagar,Casual Dining,Yes,240,3.6,650
+Blue Bistro 1623,MP Nagar,Dining,No,362,3.4,750
+Tandoor House 1624,TT Nagar,Dining,Yes,196,3.5,750
+Urban Corner 1625,Indrapuri,Casual Dining,Yes,164,3.5,900
+Urban Cafe 1626,MP Nagar,Buffet,No,217,4.1,1300
+Spice Kitchen 1627,Kolar Road,Casual Dining,Yes,113,4.0,450
+Blue Bistro 1628,Bairagarh,Quick Bites,Yes,261,3.8,200
+Royal Corner 1629,Arera Colony,Cafe,No,224,3.9,400
+Fusion Dine 1630,Kolar Road,Casual Dining,Yes,238,3.5,350
+Tandoor Kitchen 1631,MP Nagar,Casual Dining,No,139,4.2,400
+Urban Bistro 1632,Bairagarh,Casual Dining,Yes,90,4.1,950
+Fusion Bistro 1633,TT Nagar,Dining,No,206,3.5,350
+Green Cafe 1634,Indrapuri,Dining,Yes,257,3.7,900
+Royal Kitchen 1635,MP Nagar,Casual Dining,No,371,4.4,550
+Fusion House 1636,Bairagarh,Dining,No,117,3.5,900
+Urban Corner 1637,Bairagarh,Cafe,Yes,84,4.0,450
+Fusion Dine 1638,MP Nagar,Cafe,Yes,141,4.5,350
+Urban Cafe 1639,Arera Colony,Desserts,Yes,218,3.6,300
+Blue House 1640,Arera Colony,Buffet,No,163,3.3,1350
+Fusion Treats 1641,MP Nagar,Desserts,No,235,3.9,350
+Fusion Bistro 1642,Kolar Road,Dining,No,115,3.2,350
+Saffron House 1643,TT Nagar,Cafe,Yes,117,4.0,350
+Urban Treats 1644,Kolar Road,Casual Dining,No,278,3.9,700
+Royal Hub 1645,Kolar Road,Casual Dining,No,293,3.4,600
+Spice Hub 1646,Bairagarh,Casual Dining,No,146,4.1,600
+Royal Bistro 1647,Kolar Road,Cafe,No,135,4.4,300
+Spice Hub 1648,Indrapuri,Casual Dining,No,184,3.6,600
+Saffron Kitchen 1649,Bairagarh,Desserts,Yes,110,4.4,400
+Green Kitchen 1650,MP Nagar,Casual Dining,Yes,266,3.5,600
+Spice Treats 1651,Indrapuri,Buffet,No,232,3.9,1250
+Green Cafe 1652,Indrapuri,Cafe,Yes,78,4.1,250
+Urban Cafe 1653,Arera Colony,Cafe,Yes,167,4.1,250
+Blue Kitchen 1654,Indrapuri,Desserts,No,44,3.8,200
+Spice Cafe 1655,Kolar Road,Casual Dining,Yes,233,3.8,350
+Green Treats 1656,Indrapuri,Dining,No,391,3.3,750
+Saffron Cafe 1657,TT Nagar,Desserts,Yes,110,4.3,150
+Green Bistro 1658,Bairagarh,Casual Dining,No,327,3.6,500
+Royal Cafe 1659,Indrapuri,Cafe,No,292,3.6,200
+Urban Treats 1660,Kolar Road,Cafe,Yes,122,3.8,300
+Spice Cafe 1661,Kolar Road,Dining,No,109,4.3,600
+Fusion Hub 1662,Indrapuri,Quick Bites,Yes,111,3.5,200
+Fusion Kitchen 1663,MP Nagar,Quick Bites,Yes,250,4.1,450
+Royal Bistro 1664,Bairagarh,Buffet,No,271,4.1,950
+Tandoor Cafe 1665,Bairagarh,Dining,Yes,167,3.8,300
+Tandoor Corner 1666,Arera Colony,Buffet,Yes,217,3.3,1100
+Saffron Treats 1667,TT Nagar,Casual Dining,No,239,3.6,400
+Spice Cafe 1668,Bairagarh,Casual Dining,No,232,4.3,750
+Royal Dine 1669,MP Nagar,Dining,No,381,3.4,600
+Royal Treats 1670,Bairagarh,Desserts,No,250,3.5,200
+Fusion Bistro 1671,TT Nagar,Buffet,Yes,128,4.4,600
+Royal House 1672,Indrapuri,Cafe,Yes,149,4.4,350
+Fusion Kitchen 1673,Kolar Road,Cafe,Yes,91,3.7,250
+Fusion Corner 1674,Bairagarh,Quick Bites,Yes,133,4.0,400
+Spice Bistro 1675,MP Nagar,Casual Dining,Yes,214,3.4,750
+Tandoor Treats 1676,MP Nagar,Buffet,No,216,3.8,1200
+Urban Bistro 1677,TT Nagar,Buffet,No,132,3.4,750
+Fusion Dine 1678,TT Nagar,Casual Dining,Yes,267,3.8,900
+Tandoor Hub 1679,TT Nagar,Quick Bites,Yes,78,3.1,350
+Blue Hub 1680,Indrapuri,Cafe,Yes,61,4.4,300
+Blue House 1681,Kolar Road,Desserts,No,236,3.6,500
+Saffron Bistro 1682,MP Nagar,Quick Bites,Yes,225,3.9,350
+Green Bistro 1683,TT Nagar,Casual Dining,No,228,3.7,650
+Royal Bistro 1684,TT Nagar,Desserts,Yes,81,3.4,300
+Fusion Dine 1685,TT Nagar,Desserts,Yes,191,4.1,450
+Urban Hub 1686,Arera Colony,Buffet,No,75,3.8,850
+Tandoor Treats 1687,Arera Colony,Cafe,Yes,67,3.8,200
+Fusion Cafe 1688,TT Nagar,Casual Dining,No,263,3.9,650
+Green Hub 1689,Kolar Road,Desserts,Yes,137,3.3,250
+Saffron Cafe 1690,Bairagarh,Dining,No,335,3.4,800
+Spice Bistro 1691,TT Nagar,Buffet,No,227,3.7,1150
+Urban Corner 1692,Indrapuri,Buffet,No,124,4.3,1050
+Royal Treats 1693,Kolar Road,Quick Bites,No,224,3.3,150
+Tandoor Cafe 1694,Indrapuri,Buffet,No,74,3.3,1000
+Blue Cafe 1695,Kolar Road,Desserts,Yes,214,4.2,450
+Royal Kitchen 1696,MP Nagar,Dining,No,255,3.6,600
+Saffron Cafe 1697,TT Nagar,Quick Bites,Yes,277,4.0,350
+Tandoor House 1698,Arera Colony,Cafe,No,266,4.2,250
+Urban Hub 1699,Indrapuri,Desserts,Yes,238,4.0,200
+Fusion Corner 1700,Kolar Road,Quick Bites,Yes,89,4.2,150
+Tandoor Bistro 1701,MP Nagar,Casual Dining,No,212,3.9,750
+Spice Treats 1702,TT Nagar,Cafe,Yes,227,4.0,500
+Blue Hub 1703,Indrapuri,Dining,No,139,3.7,500
+Royal Cafe 1704,Bairagarh,Dining,No,251,4.1,400
+Fusion Hub 1705,Kolar Road,Dining,No,109,4.1,500
+Green Kitchen 1706,Indrapuri,Quick Bites,No,300,3.6,300
+Blue Kitchen 1707,MP Nagar,Buffet,No,250,4.3,650
+Tandoor Bistro 1708,Arera Colony,Casual Dining,No,149,4.1,700
+Urban Cafe 1709,Kolar Road,Casual Dining,No,315,3.4,800
+Spice Kitchen 1710,TT Nagar,Buffet,No,263,3.7,1150
+Blue Corner 1711,Indrapuri,Desserts,Yes,240,4.1,250
+Royal Kitchen 1712,Kolar Road,Quick Bites,No,117,3.8,300
+Spice Cafe 1713,MP Nagar,Quick Bites,Yes,56,4.0,250
+Fusion Cafe 1714,MP Nagar,Quick Bites,No,103,3.5,400
+Royal House 1715,Kolar Road,Buffet,No,247,3.6,800
+Blue Hub 1716,Bairagarh,Casual Dining,No,235,3.5,950
+Urban Bistro 1717,Indrapuri,Quick Bites,No,150,3.8,200
+Urban House 1718,Bairagarh,Casual Dining,Yes,242,4.2,900
+Royal Corner 1719,MP Nagar,Casual Dining,No,136,3.6,400
+Fusion Hub 1720,Indrapuri,Cafe,No,228,4.4,250
+Royal Corner 1721,TT Nagar,Desserts,No,67,4.3,250
+Green Hub 1722,MP Nagar,Quick Bites,Yes,113,3.9,400
+Royal Dine 1723,Indrapuri,Buffet,Yes,74,3.9,1250
+Tandoor Dine 1724,TT Nagar,Quick Bites,No,206,3.5,300
+Urban Dine 1725,Bairagarh,Desserts,Yes,105,3.9,500
+Green Treats 1726,Kolar Road,Buffet,No,104,4.0,950
+Urban Cafe 1727,Arera Colony,Quick Bites,No,210,3.3,250
+Spice Bistro 1728,Arera Colony,Desserts,No,182,3.7,400
+Tandoor Kitchen 1729,Bairagarh,Casual Dining,Yes,228,3.7,800
+Urban Bistro 1730,Bairagarh,Buffet,No,227,3.3,900
+Fusion Hub 1731,Arera Colony,Dining,No,273,3.3,600
+Saffron Dine 1732,MP Nagar,Desserts,Yes,125,4.2,250
+Urban Bistro 1733,Arera Colony,Cafe,Yes,287,4.1,350
+Tandoor Bistro 1734,TT Nagar,Desserts,No,150,3.8,250
+Tandoor Kitchen 1735,MP Nagar,Quick Bites,Yes,218,3.9,300
+Tandoor Treats 1736,Indrapuri,Dining,No,248,4.2,750
+Green House 1737,Kolar Road,Casual Dining,No,258,4.1,550
+Royal Cafe 1738,Indrapuri,Desserts,Yes,169,3.4,300
+Blue Corner 1739,Kolar Road,Cafe,No,111,3.7,400
+Fusion Treats 1740,Bairagarh,Dining,No,294,3.7,550
+Royal House 1741,Indrapuri,Quick Bites,Yes,105,4.1,150
+Tandoor Kitchen 1742,Arera Colony,Quick Bites,Yes,181,3.8,350
+Green Corner 1743,Arera Colony,Buffet,No,276,3.8,1300
+Saffron House 1744,MP Nagar,Dining,No,346,3.5,450
+Blue Corner 1745,MP Nagar,Buffet,Yes,69,3.6,800
+Green Corner 1746,Indrapuri,Dining,Yes,329,4.1,400
+Royal House 1747,Arera Colony,Dining,No,315,3.9,750
+Fusion Hub 1748,Bairagarh,Quick Bites,No,62,3.3,400
+Tandoor Hub 1749,TT Nagar,Desserts,Yes,237,3.5,300
+Spice Hub 1750,Indrapuri,Dining,No,279,3.3,700
+Spice Cafe 1751,TT Nagar,Buffet,No,253,3.8,650
+Green Hub 1752,Kolar Road,Quick Bites,No,89,3.6,400
+Spice Dine 1753,MP Nagar,Cafe,Yes,130,3.6,250
+Fusion Treats 1754,Kolar Road,Quick Bites,Yes,282,3.3,200
+Saffron Kitchen 1755,Arera Colony,Dining,Yes,82,4.3,800
+Urban Cafe 1756,MP Nagar,Cafe,No,116,4.3,400
+Fusion House 1757,Indrapuri,Quick Bites,Yes,284,3.7,250
+Urban Cafe 1758,Indrapuri,Quick Bites,Yes,134,4.0,200
+Green Hub 1759,Kolar Road,Quick Bites,No,104,3.3,350
+Tandoor Cafe 1760,MP Nagar,Buffet,Yes,71,4.4,1050
+Urban Bistro 1761,Arera Colony,Cafe,Yes,277,3.5,300
+Blue Hub 1762,TT Nagar,Quick Bites,Yes,82,3.6,250
+Urban Bistro 1763,Bairagarh,Buffet,No,234,4.1,1000
+Fusion Kitchen 1764,Arera Colony,Desserts,No,56,3.5,150
+Fusion Cafe 1765,Arera Colony,Quick Bites,Yes,143,3.8,250
+Royal Kitchen 1766,Arera Colony,Desserts,Yes,231,4.3,150
+Blue Treats 1767,Indrapuri,Cafe,Yes,133,3.7,400
+Saffron Cafe 1768,TT Nagar,Casual Dining,Yes,241,4.1,450
+Green Hub 1769,TT Nagar,Quick Bites,No,76,3.3,450
+Spice Dine 1770,Indrapuri,Dining,Yes,113,3.6,800
+Urban Bistro 1771,Kolar Road,Casual Dining,Yes,163,3.7,550
+Saffron Corner 1772,Kolar Road,Quick Bites,Yes,239,4.1,400
+Tandoor Bistro 1773,MP Nagar,Desserts,Yes,61,3.8,350
+Green Kitchen 1774,Kolar Road,Cafe,Yes,216,4.2,400
+Blue Treats 1775,Indrapuri,Desserts,Yes,114,3.4,300
+Tandoor Bistro 1776,MP Nagar,Buffet,Yes,208,4.2,750
+Spice Dine 1777,Kolar Road,Cafe,Yes,133,3.8,250
+Blue Dine 1778,Kolar Road,Quick Bites,No,104,3.8,250
+Urban House 1779,Arera Colony,Quick Bites,Yes,147,3.2,400
+Green House 1780,Arera Colony,Desserts,No,156,4.0,350
+Spice Corner 1781,Arera Colony,Dining,Yes,131,3.7,550
+Green Bistro 1782,Arera Colony,Dining,No,252,3.7,450
+Royal Bistro 1783,MP Nagar,Quick Bites,No,269,3.6,200
+Spice Hub 1784,Arera Colony,Dining,Yes,91,3.8,300
+Saffron Treats 1785,Kolar Road,Casual Dining,No,117,4.3,550
+Fusion Hub 1786,Kolar Road,Buffet,No,268,3.9,900
+Urban Hub 1787,TT Nagar,Quick Bites,No,258,3.1,200
+Blue Treats 1788,MP Nagar,Buffet,Yes,219,3.9,1200
+Fusion Treats 1789,Kolar Road,Quick Bites,Yes,186,3.7,150
+Blue Treats 1790,Bairagarh,Buffet,No,134,3.8,1350
+Green House 1791,MP Nagar,Dining,Yes,192,3.2,900
+Urban Cafe 1792,Bairagarh,Desserts,Yes,164,3.8,350
+Urban Treats 1793,Indrapuri,Dining,No,342,3.4,750
+Green Cafe 1794,Indrapuri,Desserts,Yes,120,3.9,350
+Saffron Corner 1795,Kolar Road,Dining,No,243,4.1,600
+Spice Bistro 1796,Bairagarh,Buffet,No,150,4.0,1300
+Royal Bistro 1797,Bairagarh,Dining,No,89,3.3,800
+Saffron Dine 1798,Kolar Road,Casual Dining,No,151,3.4,550
+Fusion Corner 1799,TT Nagar,Cafe,Yes,304,4.0,300
+Spice House 1800,Indrapuri,Desserts,Yes,166,4.3,450
+Tandoor Bistro 1801,Bairagarh,Cafe,No,173,4.4,350
+Royal Cafe 1802,TT Nagar,Casual Dining,No,156,4.0,650
+Fusion Treats 1803,MP Nagar,Quick Bites,Yes,143,3.2,300
+Spice Hub 1804,Indrapuri,Buffet,No,86,4.3,800
+Green Treats 1805,Kolar Road,Buffet,No,120,3.5,700
+Fusion Hub 1806,Indrapuri,Quick Bites,Yes,106,3.5,200
+Blue Hub 1807,Arera Colony,Cafe,Yes,80,4.1,400
+Spice Dine 1808,Bairagarh,Quick Bites,No,104,3.8,200
+Urban Cafe 1809,Indrapuri,Dining,No,203,3.3,500
+Urban Bistro 1810,MP Nagar,Dining,Yes,209,3.5,400
+Urban House 1811,Bairagarh,Cafe,Yes,78,4.4,400
+Green Kitchen 1812,Kolar Road,Cafe,Yes,145,4.0,350
+Spice Bistro 1813,Indrapuri,Buffet,No,124,3.7,1300
+Saffron Hub 1814,Kolar Road,Casual Dining,Yes,377,3.4,800
+Royal Dine 1815,Bairagarh,Dining,No,99,3.3,400
+Blue Bistro 1816,Indrapuri,Cafe,No,127,3.7,350
+Fusion Dine 1817,Bairagarh,Desserts,Yes,91,3.6,150
+Green Dine 1818,Bairagarh,Desserts,Yes,163,4.0,200
+Urban House 1819,Arera Colony,Desserts,No,130,3.5,400
+Tandoor Dine 1820,Indrapuri,Buffet,No,159,3.4,900
+Urban Hub 1821,Arera Colony,Casual Dining,No,265,4.1,450
+Saffron Bistro 1822,Arera Colony,Buffet,No,275,4.1,900
+Tandoor Corner 1823,Kolar Road,Cafe,Yes,308,3.7,400
+Spice Treats 1824,Arera Colony,Dining,No,331,3.9,650
+Royal Bistro 1825,TT Nagar,Dining,No,171,3.4,450
+Green Kitchen 1826,MP Nagar,Casual Dining,Yes,284,4.2,750
+Fusion Cafe 1827,Indrapuri,Desserts,Yes,75,4.2,250
+Spice Bistro 1828,Arera Colony,Quick Bites,No,298,3.9,400
+Green Kitchen 1829,TT Nagar,Quick Bites,Yes,229,4.2,250
+Fusion Corner 1830,TT Nagar,Dining,No,311,3.6,550
+Royal House 1831,Indrapuri,Cafe,Yes,308,4.3,500
+Royal Dine 1832,Arera Colony,Dining,No,406,3.9,600
+Royal Corner 1833,Arera Colony,Dining,Yes,378,3.7,600
+Fusion Corner 1834,Kolar Road,Dining,Yes,226,4.3,400
+Spice Hub 1835,Kolar Road,Desserts,No,43,4.2,200
+Tandoor Treats 1836,MP Nagar,Quick Bites,Yes,232,3.6,200
+Tandoor Kitchen 1837,Bairagarh,Casual Dining,No,301,3.4,350
+Tandoor Hub 1838,TT Nagar,Dining,No,410,3.7,650
+Spice House 1839,TT Nagar,Casual Dining,Yes,124,3.4,750
+Blue Dine 1840,Bairagarh,Dining,Yes,238,4.3,600
+Spice Corner 1841,TT Nagar,Casual Dining,Yes,255,4.3,650
+Tandoor Kitchen 1842,Indrapuri,Casual Dining,Yes,229,3.7,450
+Urban Hub 1843,TT Nagar,Buffet,No,173,3.6,800
+Blue Dine 1844,MP Nagar,Buffet,Yes,196,3.8,1400
+Royal Hub 1845,Indrapuri,Quick Bites,Yes,256,4.2,250
+Saffron Treats 1846,Bairagarh,Buffet,No,83,3.3,650
+Fusion Hub 1847,TT Nagar,Dining,No,182,4.3,550
+Royal Hub 1848,Kolar Road,Desserts,Yes,176,3.9,400
+Urban Corner 1849,MP Nagar,Dining,No,385,3.6,900
+Green Corner 1850,Indrapuri,Desserts,Yes,177,3.7,250
+Fusion Hub 1851,TT Nagar,Cafe,No,94,3.9,450
+Saffron Hub 1852,TT Nagar,Cafe,Yes,320,4.3,600
+Tandoor Dine 1853,Bairagarh,Cafe,No,320,3.4,400
+Tandoor Hub 1854,Indrapuri,Cafe,No,173,4.5,250
+Urban Hub 1855,MP Nagar,Desserts,Yes,82,3.7,150
+Spice Dine 1856,Arera Colony,Dining,Yes,227,4.0,700
+Blue Cafe 1857,Kolar Road,Quick Bites,No,106,4.1,150
+Fusion House 1858,Arera Colony,Cafe,Yes,85,4.2,300
+Tandoor Bistro 1859,MP Nagar,Cafe,No,202,4.4,500
+Spice Treats 1860,Indrapuri,Buffet,No,251,3.6,850
+Saffron Cafe 1861,Bairagarh,Buffet,Yes,99,3.9,750
+Blue Hub 1862,Kolar Road,Buffet,No,185,4.4,700
+Fusion Hub 1863,MP Nagar,Buffet,No,119,4.1,1400
+Fusion House 1864,TT Nagar,Casual Dining,Yes,313,3.3,850
+Tandoor Cafe 1865,Kolar Road,Casual Dining,No,146,3.4,800
+Urban Cafe 1866,Bairagarh,Desserts,Yes,178,3.5,350
+Saffron House 1867,Bairagarh,Casual Dining,Yes,376,3.6,950
+Fusion Cafe 1868,Kolar Road,Buffet,Yes,109,4.1,1000
+Spice Dine 1869,MP Nagar,Buffet,No,114,4.2,1300
+Saffron House 1870,Indrapuri,Desserts,Yes,106,4.0,250
+Green Cafe 1871,MP Nagar,Quick Bites,Yes,245,3.7,300
+Spice Dine 1872,MP Nagar,Cafe,Yes,195,4.3,500
+Tandoor House 1873,Indrapuri,Quick Bites,No,137,3.2,200
+Urban Kitchen 1874,Kolar Road,Cafe,Yes,189,3.8,550
+Tandoor Treats 1875,Indrapuri,Desserts,Yes,95,3.7,200
+Royal Corner 1876,Arera Colony,Desserts,Yes,103,4.1,450
+Spice Bistro 1877,Arera Colony,Casual Dining,No,124,3.9,650
+Blue Corner 1878,MP Nagar,Cafe,Yes,114,4.4,500
+Royal House 1879,Kolar Road,Quick Bites,Yes,121,3.1,400
+Royal Kitchen 1880,Arera Colony,Quick Bites,Yes,215,3.2,350
+Fusion Treats 1881,MP Nagar,Dining,No,290,4.2,800
+Blue House 1882,Bairagarh,Quick Bites,Yes,112,4.0,350
+Green House 1883,MP Nagar,Dining,Yes,111,3.7,400
+Royal Hub 1884,TT Nagar,Casual Dining,Yes,209,3.4,500
+Saffron Dine 1885,Arera Colony,Dining,No,96,3.3,400
+Tandoor House 1886,Arera Colony,Quick Bites,Yes,151,3.5,200
+Green Bistro 1887,Arera Colony,Desserts,Yes,218,3.7,350
+Blue Kitchen 1888,Indrapuri,Desserts,No,183,4.1,250
+Blue Corner 1889,Kolar Road,Desserts,Yes,107,4.2,200
+Green Dine 1890,MP Nagar,Casual Dining,Yes,252,4.3,700
+Blue Kitchen 1891,Indrapuri,Quick Bites,Yes,156,3.9,400
+Green Corner 1892,Indrapuri,Quick Bites,Yes,224,3.1,250
+Saffron Kitchen 1893,Indrapuri,Quick Bites,Yes,128,3.1,150
+Blue House 1894,Bairagarh,Dining,Yes,334,3.6,600
+Urban Cafe 1895,MP Nagar,Dining,No,447,4.1,500
+Urban House 1896,TT Nagar,Desserts,Yes,140,3.6,300
+Tandoor Bistro 1897,MP Nagar,Desserts,No,233,4.3,200
+Saffron Dine 1898,Kolar Road,Buffet,No,239,3.7,1100
+Urban House 1899,Arera Colony,Casual Dining,Yes,219,3.5,400
+Blue Bistro 1900,Arera Colony,Casual Dining,No,200,4.1,900
+Fusion Hub 1901,Indrapuri,Dining,No,100,3.2,850
+Saffron Dine 1902,Indrapuri,Dining,No,122,3.3,450
+Green Bistro 1903,MP Nagar,Quick Bites,No,123,3.5,450
+Spice Kitchen 1904,Bairagarh,Cafe,Yes,304,4.2,300
+Tandoor Hub 1905,Arera Colony,Dining,Yes,295,3.3,750
+Urban Treats 1906,MP Nagar,Cafe,Yes,65,3.7,450
+Fusion Cafe 1907,Kolar Road,Buffet,No,81,3.7,950
+Tandoor House 1908,Kolar Road,Desserts,Yes,220,3.3,200
+Blue Cafe 1909,Arera Colony,Cafe,Yes,186,4.3,600
+Fusion House 1910,Kolar Road,Dining,No,241,4.3,850
+Tandoor Corner 1911,Kolar Road,Cafe,No,316,3.9,600
+Saffron Treats 1912,TT Nagar,Desserts,Yes,68,4.4,450
+Saffron Kitchen 1913,Bairagarh,Casual Dining,Yes,187,4.0,500
+Tandoor Dine 1914,Indrapuri,Buffet,No,187,3.7,1250
+Royal House 1915,Bairagarh,Desserts,No,237,3.8,300
+Royal House 1916,Kolar Road,Buffet,Yes,83,3.5,900
+Green Bistro 1917,TT Nagar,Quick Bites,No,187,3.4,200
+Royal Corner 1918,MP Nagar,Buffet,Yes,68,4.0,750
+Blue Hub 1919,Arera Colony,Cafe,Yes,318,4.0,300
+Blue Hub 1920,Bairagarh,Dining,No,373,4.0,900
+Blue Hub 1921,Arera Colony,Dining,No,338,3.9,450
+Royal Hub 1922,Kolar Road,Cafe,Yes,308,4.3,300
+Blue Kitchen 1923,Arera Colony,Quick Bites,No,102,3.3,250
+Blue Kitchen 1924,Bairagarh,Buffet,No,256,3.9,1350
+Royal Treats 1925,Arera Colony,Quick Bites,No,207,3.7,200
+Royal Dine 1926,Bairagarh,Quick Bites,Yes,259,3.1,150
+Saffron Corner 1927,TT Nagar,Cafe,No,212,4.0,600
+Spice House 1928,Arera Colony,Desserts,No,236,4.1,200
+Tandoor Treats 1929,MP Nagar,Casual Dining,No,377,4.0,900
+Spice Hub 1930,Bairagarh,Casual Dining,No,132,3.8,1000
+Spice Bistro 1931,MP Nagar,Casual Dining,Yes,129,3.7,550
+Saffron Kitchen 1932,MP Nagar,Quick Bites,No,288,4.0,300
+Green Corner 1933,Arera Colony,Dining,No,269,3.2,400
+Urban House 1934,Arera Colony,Dining,No,420,3.5,550
+Spice Hub 1935,Indrapuri,Casual Dining,No,83,3.9,900
+Spice Treats 1936,MP Nagar,Desserts,No,41,3.4,150
+Urban Bistro 1937,Kolar Road,Casual Dining,No,373,4.4,400
+Spice Treats 1938,Kolar Road,Cafe,No,184,4.0,450
+Saffron Corner 1939,MP Nagar,Quick Bites,No,240,4.0,150
+Green Corner 1940,TT Nagar,Buffet,No,104,3.9,1200
+Spice House 1941,MP Nagar,Cafe,Yes,233,4.2,400
+Spice Kitchen 1942,MP Nagar,Dining,Yes,371,4.2,850
+Tandoor Hub 1943,Kolar Road,Desserts,Yes,127,4.3,300
+Royal House 1944,TT Nagar,Quick Bites,Yes,85,3.4,400
+Spice Treats 1945,Arera Colony,Buffet,Yes,238,3.8,900
+Spice Hub 1946,Bairagarh,Buffet,No,89,4.1,650
+Tandoor Corner 1947,Bairagarh,Quick Bites,Yes,59,3.7,300
+Royal Corner 1948,Kolar Road,Dining,No,107,4.3,500
+Spice Kitchen 1949,Bairagarh,Dining,No,214,4.2,500
+Urban Treats 1950,Indrapuri,Quick Bites,No,120,3.9,400
+Fusion Dine 1951,Arera Colony,Cafe,Yes,286,4.0,600
+Blue House 1952,MP Nagar,Cafe,Yes,297,3.7,400
+Tandoor Bistro 1953,Bairagarh,Desserts,Yes,226,4.0,250
+Urban Cafe 1954,MP Nagar,Cafe,Yes,153,4.1,350
+Saffron Corner 1955,TT Nagar,Dining,No,226,3.7,650
+Saffron Bistro 1956,Kolar Road,Cafe,Yes,278,4.0,500
+Fusion House 1957,Indrapuri,Casual Dining,No,113,3.3,750
+Urban Bistro 1958,Kolar Road,Desserts,No,204,3.5,400
+Spice Dine 1959,MP Nagar,Buffet,No,162,3.9,750
+Royal Corner 1960,Arera Colony,Cafe,Yes,149,3.7,200
+Blue Kitchen 1961,Bairagarh,Buffet,No,168,4.3,600
+Royal Dine 1962,Arera Colony,Buffet,No,113,4.1,950
+Tandoor Dine 1963,MP Nagar,Cafe,Yes,306,4.4,450
+Spice Dine 1964,Arera Colony,Dining,No,282,3.7,800
+Blue Cafe 1965,MP Nagar,Dining,No,376,3.9,850
+Blue Bistro 1966,Bairagarh,Buffet,No,184,3.4,950
+Tandoor Bistro 1967,Indrapuri,Dining,Yes,360,3.6,800
+Green Corner 1968,MP Nagar,Buffet,No,64,4.3,950
+Urban Corner 1969,Arera Colony,Cafe,Yes,315,4.0,500
+Saffron Kitchen 1970,Kolar Road,Dining,No,335,3.6,550
+Spice House 1971,Kolar Road,Desserts,No,110,4.4,200
+Urban Dine 1972,Bairagarh,Casual Dining,No,277,4.2,450
+Green House 1973,Bairagarh,Cafe,Yes,206,4.2,400
+Spice Bistro 1974,MP Nagar,Quick Bites,Yes,78,3.3,250
+Fusion Hub 1975,Indrapuri,Buffet,No,144,4.4,850
+Royal House 1976,Arera Colony,Quick Bites,No,297,3.1,400
+Green Bistro 1977,MP Nagar,Desserts,Yes,92,3.6,250
+Fusion House 1978,Indrapuri,Casual Dining,No,149,4.1,750
+Blue Kitchen 1979,Arera Colony,Casual Dining,Yes,331,3.5,700
+Saffron Cafe 1980,MP Nagar,Dining,No,146,4.1,800
+Saffron House 1981,TT Nagar,Desserts,Yes,110,3.9,400
+Fusion Corner 1982,Kolar Road,Cafe,Yes,225,3.7,350
+Saffron Hub 1983,Kolar Road,Cafe,Yes,194,3.5,250
+Blue House 1984,Kolar Road,Quick Bites,Yes,127,4.0,150
+Fusion Hub 1985,Indrapuri,Quick Bites,Yes,241,4.1,150
+Tandoor House 1986,Arera Colony,Dining,No,127,4.1,350
+Green Bistro 1987,Kolar Road,Dining,Yes,386,3.3,500
+Royal Bistro 1988,MP Nagar,Dining,No,97,3.6,450
+Fusion Treats 1989,Indrapuri,Buffet,No,65,4.1,1000
+Spice Corner 1990,TT Nagar,Quick Bites,Yes,230,4.1,450
+Urban House 1991,Arera Colony,Quick Bites,No,151,4.1,150
+Spice Corner 1992,Arera Colony,Casual Dining,No,365,3.7,700
+Tandoor House 1993,Arera Colony,Quick Bites,Yes,145,4.1,350
+Green Cafe 1994,Indrapuri,Buffet,No,182,3.7,1000
+Blue House 1995,TT Nagar,Buffet,No,269,4.4,1300
+Blue Kitchen 1996,MP Nagar,Quick Bites,Yes,69,4.0,200
+Spice Treats 1997,Kolar Road,Desserts,No,124,3.6,450
+Blue Bistro 1998,Arera Colony,Cafe,Yes,104,4.3,500
+Blue Hub 1999,TT Nagar,Quick Bites,Yes,101,3.2,350
+Tandoor House 2000,Kolar Road,Cafe,Yes,301,4.1,600
